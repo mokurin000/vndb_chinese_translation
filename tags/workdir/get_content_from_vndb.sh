@@ -8,3 +8,8 @@ done
 
 cat *|hq td.tc3 text|grep -v deleted|grep -v ▴▾ > 0
 cat *|hq td.tc3 data|grep -v deleted|hq a attr href|grep -v o > 1
+
+paste 0 1|sort|gawk '{print $NF}' > 2
+../process.sh < 2 > 3
+mv 3 ../../tags_note.txt
+

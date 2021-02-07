@@ -8,4 +8,4 @@ rm pipe.txt
 for a in {1..`wc tags.txt|gawk '{print $1}'`} 
 do echo \| >> pipe.txt
 done
-paste ./tags.txt ./pipe.txt ./tags_cn.txt ./pipe.txt ./tags_note.txt>> $output_file
+paste ./tags.txt ./pipe.txt ./tags_cn.txt ./pipe.txt ./tags_note_cn.txt>> $output_file
