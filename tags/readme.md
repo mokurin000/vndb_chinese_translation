@@ -1,5 +1,5 @@
 English 英文 | Chinese 中文 |注释 
--------------------------------- |------------------------------- |-----------------------------
+-------------------------------- |------------------------------- |---------------------------------------------------------------
 [Sexual Content](https://vndb.org/g23) | Sexual Content | This tag can be used for the games that has <a href=http://en.wikipedia.org/wiki/Sexual_content>erotic content</a>. It is recommended to use its child-tags to provide further details instead when applicable.
 [ADV](https://vndb.org/g32) | ADV | In these games, the box with the text occupies only part of the screen, usually at the bottom. This is by far the most common text presentation method. If the textbox is not in the same position every time, use the <a href=http://vndb.org/g398>Floating Textbox</a> tag instead of this one. If a game uses both <a href=http://vndb.org/g43>full-screen</a> and part-screen textboxes, apply both tags to it. <a href=http://s.vndb.org/sf/01/6101.jpg>Example 1</a> <a href=http://s.vndb.org/sf/04/1304.jpg>Example 2</a>
 [Male Protagonist](https://vndb.org/g133) | Male Protagonist | These games have a male protagonist.
