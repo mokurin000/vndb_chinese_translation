@@ -6,6 +6,8 @@ Warning: this project have links refers to NSFW images included
 
 ## 阅读
 
+本项目标签顺序为相关虚拟小说数量降序排序。
+
 推荐使用 https://typora.io/ 阅读 Markdown
 
 ## 依赖
