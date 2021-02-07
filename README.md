@@ -1,8 +1,8 @@
 # vndb_chinese_translation
 
-Warning: this project have NSFW images included
+Warning: this project have links refers to NSFW images included
 
-警告：本项目包含NSFW图像
+警告：本项目包含指向NSFW图像的链接
 
 ## 阅读
 
