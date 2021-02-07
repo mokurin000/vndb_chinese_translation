@@ -6,7 +6,7 @@
 
 正在尝试做github预览的自动换行
 
-https://gitlocalize.com/repo/5720 参与汉化
+https://gitlocalize.com/repo/5720 本想用这个汉化 但是它不支持表格 qs
 
 ## 依赖
 
