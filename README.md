@@ -2,9 +2,11 @@
 
 ## 依赖
 
-本项目使用的脚本使用了
+本项目使用了这个工具
 
-`curl` `hq` `gawk` `zsh`
+https://crates.io/crates/vndb_tags_get
+
+即将上传release到github（也许）
 
 ## 贡献
 
