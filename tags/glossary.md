@@ -1,4 +1,5 @@
 # vndb标签中英对照表
+English 英文                     | Chinese 中文
 -------------------------------  |-----------------------------
 1001 Nights	|	1001 Nights
 100% Completion Bonus	|	100% Completion Bonus
