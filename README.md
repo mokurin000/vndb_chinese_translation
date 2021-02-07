@@ -1,5 +1,9 @@
 # vndb_chinese_translation
 
+Warning: this project have NSFW images included
+
+警告：本项目包含NSFW图像
+
 ## 阅读
 
 推荐使用 https://typora.io/ 阅读 Markdown
