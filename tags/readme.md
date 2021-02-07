@@ -5,59 +5,59 @@
 
 English 英文                     | Chinese 中文                  |注释
 --------------------------------  |-------------------------------  |-----------------------------
-1001 Nights	|	一千零一夜	|	One Thousand and One Nights is a collection of Middle Eastern folk tales compiled in Arabic during the Islamic Golden Age. This is different from the Middle Eastern tag as stories in the 1001 Nights Universe are mostly fantasy and historicaly oriented.
-100% Completion Bonus	|	100% 完成奖励	|	A VN with this tag offers special rewards for achieving 100% completion.
-19th Century	|	19世纪	|	---
-2000s	|	2000年代	|	-----
-20's	|	20年代	|	For games using native 16:9 resolution
-20th Century	|	20世纪	|	This story takes place sometime during the years 1801-1900 on Earth.
-30's	|	30年代	|	-----
-40's	|	40年代	|	This story takes place at a time between years 2000-2009 on Earth.
-50's	|	50年代	|	This story takes place at a time between years 1920-1929 on Earth.
-60's	|	60年代	|	This story takes place at a time between years 1901-2000 on Earth.
-70's	|	70年代	|	This story takes place at a time between years 1930-1939 on Earth.
-80's	|	80年代	|	This story takes place at a time between years 1940-1949 on Earth.
-90's	|	90年代	|	The gameplay is authentic 4-players Mahjong.
-Achievements	|	成就	|	This story takes place at a time between years 1950-1959 on Earth.
-Action	|	动作	|	This story takes place at a time between years 1960-1969 on Earth.
-Action Game	|	动作游戏	|	This story takes place at a time between years 1970-1979 on Earth.
-Actor/Actress Protagonist	|	演员主角	|	This story takes place at a time between years 1980-1989 on Earth.
-Actor Hero	|	演员男主角	|	A major part of the story takes place during the years 1990-1999.
+1001 Nights	|	一千零一夜	|	《一千零一夜》是伊斯兰黄金时代用阿拉伯语编撰的中东民间故事集。这与中东标签不同，因为《一千零一夜》宇宙中的故事多以奇幻和历史为主。
+100% Completion Bonus	|	100% 完成奖励	|	带有这个标签的虚拟小说，只要达到100%的完成度，就可以获得特殊奖励。
+19th Century	|	19世纪	|	这个故事发生在地球上1801-1900年的某个时候。
+2000s	|	2000年代	|	这个故事发生在地球上2000-2009年之间的时间。
+20's	|	20年代	|	这个故事发生在地球上1920-1929年之间的时间。
+20th Century	|	20世纪	|	这个故事发生在地球上1801-1900年的某个时候。
+30's	|	30年代	|	这个故事发生在地球上1930-1939年之间。
+40's	|	40年代	|	这个故事发生在地球上2000-2009年之间的时间。
+50's	|	50年代	|	这个故事发生在地球上1920-1929年之间的时间。
+60's	|	60年代	|	这个故事发生在地球上1901-2000年之间的时间。
+70's	|	70年代	|	这个故事发生在地球上1930-1939年之间的时间。
+80's	|	80年代	|	这个故事发生在地球上1940-1949年之间的时间。
+90's	|	90年代	|	游戏的玩法是正宗的4人麻将。
+Achievements	|	成就	|	这个故事发生在地球上1950-1959年之间的时间。
+Action	|	动作	|	这个故事发生在地球上1960-1969年之间的时间。
+Action Game	|	动作游戏	|	这个故事发生在地球上1970-1979年之间的时间。
+Actor/Actress Protagonist	|	演员主角	|	这个故事发生在地球上1980-1989年之间的时间。
+Actor Hero	|	演员男主角	|	故事的主要部分发生在1990-1999年期间。
 Actress Heroine	|	演员女主角	|	-----
-Addict Heroine	|	Addict 女主角	|	This game contains scenes of someone being absorbed in part or as a whole into another being, usually a non-humanoid.
-Addict Protagonist	|	Addict 主角	|	This game contains an achievements/trophies system.
-Adolescent Romance	|	Adolescent Romance	|	This game features elements and themes related to the action genre.
-Adult Breast Feeding	|	Adult Breast Feeding	|	This tag indicates that the game includes gameplay sequences challenging the player's speed, dexterity and reaction time.
-Adult Hero	|	成年男主角	|	One or more protagonists in this game are actors/actresses.
-Adult Heroine	|	成年女主角	|	One or more heros in this game are actors.
-Adult Protagonist	|	成年主角	|	One or more heroines in this game are actresses.
-ADV	|	冒险游戏	|	The visual novel has at least one heroine who has some sort of addiction.
-African Hero	|	African 男主角	|	The visual novel has a protagonist who has some sort of addiction.
-African Heroine	|	African 女主角	|	These games don't have an in-game way of seeing the adult content. In the past, customers would have to buy a separate disk from the publisher in order to see any 18+ Content. Nowadays publishers typically release a free patch for their customers to download.
-African Protagonist	|	African 主角	|	wew
-Afterlife	|	死后生活	|	In this visual novel the text box window's transparency/opacity can be adjusted from the game's settings menu.
-Ahegao	|	Ahegao	|	This visual novel was made using [ Adobe Flash].
-AI Hero	|	AI 男主角	|	This story spends 'a lot of time' realizing the love between the couples in question because of any combination of the reasons below:
-AI Heroine	|	AI 女主角	|	This VN contains scenes involving erotic lactation.
-AI Protagonist	|	AI 主角	|	This VN has at least one scene where an adult character practice cosplay wearing teen clothes: school uniform, sport bloomers, cheerleding uniform or other clothes related to teen or high school life.
-Airhead Hero	|	Airhead 男主角	|	One or more of the heroes in this game are adults.
-Airhead Heroine	|	Airhead 女主角	|	One or more of the heroines in this game are adults.
-Airhead Protagonist	|	Airhead 主角	|	The protagonist of this game is an adult.
-Airplane	|	飞机	|	In these games, the box with the text occupies only part of the screen, usually at the bottom. This is by far the most common text presentation method.
-Airplane Combat	|	飞机作战	|	This visual novel is consantly mixing both ADV and NVL styles of text, the game keeps switching between styles.
-Albino Hero	|	Albino 男主角	|	This game has at least one hero who is African.
-Albino Heroine	|	Albino 女主角	|	This game has at least one heroine who is African.
-Albino Protagonist	|	Albino 主角	|	The protagonist of this game is African.
-Alchemy	|	Alchemy	|	A visual novel takes place in the afterlife, be it based on an existing mythological concept (such as heaven and hell in Abrahamic religions or Purgatory in Catholicism) or not.
-Alcoholism	|	Alcoholism	|	Games that have some scenes in which a dedicated CG is shown after the sex scene showing the results of it.
-Alien Hero	|	外星人男主角	|	Also known as "fucked silly".
-Alien Heroine	|	外星人女主角	|	The ahegao is an overly exaggerated orgasmic expression, the eyes usually rolled up with teardrops/sweat at times, the mouth wide open with the tongue sticking out and blushing cheeks.
-Alien Protagonist	|	外星人主角	|	One ore more of the heroes is an artificial intelligence.
-All Adult Heroes	|	全成年男主角	|	These games have at least one heroine that is an artificial intelligence.
-All Adult Heroines	|	全成年女主角	|	The protagonist is an artificial intelligence.
-All-boys School	|	男子学校，女子学院	|	One of the heroes is an airhead.
-All-girls School	|	女子学校，女子学院	|	One of the heroines is an airhead.
-All Heroes Are Protagonist's Brothers	|	男主角均为主角的兄弟	|	Protagonist is an airhead.
+Addict Heroine	|	Addict 女主角	|	这款游戏包含了某人被部分或整体吸收到另一个生物中的场景，通常是一个非人形生物。
+Addict Protagonist	|	Addict 主角	|	本游戏包含成就/奖杯系统。
+Adolescent Romance	|	Adolescent Romance	|	这个游戏的特色是与动作类型相关的元素和主题。
+Adult Breast Feeding	|	Adult Breast Feeding	|	此标签表示游戏包含了挑战玩家速度、灵活性和反应时间的游戏序列。
+Adult Hero	|	成年男主角	|	本游戏中的一个或多个主角是演员/女演员。
+Adult Heroine	|	成年女主角	|	本游戏中的一个或多个英雄是演员。
+Adult Protagonist	|	成年主角	|	本游戏中的一个或多个女主角是女演员。
+ADV	|	冒险游戏	|	视觉小说中至少有一个女主角有某种癖好。
+African Hero	|	African 男主角	|	视觉小说中的主角有某种成瘾。
+African Heroine	|	African 女主角	|	这些游戏没有在游戏中看到成人内容的方式。在过去，客户必须向发行商单独购买一张磁盘才能看到任何18岁以上的内容。现在，发行商通常会发布一个免费补丁供客户下载。
+African Protagonist	|	African 主角	|	这款游戏的主角是非洲人。非洲人指的是非洲的本地人或居民以及非洲裔的人。
+Afterlife	|	死后生活	|	这款游戏的主角是非洲人。非洲人指的是非洲的本地人或居民以及非洲裔的人。在这款视觉小说中，文本框窗口的透明度/容量可以从游戏的设置菜单中调整。
+Ahegao	|	Ahegao	|	这个视觉小说是用【Adobe Flash】制作的。
+AI Hero	|	AI 男主角	|	本故事由于以下原因的任意组合，花了'很多时间'实现了有关情侣之间的爱情。
+AI Heroine	|	AI 女主角	|	这个VN包含了涉及色情哺乳的场景。
+AI Protagonist	|	AI 主角	|	本VN至少有一个成人角色穿着青少年服装练习Cosplay的场景：校服、运动装、啦啦队服或其他与青少年或高中生活有关的服装。
+Airhead Hero	|	Airhead 男主角	|	本游戏中的一个或多个男主角是成年人。
+Airhead Heroine	|	Airhead 女主角	|	本游戏中的一个或多个女主角都是成年人。
+Airhead Protagonist	|	Airhead 主角	|	本游戏中的主角是成年人。
+Airplane	|	飞机	|	在这些游戏中，带有文字的方框只占据了屏幕的一部分，通常在底部。这是到目前为止最常见的文字表现方法。
+Airplane Combat	|	飞机作战	|	这款视觉小说是consantly混合了ADV和NVL两种风格的文字，游戏一直在风格之间切换。
+Albino Hero	|	Albino 男主角	|	这款游戏至少有一个英雄是非洲人。
+Albino Heroine	|	Albino 女主角	|	这款游戏至少有一个女主角是非洲人。
+Albino Protagonist	|	Albino 主角	|	这款游戏的主角是非洲人。
+Alchemy	|	Alchemy	|	视觉小说发生在来世，无论它是否基于现有的神话概念（如亚伯拉罕教的天堂和地狱或天主教的炼狱）。
+Alcoholism	|	Alcoholism	|	游戏中，有些场景在性爱场景后，会有专门的CG显示其结果。
+Alien Hero	|	外星人男主角	|	也就是所谓的 "操傻了"。
+Alien Heroine	|	外星人女主角	|	ahegao是一种过于夸张的高潮表情，眼睛通常会翻起，有时会有泪珠/汗水，嘴巴大张，舌头伸出来，脸颊泛红。
+Alien Protagonist	|	外星人主角	|	其中一个以上的英雄是人工智能。
+All Adult Heroes	|	全成年男主角	|	这些游戏至少有一个女主角是人工智能。
+All Adult Heroines	|	全成年女主角	|	主角是一个人工智能。
+All-boys School	|	男子学校，女子学院	|	其中一个男主角是个空气头。
+All-girls School	|	女子学校，女子学院	|	其中一个女主角是个空气头。
+All Heroes Are Protagonist's Brothers	|	男主角均为主角的兄弟	|	主角是个空气头。
 All Heroines are Protagonist's Sister(s)	|	女主角均为主角的妹妹	|	At least one of the support characters is an absolute airhead, happy-go-lucky-no-common-sense whatsoever girl.
 All Loli Heroines	|	全萝莉女主角	|	This game features battles fought in the skies with airplanes.
 All Older Heroines	|	全更年长女主角	|	Significant portions of the game is set on an airplane. Expect a lot time spent among the clouds.
