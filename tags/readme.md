@@ -18,52 +18,52 @@ Achievements	|	成就	|
 Action	|	动作	|
 Action Game	|	动作游戏	|
 Actor/Actress Protagonist	|	Actor/Actress Protagonist	|
-Actor Hero	|	Actor Hero	|
+Actor Hero	|	Actor 男主角	|
 Actress Heroine	|	Actress 女主角	|
 Addict Heroine	|	Addict 女主角	|
 Addict Protagonist	|	Addict Protagonist	|
 Adolescent Romance	|	Adolescent Romance	|
 Adult Breast Feeding	|	Adult Breast Feeding	|
-Adult Hero	|	Adult Hero	|
+Adult Hero	|	Adult 男主角	|
 Adult Heroine	|	Adult 女主角	|
 Adult Protagonist	|	Adult Protagonist	|
 ADV	|	冒险游戏	|
-African Hero	|	African Hero	|
+African Hero	|	African 男主角	|
 African Heroine	|	African 女主角	|
 African Protagonist	|	African Protagonist	|
 Afterlife	|	死后生活	|
 Ahegao	|	Ahegao	|
-AI Hero	|	AI Hero	|
+AI Hero	|	AI 男主角	|
 AI Heroine	|	AI 女主角	|
 AI Protagonist	|	AI Protagonist	|
-Airhead Hero	|	Airhead Hero	|
+Airhead Hero	|	Airhead 男主角	|
 Airhead Heroine	|	Airhead 女主角	|
 Airhead Protagonist	|	Airhead Protagonist	|
 Airplane	|	飞机	|
 Airplane Combat	|	飞机作战	|
-Albino Hero	|	Albino Hero	|
+Albino Hero	|	Albino 男主角	|
 Albino Heroine	|	Albino 女主角	|
 Albino Protagonist	|	Albino Protagonist	|
 Alchemy	|	Alchemy	|
 Alcoholism	|	Alcoholism	|
-Alien Hero	|	Alien Hero	|
+Alien Hero	|	Alien 男主角	|
 Alien Heroine	|	Alien 女主角	|
 Alien Protagonist	|	Alien Protagonist	|
-All Adult Heroes	|	All Adult Heroes	|
+All Adult Heroes	|	All Adult 男主角es	|
 All Adult Heroines	|	All Adult 女主角s	|
 All-boys School	|	All-boys School	|
 All-girls School	|	All-girls School	|
-All Heroes Are Protagonist's Brothers	|	All Heroes Are Protagonist's Brothers	|
+All Heroes Are Protagonist's Brothers	|	All 男主角es Are Protagonist's Brothers	|
 All Heroines are Protagonist's Sister(s)	|	All 女主角s are Protagonist's Sister(s)	|
 All Loli Heroines	|	All Loli 女主角s	|
 All Older Heroines	|	All Older 女主角s	|
-All Shota Heroes	|	All Shota Heroes	|
+All Shota Heroes	|	All Shota 男主角es	|
 All the Way Through	|	All the Way Through	|
 All Younger Heroines	|	All Younger 女主角s	|
 Alternate Dimensions	|	Alternate Dimensions	|
 Alternate Starting Point	|	Alternate Starting Point	|
 Ambient Sounds	|	Ambient Sounds	|
-American Hero	|	American Hero	|
+American Hero	|	American 男主角	|
 American Heroine	|	American 女主角	|
 American Protagonist	|	American Protagonist	|
 Amnesia	|	Amnesia	|
@@ -84,7 +84,7 @@ Anal Toys	|	肛门玩具，肛门的玩具	|
 Anal Vore	|	Anal Vore	|
 Ancient Rome	|	Ancient Rome	|
 Androphobic Heroine	|	Androphobic 女主角	|
-Angel Hero	|	Angel Hero	|
+Angel Hero	|	Angel 男主角	|
 Angel Heroine	|	Angel 女主角	|
 Angel Protagonist	|	Angel Protagonist	|
 Angels	|	天使	|
@@ -112,21 +112,21 @@ Armbinder	|	Armbinder	|
 Armpit Licking	|	Armpit Licking	|
 Armpit Sex	|	Armpit Sex	|
 Arranged Marriage	|	Arranged Marriage	|
-Arrogant Hero	|	Arrogant Hero	|
+Arrogant Hero	|	Arrogant 男主角	|
 Arrogant Heroine	|	Arrogant 女主角	|
 Arrogant Protagonist	|	Arrogant Protagonist	|
 Artificial Intelligence	|	Artificial Intelligence	|
-Artist Hero	|	Artist Hero	|
+Artist Hero	|	Artist 男主角	|
 Artist Heroine	|	Artist 女主角	|
 Artist Protagonist	|	Artist Protagonist	|
 Asian-style Castle	|	Asian-style Castle	|
 Asian-style Manor	|	Asian-style Manor	|
 Asian-style Palace	|	Asian-style Palace	|
-Assassin Hero	|	Assassin Hero	|
+Assassin Hero	|	Assassin 男主角	|
 Assassin Heroine	|	Assassin 女主角	|
 Assassin Protagonist	|	Assassin Protagonist	|
 Astronomy Club	|	Astronomy Club	|
-Athlete Hero	|	Athlete Hero	|
+Athlete Hero	|	Athlete 男主角	|
 Athlete Heroine	|	Athlete 女主角	|
 Athlete Protagonist	|	Athlete Protagonist	|
 Athletics Festival	|	Athletics Festival	|
@@ -144,7 +144,7 @@ Autofellatio	|	Autofellatio	|
 Autopenetration	|	Autopenetration	|
 Autosave Only	|	Autosave Only	|
 Autumn	|	Autumn	|
-Avoidable Death of Hero	|	Avoidable Death of Hero	|
+Avoidable Death of Hero	|	Avoidable Death of 男主角	|
 Avoidable Death of Heroine	|	Avoidable Death of 女主角	|
 Avoidable Death of Protagonist	|	Avoidable Death of Protagonist	|
 Avoidable Netorare	|	Avoidable Netorare	|
@@ -158,11 +158,11 @@ Back Skip Function	|	Back Skip Function	|
 Bad Ending(s)	|	坏结局，BE	|
 Bad Endings with Story	|	坏结局有剧情	|
 Bad True End	|	坏真结局	|
-Baker Hero	|	Baker Hero	|
+Baker Hero	|	Baker 男主角	|
 Baker Heroine	|	Baker 女主角	|
 Baker Protagonist	|	Baker Protagonist	|
 Bakumatsu Era	|	Bakumatsu Era	|
-Bald Hero	|	Bald Hero	|
+Bald Hero	|	Bald 男主角	|
 Bald Heroine	|	Bald 女主角	|
 Bald Protagonist	|	Bald Protagonist	|
 Ballbusting	|	Ballbusting	|
@@ -172,7 +172,7 @@ Balls Sucking	|	Balls Sucking	|
 Bar	|	Bar	|
 Bara	|	Bara	|
 Barmaid Heroine	|	Barmaid 女主角	|
-Bartender Hero	|	Bartender Hero	|
+Bartender Hero	|	Bartender 男主角	|
 Bartender Protagonist	|	Bartender Protagonist	|
 Baseball	|	Baseball	|
 Baseball Club	|	Baseball Club	|
@@ -188,7 +188,7 @@ Battle Royale	|	Battle Royale	|
 BDSM	|	BDSM	|
 Beach	|	Beach	|
 Beat 'em Up	|	Beat 'em Up	|
-Beautician Hero	|	Beautician Hero	|
+Beautician Hero	|	Beautician 男主角	|
 Beauty Pageant	|	Beauty Pageant	|
 Bellyjob	|	Bellyjob	|
 Bestiality	|	Bestiality	|
@@ -202,7 +202,7 @@ Biological Weapon	|	Biological Weapon	|
 Birds	|	Birds	|
 Birth not applicable	|	Birth not applicable	|
 Birthrate Decline	|	Birthrate Decline	|
-Bisexual Hero	|	Bisexual Hero	|
+Bisexual Hero	|	Bisexual 男主角	|
 Bisexual Heroine	|	Bisexual 女主角	|
 Bisexual Protagonist	|	Bisexual Protagonist	|
 Bishoujo Senshi Sailor Moon	|	Bishoujo Senshi Sailor Moon	|
@@ -211,17 +211,17 @@ Black Comedy	|	Black Comedy	|
 Blackmail	|	Blackmail	|
 Bleep Censor	|	Bleep Censor	|
 Blind Choices	|	Blind Choices	|
-Blind Hero	|	Blind Hero	|
+Blind Hero	|	Blind 男主角	|
 Blind Heroine	|	Blind 女主角	|
 Blind Protagonist	|	Blind Protagonist	|
 Bloodplay	|	Bloodplay	|
 Blood-related Aunt/Nephew Incest	|	Blood-related Aunt/Nephew Incest	|
 Blood-related Brother/Brother Incest	|	Blood-related Brother/Brother Incest	|
-Blood-related Brother Hero	|	Blood-related Brother Hero	|
+Blood-related Brother Hero	|	Blood-related Brother 男主角	|
 Blood-related Brother/Sister Incest	|	Blood-related Brother/Sister Incest	|
 Blood-related Cousin Incest	|	Blood-related Cousin Incest	|
 Blood-related Father/Daughter Incest	|	Blood-related Father/Daughter Incest	|
-Blood-related Father Hero	|	Blood-related Father Hero	|
+Blood-related Father Hero	|	Blood-related Father 男主角	|
 Blood-related Father/Son Incest	|	Blood-related Father/Son Incest	|
 Blood-related Grandmother/Grandson Incest	|	Blood-related Grandmother/Grandson Incest	|
 Blood-related Incest not applicable	|	Blood-related Incest not applicable	|
@@ -239,7 +239,7 @@ Boarding House	|	Boarding House	|
 Boarding School	|	Boarding School	|
 Body Fluid Tube	|	Body Fluid Tube	|
 Body Food	|	Body Food	|
-Bodyguard Hero	|	Bodyguard Hero	|
+Bodyguard Hero	|	Bodyguard 男主角	|
 Bodyguard Heroine	|	Bodyguard 女主角	|
 Bodyguard Protagonist	|	Bodyguard Protagonist	|
 Body Hair Option	|	Body Hair Option	|
@@ -259,7 +259,7 @@ Bonus Episodes	|	Bonus Episodes	|
 Boobjob not applicable	|	Boobjob not applicable	|
 Boobs on Glass	|	Boobs on Glass	|
 Book Heroine	|	Book 女主角	|
-Bookworm Hero	|	Bookworm Hero	|
+Bookworm Hero	|	Bookworm 男主角	|
 Bookworm Heroine	|	Bookworm 女主角	|
 Bookworm Protagonist	|	Bookworm Protagonist	|
 Both Male and Female Love Interests	|	Both Male and Female Love Interests	|
@@ -295,10 +295,10 @@ Built-in Encyclopedia	|	Built-in Encyclopedia	|
 Built-in Flowchart	|	Built-in Flowchart	|
 Bukkake	|	Bukkake	|
 Bullying	|	Bullying	|
-Bunnyboy Hero	|	Bunnyboy Hero	|
+Bunnyboy Hero	|	Bunnyboy 男主角	|
 Bunnygirl Cosplay	|	Bunnygirl Cosplay	|
 Businesswoman Heroine	|	Businesswoman 女主角	|
-Butler Hero	|	Butler Hero	|
+Butler Hero	|	Butler 男主角	|
 Butler Heroine	|	Butler 女主角	|
 Butler Protagonist	|	Butler Protagonist	|
 Butler Support Character	|	Butler Support Character	|
@@ -315,18 +315,18 @@ Casino	|	Casino	|
 Casting Couch	|	Casting Couch	|
 Castle	|	Castle	|
 Castration	|	Castration	|
-Catboy Hero	|	Catboy Hero	|
+Catboy Hero	|	Catboy 男主角	|
 Cat Cosplay	|	Cat Cosplay	|
 Catgirl Heroine	|	Catgirl 女主角	|
 Catgirl Support Character	|	猫娘配角	|
 Cats	|	猫（娘）	|
-Celestial Body Hero	|	Celestial Body Hero	|
+Celestial Body Hero	|	Celestial Body 男主角	|
 Celestial Body Heroine	|	Celestial Body 女主角	|
 Celestial Body Protagonist	|	Celestial Body Protagonist	|
 Celtic Mythology	|	Celtic Mythology	|
 Censored Text	|	Censored Text	|
 Central America	|	Central America	|
-Central Hero	|	Central Hero	|
+Central Hero	|	Central 男主角	|
 Central Heroine	|	Central 女主角	|
 Changeable Clothes	|	Changeable Clothes	|
 Changeable Font	|	Changeable Font	|
@@ -338,7 +338,7 @@ Character Skin Colors not applicable, not searchable	|	Character Skin Colors not
 Charming Protagonist	|	Charming Protagonist	|
 Cheat Codes	|	Cheat Codes	|
 Checkpoints	|	Checkpoints	|
-Cheerful Hero	|	Cheerful Hero	|
+Cheerful Hero	|	Cheerful 男主角	|
 Cheerleader Heroine	|	Cheerleader 女主角	|
 Cherry Blossom	|	Cherry Blossom	|
 Chikan	|	Chikan	|
@@ -347,13 +347,13 @@ Chikan Protagonist	|	Chikan Protagonist	|
 Child Abuse not applicable	|	Child Abuse not applicable	|
 Childhood Friend Support Character	|	Childhood Friend Support Character	|
 Childhood Promise	|	Childhood Promise	|
-Childishly Violent Hero	|	Childishly Violent Hero	|
+Childishly Violent Hero	|	Childishly Violent 男主角	|
 Childishly Violent Heroine	|	Childishly Violent 女主角	|
 Childishly Violent Protagonist	|	Childishly Violent Protagonist	|
 Child Protagonist	|	Child Protagonist	|
 Children Ending	|	Children Ending	|
 Child Support Character	|	Child Support Character	|
-Chinese Hero	|	Chinese Hero	|
+Chinese Hero	|	Chinese 男主角	|
 Chinese Heroine	|	Chinese 女主角	|
 Chinese Mythology	|	Chinese Mythology	|
 Chinese Protagonist	|	Chinese Protagonist	|
@@ -363,25 +363,25 @@ Choices with 4 or More Options	|	Choices with 4 or More Options	|
 Chosen Choices Marking	|	Chosen Choices Marking	|
 Christian Church	|	Christian Church	|
 Christian Mythology	|	Christian Mythology	|
-Chubby Hero	|	Chubby Hero	|
+Chubby Hero	|	Chubby 男主角	|
 Chubby Heroine	|	Chubby 女主角	|
 Chubby Protagonist	|	Chubby Protagonist	|
 Church	|	Church	|
 Church Sex	|	Church Sex	|
-Chuunibyou Hero	|	Chuunibyou Hero	|
+Chuunibyou Hero	|	Chuunibyou 男主角	|
 Chuunibyou Heroine	|	Chuunibyou 女主角	|
 Chuunibyou Protagonist	|	Chuunibyou Protagonist	|
 City Building Game	|	City Building Game	|
 Clamps (BDSM)	|	Clamps (BDSM)	|
 Classic Tsundere Heroine	|	Classic Tsundere 女主角	|
-Class President Hero	|	Class President Hero	|
+Class President Hero	|	Class President 男主角	|
 Class President Heroine	|	Class President 女主角	|
 Class President Protagonist	|	Class President Protagonist	|
 Clicker Game	|	Clicker Game	|
 Cliffhanger Ending	|	Cliffhanger Ending	|
 Clitoris Growth	|	Clitoris Growth	|
 Clock Tower	|	Clock Tower	|
-Clone Hero	|	Clone Hero	|
+Clone Hero	|	Clone 男主角	|
 Clone Heroine	|	Clone 女主角	|
 Clone Protagonist	|	Clone Protagonist	|
 Cloning	|	Cloning	|
@@ -392,7 +392,7 @@ Clothed Male Naked Female	|	Clothed Male Naked Female	|
 Clothed Male Naked Male	|	Clothed Male Naked Male	|
 Clothing Damage	|	衣物破损	|
 Clothing ON/OFF	|	衣物开关	|
-Coach Hero	|	Coach Hero	|
+Coach Hero	|	Coach 男主角	|
 Coach Heroine	|	Coach 女主角	|
 Coach Protagonist	|	Coach Protagonist	|
 Cock and Ball Torture	|	Cock and Ball Torture	|
@@ -419,10 +419,10 @@ Comedic Love Triangle	|	Comedic Love Triangle	|
 Comedic Sex Scenes	|	Comedic Sex Scenes	|
 Comedy	|	Comedy	|
 Comedy Rape	|	Comedy Rape	|
-Comical Hero	|	Comical Hero	|
+Comical Hero	|	Comical 男主角	|
 Comic Convention	|	Comic Convention	|
 Coming-of-Age Drama	|	Coming-of-Age Drama	|
-Company President Hero awaiting moderation	|	Company President Hero awaiting moderation	|
+Company President Hero awaiting moderation	|	Company President 男主角 awaiting moderation	|
 Competition	|	Competition	|
 Completion Status Indicator	|	Completion Status Indicator	|
 Concentration (Game)	|	Concentration (Game)	|
@@ -444,9 +444,9 @@ Constructs	|	Constructs	|
 Consumption of Pornography	|	Consumption of Pornography	|
 Contemporary Fantasy	|	Contemporary Fantasy	|
 Convention	|	Convention	|
-Coodere Hero	|	Coodere Hero	|
+Coodere Hero	|	Coodere 男主角	|
 Coodere Heroine	|	Coodere 女主角	|
-Cook Hero	|	Cook Hero	|
+Cook Hero	|	Cook 男主角	|
 Cook Heroine	|	Cook 女主角	|
 Cook Protagonist	|	Cook Protagonist	|
 Cook Support Character	|	Cook Support Character	|
@@ -463,7 +463,7 @@ Cousin Support Character	|	Cousin Support Character	|
 Cow Cosplay	|	Cow Cosplay	|
 Cowgirl	|	Cowgirl	|
 Cowgirl Heroine	|	Cowgirl 女主角	|
-Co-worker Hero	|	Co-worker Hero	|
+Co-worker Hero	|	Co-worker 男主角	|
 Co-worker Heroine	|	Co-worker 女主角	|
 Co-worker Support Character	|	Co-worker Support Character	|
 Crime	|	Crime	|
@@ -483,18 +483,18 @@ Curling	|	Curling	|
 Curse	|	Curse	|
 Customizable Character Relations	|	Customizable Character Relations	|
 Customization	|	Customization	|
-Cutesy Hero	|	Cutesy Hero	|
+Cutesy Hero	|	Cutesy 男主角	|
 Cyberpunk	|	Cyberpunk	|
-Cyborg Hero	|	Cyborg Hero	|
+Cyborg Hero	|	Cyborg 男主角	|
 Cyborg Heroine	|	Cyborg 女主角	|
 Cyborg Protagonist	|	Cyborg Protagonist	|
-Dancer Hero	|	Dancer Hero	|
+Dancer Hero	|	Dancer 男主角	|
 Dancer Heroine	|	Dancer 女主角	|
-Dandere Hero	|	Dandere Hero	|
+Dandere Hero	|	Dandere 男主角	|
 Darker Sexual Contents not applicable	|	Darker Sexual Contents not applicable	|
 Dark Fantasy	|	Dark Fantasy	|
 Dark Skinned Characters	|	Dark Skinned Characters	|
-Dark Skinned Hero	|	Dark Skinned Hero	|
+Dark Skinned Hero	|	Dark Skinned 男主角	|
 Dark Skinned Heroine	|	Dark Skinned 女主角	|
 Dark Skinned Protagonist	|	Dark Skinned Protagonist	|
 Date Display	|	Date Display	|
@@ -503,7 +503,7 @@ Daughter Support Character	|	Daughter Support Character	|
 Daydreams	|	Daydreams	|
 Death Game awaiting moderation	|	Death Game awaiting moderation	|
 Death Note	|	Death Note	|
-Death of Hero	|	Death of Hero	|
+Death of Hero	|	Death of 男主角	|
 Death of Heroine	|	Death of 女主角	|
 Death of Protagonist	|	Death of Protagonist	|
 Debt	|	Debt	|
@@ -514,24 +514,24 @@ Defloration by Others	|	Defloration by Others	|
 Defloration During Common Route	|	Defloration During Common Route	|
 Deities	|	Deities	|
 Deity Protagonist	|	Deity Protagonist	|
-Delinquent Hero	|	Delinquent Hero	|
+Delinquent Hero	|	Delinquent 男主角	|
 Delinquent Heroine	|	Delinquent 女主角	|
 Delinquent Protagonist	|	Delinquent Protagonist	|
 Delusion	|	Delusion	|
-Delusional Hero	|	Delusional Hero	|
+Delusional Hero	|	Delusional 男主角	|
 Delusional Heroine	|	Delusional 女主角	|
 Delusional Protagonist	|	Delusional Protagonist	|
-Demon Hero	|	Demon Hero	|
+Demon Hero	|	Demon 男主角	|
 Demon Heroine	|	Demon 女主角	|
 Demon Protagonist	|	Demon Protagonist	|
 Demons	|	Demons	|
 Denpa	|	Denpa	|
 Depression	|	Depression	|
-Deredere Hero	|	Deredere Hero	|
+Deredere Hero	|	Deredere 男主角	|
 Deredere Heroine	|	Deredere 女主角	|
 Descriptions of Violence	|	Descriptions of Violence	|
 Desert	|	Desert	|
-Designer Hero	|	Designer Hero	|
+Designer Hero	|	Designer 男主角	|
 Design not applicable, not searchable	|	Design not applicable, not searchable	|
 Design Story	|	Design Story	|
 Desperation	|	Desperation	|
@@ -545,13 +545,13 @@ Difficulty Settings	|	Difficulty Settings	|
 Dildos	|	Dildos	|
 Dinosaurs	|	Dinosaurs	|
 Dirty Talk	|	Dirty Talk	|
-Disabled Hero	|	Disabled Hero	|
+Disabled Hero	|	Disabled 男主角	|
 Disabled Heroine	|	Disabled 女主角	|
 Disabled Protagonist	|	Disabled Protagonist	|
 Disappearance	|	Disappearance	|
 Discipline Committee Leader Heroine	|	Discipline Committee Leader 女主角	|
 Discipline Committee Leader Protagonist	|	Discipline Committee Leader Protagonist	|
-Discipline Committee Member Hero	|	Discipline Committee Member Hero	|
+Discipline Committee Member Hero	|	Discipline Committee Member 男主角	|
 Discipline Committee Member Heroine	|	Discipline Committee Member 女主角	|
 Discipline Committee Member Protagonist	|	Discipline Committee Member Protagonist	|
 Discreet Masturbation	|	Discreet Masturbation	|
@@ -560,13 +560,13 @@ Discreet Sex	|	Discreet Sex	|
 Discrimination	|	Discrimination	|
 Displays not applicable, not searchable	|	Displays not applicable, not searchable	|
 Divine Beings	|	Divine Beings	|
-Divine Hero	|	Divine Hero	|
+Divine Hero	|	Divine 男主角	|
 Divine Heroine	|	Divine 女主角	|
 Divine Protagonist	|	Divine Protagonist	|
-Divorcee Hero	|	Divorcee Hero	|
+Divorcee Hero	|	Divorcee 男主角	|
 Divorcee Heroine	|	Divorcee 女主角	|
 Divorcee Protagonist	|	Divorcee Protagonist	|
-Dogboy Hero	|	Dogboy Hero	|
+Dogboy Hero	|	Dogboy 男主角	|
 Dog Cosplay	|	狗娘cosplay	|
 Doggirl Heroine	|	Doggirl 女主角	|
 Doggy Style	|	Doggy Style	|
@@ -582,7 +582,7 @@ Double Dildos	|	Double Dildos	|
 Double Handjob	|	Double Handjob	|
 Double Penetration (Group Sex)	|	Double Penetration (Group Sex)	|
 Dragon	|	Dragon	|
-Dragon Hero	|	Dragon Hero	|
+Dragon Hero	|	Dragon 男主角	|
 Dragon Heroine	|	Dragon 女主角	|
 Dragon Protagonist	|	Dragon Protagonist	|
 Dragon Quest	|	Dragon Quest	|
@@ -604,7 +604,7 @@ Dual Wielding Swords	|	Dual Wielding Swords	|
 Duct Tape Bondage	|	Duct Tape Bondage	|
 Duel	|	Duel	|
 Dungeon Crawling Game	|	Dungeon Crawling Game	|
-Dying Hero	|	Dying Hero	|
+Dying Hero	|	Dying 男主角	|
 Dying Heroine	|	Dying 女主角	|
 Dying Protagonist	|	Dying Protagonist	|
 Dying Sex	|	Dying Sex	|
@@ -623,15 +623,15 @@ Ejaculation Forewarner	|	Ejaculation Forewarner	|
 Elderly Sex	|	Elderly Sex	|
 Elemental Beings	|	Elemental Beings	|
 Elementary School	|	Elementary School	|
-Elementary School Student Hero	|	Elementary School Student Hero	|
+Elementary School Student Hero	|	Elementary School Student 男主角	|
 Elementary School Student Heroine	|	Elementary School Student 女主角	|
 Elementary School Student Protagonist	|	Elementary School Student Protagonist	|
-Elf Hero	|	Elf Hero	|
+Elf Hero	|	Elf 男主角	|
 Elf Heroine	|	Elf 女主角	|
 Elf Protagonist	|	Elf Protagonist	|
 Elopement	|	Elopement	|
 Elves	|	Elves	|
-Emotionless Hero	|	Emotionless Hero	|
+Emotionless Hero	|	Emotionless 男主角	|
 Emotionless Heroine	|	Emotionless 女主角	|
 Emotionless Protagonist	|	Emotionless Protagonist	|
 Emperor Protagonist	|	Emperor Protagonist	|
@@ -643,7 +643,7 @@ Enema	|	Enema	|
 Energetic Heroine	|	Energetic 女主角	|
 Energy Transfer via Sex	|	Energy Transfer via Sex	|
 Enforced Playing Order	|	Enforced Playing Order	|
-Engineer Hero	|	Engineer Hero	|
+Engineer Hero	|	Engineer 男主角	|
 Engineer Heroine	|	Engineer 女主角	|
 Environmentalism	|	Environmentalism	|
 Epidemic	|	Epidemic	|
@@ -667,7 +667,7 @@ Exhibitionism	|	Exhibitionism	|
 Existential Crisis	|	Existential Crisis	|
 Exorcism	|	Exorcism	|
 Extraterrestrial	|	Extraterrestrial	|
-Extremely Small Hero	|	Extremely Small Hero	|
+Extremely Small Hero	|	Extremely Small 男主角	|
 Extremely Small Heroine	|	Extremely Small 女主角	|
 Extremely (un)Lucky Heroine	|	Extremely (un)Lucky 女主角	|
 Extremely (un)Lucky Protagonist	|	Extremely (un)Lucky Protagonist	|
@@ -675,7 +675,7 @@ Face-farting	|	Face-farting	|
 Facesitting	|	Facesitting	|
 Facial Hair Option	|	Facial Hair Option	|
 Fairies	|	Fairies	|
-Fairy Hero	|	Fairy Hero	|
+Fairy Hero	|	Fairy 男主角	|
 Fairy Heroine	|	Fairy 女主角	|
 Fairy Support Character	|	Fairy Support Character	|
 Fairy Tale	|	Fairy Tale	|
@@ -687,7 +687,7 @@ Family Life Comedy	|	Family Life Comedy	|
 Fan-fiction	|	Fan-fiction	|
 Fantasy	|	Fantasy	|
 Farm	|	Farm	|
-Farmer Hero	|	Farmer Hero	|
+Farmer Hero	|	Farmer 男主角	|
 Farmer Heroine	|	Farmer 女主角	|
 Farmer Protagonist	|	Farmer Protagonist	|
 Fart Fetishism	|	Fart Fetishism	|
@@ -721,7 +721,7 @@ Fictional Modern Day Japanese Island	|	Fictional Modern Day Japanese Island	|
 Fictional Modern Day Japanese Town	|	Fictional Modern Day Japanese Town	|
 Fictional World	|	Fictional World	|
 Fighting Game	|	Fighting Game	|
-Fighting Hero	|	Fighting Hero	|
+Fighting Hero	|	Fighting 男主角	|
 Fighting Heroine	|	Fighting 女主角	|
 Fighting Princess Heroine	|	Fighting Princess 女主角	|
 Fighting Protagonist	|	Fighting Protagonist	|
@@ -737,7 +737,7 @@ Fisting not applicable	|	Fisting not applicable	|
 Flashback	|	Flashback	|
 Flashforward	|	Flashforward	|
 Flat Tints Only	|	Flat Tints Only	|
-Flirtatious Hero	|	Flirtatious Hero	|
+Flirtatious Hero	|	Flirtatious 男主角	|
 Floating Textbox	|	Floating Textbox	|
 Food Discussions	|	Food Discussions	|
 Food Gokkun	|	Food Gokkun	|
@@ -752,7 +752,7 @@ Footjob on Multiple Penises	|	Footjob on Multiple Penises	|
 Forbidden Love	|	Forbidden Love	|
 Forced Auto-Read Sections	|	Forced Auto-Read Sections	|
 Forced Cross-dressing	|	Forced Cross-dressing	|
-Foreigner Hero	|	Foreigner Hero	|
+Foreigner Hero	|	Foreigner 男主角	|
 Foreigner Heroine	|	Foreigner 女主角	|
 Foreskin Play	|	Foreskin Play	|
 Forest	|	Forest	|
@@ -762,7 +762,7 @@ Fortune-teller Heroine	|	Fortune-teller 女主角	|
 France	|	France	|
 Free!	|	Free!	|
 Free Camera	|	Free Camera	|
-French Hero	|	French Hero	|
+French Hero	|	French 男主角	|
 French Heroine	|	French 女主角	|
 French Kiss	|	French Kiss	|
 Friendship	|	Friendship	|
@@ -795,7 +795,7 @@ Gaijin Protagonist	|	Gaijin Protagonist	|
 Game Jam	|	Game Jam	|
 Game Over	|	Game Over	|
 Gameplay Elements not applicable, not searchable	|	Gameplay Elements not applicable, not searchable	|
-Gamer Hero	|	Gamer Hero	|
+Gamer Hero	|	Gamer 男主角	|
 Gamer Heroine	|	Gamer 女主角	|
 Gamer Protagonist	|	Gamer Protagonist	|
 Game Saving Method not applicable	|	Game Saving Method not applicable	|
@@ -803,7 +803,7 @@ Gaming	|	Gaming	|
 Gang	|	Gang	|
 Gang Bang	|	Gang Bang	|
 Gang Rape	|	Gang Rape	|
-Gangster Hero	|	Gangster Hero	|
+Gangster Hero	|	Gangster 男主角	|
 Gangster Heroine	|	Gangster 女主角	|
 Gangster Protagonist	|	Gangster Protagonist	|
 Ganguro Heroine	|	Ganguro 女主角	|
@@ -814,9 +814,9 @@ Gay Shotacon	|	Gay Shotacon	|
 Gender Bending	|	Gender Bending	|
 Genderbent Sex	|	Genderbent Sex	|
 Genetic Research	|	Genetic Research	|
-Genie Hero	|	Genie Hero	|
+Genie Hero	|	Genie 男主角	|
 Genital Piercing	|	Genital Piercing	|
-Genius Hero	|	Genius Hero	|
+Genius Hero	|	Genius 男主角	|
 Genius Heroine	|	Genius 女主角	|
 Genius Protagonist	|	Genius Protagonist	|
 Genius Support Character	|	Genius Support Character	|
@@ -824,11 +824,11 @@ Genocide	|	Genocide	|
 Genre Savvy Protagonist	|	Genre Savvy Protagonist	|
 Genre Shift	|	Genre Shift	|
 Gentle Protagonist	|	Gentle Protagonist	|
-German Hero	|	German Hero	|
+German Hero	|	German 男主角	|
 Germanic Mythology	|	Germanic Mythology	|
 German Protagonist	|	German Protagonist	|
 Ghost	|	Ghost	|
-Ghost Hero	|	Ghost Hero	|
+Ghost Hero	|	Ghost 男主角	|
 Ghost Heroine	|	Ghost 女主角	|
 Ghost Protagonist	|	Ghost Protagonist	|
 Ghost Support Character	|	Ghost Support Character	|
@@ -838,7 +838,7 @@ Girl x Girl Romance Only	|	Girl x Girl Romance Only	|
 Glasses Option	|	Glasses Option	|
 Glory Hole Sex	|	Glory Hole Sex	|
 Goddess Heroine	|	Goddess 女主角	|
-God Hero	|	God Hero	|
+God Hero	|	God 男主角	|
 Gokkun	|	Gokkun	|
 Golem	|	Golem	|
 Gore	|	Gore	|
@@ -875,31 +875,31 @@ Gyaru Heroine	|	Gyaru 女主角	|
 Gymnastic Heroine	|	Gymnastic 女主角	|
 Gynecologist Chair	|	Gynecologist Chair	|
 Gynophobic Protagonist	|	Gynophobic Protagonist	|
-Hacker Hero	|	Hacker Hero	|
+Hacker Hero	|	Hacker 男主角	|
 Hacker Heroine	|	Hacker 女主角	|
 Hacker Protagonist	|	Hacker Protagonist	|
 Hacking	|	Hacking	|
 Hairjob	|	Hairjob	|
 Hair Pulling (Sexual)	|	Hair Pulling (Sexual)	|
 Hairstyle Option	|	Hairstyle Option	|
-Half-brother Hero	|	Half-brother Hero	|
+Half-brother Hero	|	Half-brother 男主角	|
 Half-demon Heroine	|	Half-demon 女主角	|
 Half-demon Protagonist	|	Half-demon Protagonist	|
 Half-dragon Protagonist	|	Half-dragon Protagonist	|
-Half-human Hero	|	Half-human Hero	|
+Half-human Hero	|	Half-human 男主角	|
 Half-human Heroine	|	Half-human 女主角	|
 Half-human Protagonist	|	Half-human Protagonist	|
-Half-Japanese Hero	|	Half-Japanese Hero	|
+Half-Japanese Hero	|	Half-Japanese 男主角	|
 Half-Japanese Heroine	|	Half-Japanese 女主角	|
 Half-Japanese Protagonist	|	Half-Japanese Protagonist	|
-Half-orphan Hero	|	Half-orphan Hero	|
+Half-orphan Hero	|	Half-orphan 男主角	|
 Half-orphan Heroine	|	Half-orphan 女主角	|
 Half-orphan Protagonist	|	Half-orphan Protagonist	|
 Halloween	|	Halloween	|
 Hanafuda	|	Hanafuda	|
 Handcuffed Sex	|	Handcuffed Sex	|
 Handjob not applicable	|	Handjob not applicable	|
-Haraguro Hero	|	Haraguro Hero	|
+Haraguro Hero	|	Haraguro 男主角	|
 Haraguro Heroine	|	Haraguro 女主角	|
 Hard Science Fiction	|	Hard Science Fiction	|
 Harem Ending	|	Harem Ending	|
@@ -913,12 +913,12 @@ Healer Protagonist	|	Healer Protagonist	|
 Health Issues	|	健康问题	|
 Heian Period	|	Heian Period	|
 Heisei Era	|	Heisei Era	|
-Hero Based on a Fictional Person	|	Hero Based on a Fictional Person	|
-Hero Based on a Mythological Character	|	Hero Based on a Mythological Character	|
-Hero Based on Real Person	|	Hero Based on Real Person	|
-Hero by Race and Ethnicity not applicable, not searchable	|	Hero by Race and Ethnicity not applicable, not searchable	|
-Heroes by Personality not applicable, not searchable	|	Heroes by Personality not applicable, not searchable	|
-Hero from a Different World awaiting moderation	|	Hero from a Different World awaiting moderation	|
+Hero Based on a Fictional Person	|	男主角 Based on a Fictional Person	|
+Hero Based on a Mythological Character	|	男主角 Based on a Mythological Character	|
+Hero Based on Real Person	|	男主角 Based on Real Person	|
+Hero by Race and Ethnicity not applicable, not searchable	|	男主角 by Race and Ethnicity not applicable, not searchable	|
+Heroes by Personality not applicable, not searchable	|	男主角es by Personality not applicable, not searchable	|
+Hero from a Different World awaiting moderation	|	男主角 from a Different World awaiting moderation	|
 Heroine Based on a Fictional Person	|	女主角 Based on a Fictional Person	|
 Heroine Based on a Mythological Character	|	女主角 Based on a Mythological Character	|
 Heroine Based on Real Person	|	女主角 Based on Real Person	|
@@ -932,8 +932,8 @@ Heroine's Appearance not applicable, not searchable	|	女主角's Appearance not
 Heroine's Body not applicable, not searchable	|	女主角's Body not applicable, not searchable	|
 Heroines by Personality not applicable, not searchable	|	女主角s by Personality not applicable, not searchable	|
 Heroine's Clothing and Accessories not applicable, not searchable	|	女主角's Clothing and Accessories not applicable, not searchable	|
-Hero(ine) Selection	|	Hero(ine) Selection	|
-Hero(ine)'s Father as a Hero	|	Hero(ine)'s Father as a Hero	|
+Hero(ine) Selection	|	男主角(ine) Selection	|
+Hero(ine)'s Father as a Hero	|	男主角(ine)'s Father as a 男主角	|
 Heroine's Hair not applicable, not searchable	|	女主角's Hair not applicable, not searchable	|
 Heroine Sisters not applicable	|	女主角 Sisters not applicable	|
 Heroine's Mother as a Heroine	|	女主角's Mother as a 女主角	|
@@ -995,39 +995,39 @@ Heroine with Tights	|	女主角 with Tights	|
 Heroine with Visible Panties	|	女主角 with Visible Panties	|
 Heroine with Wings	|	女主角 with Wings	|
 Heroine with Zettai Ryouiki	|	女主角 with Zettai Ryouiki	|
-Hero in Kimono	|	Hero in Kimono	|
-Hero in Relationship with Other(s)	|	Hero in Relationship with Other(s)	|
-Hero not applicable, not searchable	|	Hero not applicable, not searchable	|
-Hero's Appearance not applicable, not searchable	|	Hero's Appearance not applicable, not searchable	|
-Hero's Clothing and Accessories not applicable, not searchable	|	Hero's Clothing and Accessories not applicable, not searchable	|
-Hero's Relation not applicable, not searchable	|	Hero's Relation not applicable, not searchable	|
-Hero's Role/Vocation not applicable, not searchable	|	Hero's Role/Vocation not applicable, not searchable	|
-Hero's Traits not applicable, not searchable	|	Hero's Traits not applicable, not searchable	|
-Hero with a Braid	|	Hero with a Braid	|
-Hero with a Fang	|	Hero with a Fang	|
-Hero with Ahoge	|	Hero with Ahoge	|
-Hero with Armor	|	Hero with Armor	|
-Hero with a Sword	|	Hero with a Sword	|
-Hero with Beauty Mark	|	Hero with Beauty Mark	|
-Hero with Children	|	Hero with Children	|
-Hero with Eye Covering Hairstyle	|	Hero with Eye Covering Hairstyle	|
-Hero with Eyepatch	|	Hero with Eyepatch	|
-Hero with Facial Hair	|	Hero with Facial Hair	|
-Hero with Glasses	|	Hero with Glasses	|
-Hero with Gothic Look	|	Hero with Gothic Look	|
-Hero with Gradient Colored Hair	|	Hero with Gradient Colored Hair	|
-Hero with Health Issues	|	Hero with Health Issues	|
-Hero with Heterochromia	|	Hero with Heterochromia	|
-Hero With Kansai Accent	|	Hero With Kansai Accent	|
-Hero with Monocle	|	Hero with Monocle	|
-Hero with Multiple Personalities	|	Hero with Multiple Personalities	|
-Hero with Naked Top	|	Hero with Naked Top	|
-Hero with Psychological Problems	|	Hero with Psychological Problems	|
-Hero with Sexual Experience	|	Hero with Sexual Experience	|
-Hero with Swimsuits	|	Hero with Swimsuits	|
-Hero with Tattoo	|	Hero with Tattoo	|
-Hero with Visible Underwear	|	Hero with Visible Underwear	|
-Hero with Wings	|	Hero with Wings	|
+Hero in Kimono	|	男主角 in Kimono	|
+Hero in Relationship with Other(s)	|	男主角 in Relationship with Other(s)	|
+Hero not applicable, not searchable	|	男主角 not applicable, not searchable	|
+Hero's Appearance not applicable, not searchable	|	男主角's Appearance not applicable, not searchable	|
+Hero's Clothing and Accessories not applicable, not searchable	|	男主角's Clothing and Accessories not applicable, not searchable	|
+Hero's Relation not applicable, not searchable	|	男主角's Relation not applicable, not searchable	|
+Hero's Role/Vocation not applicable, not searchable	|	男主角's Role/Vocation not applicable, not searchable	|
+Hero's Traits not applicable, not searchable	|	男主角's Traits not applicable, not searchable	|
+Hero with a Braid	|	男主角 with a Braid	|
+Hero with a Fang	|	男主角 with a Fang	|
+Hero with Ahoge	|	男主角 with Ahoge	|
+Hero with Armor	|	男主角 with Armor	|
+Hero with a Sword	|	男主角 with a Sword	|
+Hero with Beauty Mark	|	男主角 with Beauty Mark	|
+Hero with Children	|	男主角 with Children	|
+Hero with Eye Covering Hairstyle	|	男主角 with Eye Covering Hairstyle	|
+Hero with Eyepatch	|	男主角 with Eyepatch	|
+Hero with Facial Hair	|	男主角 with Facial Hair	|
+Hero with Glasses	|	男主角 with Glasses	|
+Hero with Gothic Look	|	男主角 with Gothic Look	|
+Hero with Gradient Colored Hair	|	男主角 with Gradient Colored Hair	|
+Hero with Health Issues	|	男主角 with Health Issues	|
+Hero with Heterochromia	|	男主角 with Heterochromia	|
+Hero With Kansai Accent	|	男主角 With Kansai Accent	|
+Hero with Monocle	|	男主角 with Monocle	|
+Hero with Multiple Personalities	|	男主角 with Multiple Personalities	|
+Hero with Naked Top	|	男主角 with Naked Top	|
+Hero with Psychological Problems	|	男主角 with Psychological Problems	|
+Hero with Sexual Experience	|	男主角 with Sexual Experience	|
+Hero with Swimsuits	|	男主角 with Swimsuits	|
+Hero with Tattoo	|	男主角 with Tattoo	|
+Hero with Visible Underwear	|	男主角 with Visible Underwear	|
+Hero with Wings	|	男主角 with Wings	|
 Hetare Protagonist	|	Hetare Protagonist	|
 Hidden Object Game	|	Hidden Object Game	|
 Hidden Vibrator	|	Hidden Vibrator	|
@@ -1038,11 +1038,11 @@ High Fantasy	|	High Fantasy	|
 Highly Animated Sprites	|	Highly Animated Sprites	|
 High School	|	高中	|
 High School AU	|	High School AU	|
-High School Student Hero	|	High School Student Hero	|
+High School Student Hero	|	High School Student 男主角	|
 High School Student Heroine	|	High School Student 女主角	|
 High School Student Protagonist	|	High School Student Protagonist	|
 High Sexual Content	|	大量色情内容，H场景多，	|
-Hikikomori Hero	|	Hikikomori Hero	|
+Hikikomori Hero	|	Hikikomori 男主角	|
 Hikikomori Heroine	|	Hikikomori 女主角	|
 Hikikomori Protagonist	|	Hikikomori Protagonist	|
 Hime Heroine	|	Hime 女主角	|
@@ -1053,7 +1053,7 @@ Homecoming	|	Homecoming	|
 Homeless Heroine	|	Homeless 女主角	|
 Homemaker Protagonist	|	Homemaker Protagonist	|
 Homicide	|	Homicide	|
-Homosexual Hero	|	Homosexual Hero	|
+Homosexual Hero	|	Homosexual 男主角	|
 Homosexual Male Protagonist	|	Homosexual Male Protagonist	|
 Homosexual Protagonist not applicable	|	Homosexual Protagonist not applicable	|
 Homosexual Support Character	|	Homosexual Support Character	|
@@ -1065,9 +1065,9 @@ Horror	|	Horror	|
 Horse	|	马	|
 Hospital	|	Hospital	|
 Hostage Crisis	|	Hostage Crisis	|
-Host Club Hero	|	Host Club Hero	|
+Host Club Hero	|	Host Club 男主角	|
 Host Club Heroine	|	Host Club 女主角	|
-Hotblooded Hero	|	Hotblooded Hero	|
+Hotblooded Hero	|	Hotblooded 男主角	|
 Hotblooded Heroine	|	Hotblooded 女主角	|
 Hotblooded Protagonist	|	Hotblooded Protagonist	|
 Hotblooded Support Character	|	Hotblooded Support Character	|
@@ -1079,11 +1079,11 @@ Human Childbirth	|	Human Childbirth	|
 Human Furniture	|	Human Furniture	|
 Humping	|	Humping	|
 Identity Crisis	|	Identity Crisis	|
-Idol Hero	|	Idol Hero	|
+Idol Hero	|	Idol 男主角	|
 Idol Heroine	|	Idol 女主角	|
 Idol Protagonist	|	Idol Protagonist	|
 Illness	|	生病	|
-Immortal Hero	|	Immortal Hero	|
+Immortal Hero	|	Immortal 男主角	|
 Immortal Heroine	|	Immortal 女主角	|
 Immortal Protagonist	|	Immortal Protagonist	|
 Imouto-type Heroine	|	Imouto-type 女主角	|
@@ -1093,14 +1093,14 @@ Impregnation	|	Impregnation	|
 Impregnation by Others	|	Impregnation by Others	|
 Impregnation Choice	|	Impregnation Choice	|
 Impulsive Protagonist	|	Impulsive Protagonist	|
-Inanimate Hero	|	Inanimate Hero	|
+Inanimate Hero	|	Inanimate 男主角	|
 Inbred Heroine	|	Inbred 女主角	|
 Inbred Protagonist	|	Inbred Protagonist	|
 Inbreeding	|	Inbreeding	|
 Incest not applicable	|	Incest not applicable	|
 Incest Romance	|	Incest Romance	|
 Incubi	|	Incubi	|
-Incubus Hero	|	Incubus Hero	|
+Incubus Hero	|	Incubus 男主角	|
 Incubus Protaganist	|	Incubus Protaganist	|
 Indecisive Protagonist	|	Indecisive Protagonist	|
 Indonesia	|	Indonesia	|
@@ -1130,15 +1130,15 @@ Internet	|	Internet	|
 Interracial Romance	|	Interracial Romance	|
 Interracial Sex	|	Interracial Sex	|
 Intrigue	|	Intrigue	|
-Inumimi Hero	|	Inumimi Hero	|
+Inumimi Hero	|	Inumimi 男主角	|
 Inumimi Heroine	|	Inumimi 女主角	|
-Inventor Hero	|	Inventor Hero	|
+Inventor Hero	|	Inventor 男主角	|
 Inventor Heroine	|	Inventor 女主角	|
 Inventor Protagonist	|	Inventor Protagonist	|
 Invisibility	|	Invisibility	|
 Irish Mythology	|	Irish Mythology	|
 Island	|	Island	|
-Italian Hero	|	Italian Hero	|
+Italian Hero	|	Italian 男主角	|
 Italian Heroine	|	Italian 女主角	|
 Italian Mafia	|	Italian Mafia	|
 Janitor Protagonist	|	Janitor Protagonist	|
@@ -1149,7 +1149,7 @@ Japanese Voice Acting (For Non-OJLVNs) awaiting moderation	|	Japanese Voice Acti
 Japanophile Heroine	|	Japanophile 女主角	|
 Jealousy	|	Jealousy	|
 Joke Endings	|	Joke Endings	|
-Journalist Hero	|	Journalist Hero	|
+Journalist Hero	|	Journalist 男主角	|
 Journalist Heroine	|	Journalist 女主角	|
 Journalist Protagonist	|	Journalist Protagonist	|
 Journey	|	Journey	|
@@ -1164,7 +1164,7 @@ Kanji Puns	|	Kanji Puns	|
 Kantai Collection	|	Kantai Collection	|
 Katekyo Hitman Reborn!	|	Katekyo Hitman Reborn!	|
 Kemonomimi	|	Kemonomimi	|
-Kemonomimi Hero	|	Kemonomimi Hero	|
+Kemonomimi Hero	|	Kemonomimi 男主角	|
 Kemonomimi Heroine	|	Kemonomimi 女主角	|
 Kemonomimi Protagonist	|	Kemonomimi Protagonist	|
 Kemonomimi Support Character	|	Kemonomimi Support Character	|
@@ -1173,16 +1173,16 @@ Kidnapping	|	Kidnapping	|
 Kinetic Novel	|	Kinetic Novel	|
 King Protagonist	|	King Protagonist	|
 Kissing Scene	|	Kissing Scene	|
-Kitsune Hero	|	Kitsune Hero	|
+Kitsune Hero	|	Kitsune 男主角	|
 Kitsune Heroine	|	Kitsune 女主角	|
 Kneepit Sex	|	Kneepit Sex	|
 Knife/Dagger Combat	|	Knife/Dagger Combat	|
-Knight Hero	|	Knight Hero	|
+Knight Hero	|	Knight 男主角	|
 Knight Heroine	|	Knight 女主角	|
 Knight Protagonist	|	Knight Protagonist	|
 Koikatsu-based Graphics awaiting moderation	|	Koikatsu-based Graphics awaiting moderation	|
 K-On!	|	K-On!	|
-Korean Hero	|	Korean Hero	|
+Korean Hero	|	Korean 男主角	|
 Korean Heroine awaiting moderation	|	Korean 女主角 awaiting moderation	|
 Kunoichi Heroine	|	Kunoichi 女主角	|
 Kuroko no Basuke	|	Kuroko no Basuke	|
@@ -1190,19 +1190,19 @@ Lactation During Sex	|	Lactation During Sex	|
 Ladder Structure	|	Ladder Structure	|
 Laid-back Heroine	|	Laid-back 女主角	|
 Landlady Heroine	|	Landlady 女主角	|
-Landlord Hero	|	Landlord Hero	|
+Landlord Hero	|	Landlord 男主角	|
 Late Branching Plot	|	Late Branching Plot	|
 Late Sexual Content	|	Late Sexual Content	|
-Lawyer Hero	|	Lawyer Hero	|
+Lawyer Hero	|	Lawyer 男主角	|
 Lawyer Heroine	|	Lawyer 女主角	|
 Lawyer Protagonist	|	Lawyer Protagonist	|
-Lazy Hero	|	Lazy Hero	|
+Lazy Hero	|	Lazy 男主角	|
 Lazy Heroine	|	Lazy 女主角	|
-Leader Hero	|	Leader Hero	|
+Leader Hero	|	Leader 男主角	|
 Leader Heroine	|	Leader 女主角	|
 Leader Protagonist	|	Leader Protagonist	|
 Leather Bondage	|	Leather Bondage	|
-Legal Shota Hero	|	Legal Shota Hero	|
+Legal Shota Hero	|	Legal Shota 男主角	|
 Legjob not applicable	|	Legjob not applicable	|
 Legwear Footjob	|	Legwear Footjob	|
 Lesbian Heroine	|	Lesbian 女主角	|
@@ -1213,11 +1213,11 @@ Lesbian Rape	|	Lesbian Rape	|
 Lesbian Sex	|	Lesbian Sex	|
 Lesbian Sex Only	|	Lesbian Sex Only	|
 LGBTQ Issues	|	LGBTQ Issues	|
-Librarian Hero	|	Librarian Hero	|
+Librarian Hero	|	Librarian 男主角	|
 Librarian Heroine	|	Librarian 女主角	|
 Library	|	Library	|
 Life and Death Drama	|	Life and Death Drama	|
-Lifeguard Hero	|	Lifeguard Hero	|
+Lifeguard Hero	|	Lifeguard 男主角	|
 Lifeguard Heroine	|	Lifeguard 女主角	|
 Lifeguard Protagonist	|	Lifeguard Protagonist	|
 Linear Plot	|	Linear Plot	|
@@ -1226,12 +1226,12 @@ Linked Piercings	|	Linked Piercings	|
 Lip Sync	|	Lip Sync	|
 Literary Adaptation	|	Literary Adaptation	|
 Living Clothes Sex	|	Living Clothes Sex	|
-Living Doll Hero	|	Living Doll Hero	|
+Living Doll Hero	|	Living Doll 男主角	|
 Living Doll Heroine	|	Living Doll 女主角	|
 Living Doll Protagonist	|	Living Doll Protagonist	|
 Living Doll Support Character	|	Living Doll Support Character	|
 Location Display	|	Location Display	|
-Lolicon Hero	|	Lolicon Hero	|
+Lolicon Hero	|	Lolicon 男主角	|
 Lolicon Heroine	|	Lolicon 女主角	|
 Lolicon not applicable	|	Lolicon not applicable	|
 Lolicon Protagonist	|	Lolicon Protagonist	|
@@ -1257,7 +1257,7 @@ Macho Protagonist	|	Macho Protagonist	|
 Macrophilia	|	Macrophilia	|
 Madness	|	Madness	|
 Mad Scientist Support Character	|	Mad Scientist Support Character	|
-Mage Hero	|	Mage Hero	|
+Mage Hero	|	Mage 男主角	|
 Mage Heroine	|	Mage 女主角	|
 Mage Protagonist	|	Mage Protagonist	|
 Mages Association	|	Mages Association	|
@@ -1269,7 +1269,7 @@ Mahjong as Story Element	|	Mahjong as Story Element	|
 Mahou Shoujo Heroine	|	Mahou Shoujo 女主角	|
 Mahou Shoujo Lyrical Nanoha	|	Mahou Shoujo Lyrical Nanoha	|
 Mahou Shoujo Protagonist	|	Mahou Shoujo Protagonist	|
-Mahou Shounen Hero	|	Mahou Shounen Hero	|
+Mahou Shounen Hero	|	Mahou Shounen 男主角	|
 Mahou Shounen Protagonist	|	Mahou Shounen Protagonist	|
 Maid Heroine	|	Maid 女主角	|
 Maid Protagonist	|	Maid Protagonist	|
@@ -1287,23 +1287,23 @@ Male Pregnancy	|	Male Pregnancy	|
 Male Protagonist	|	Male Protagonist	|
 Male Protagonist for a Short Time	|	Male Protagonist for a Short Time	|
 Manager Protagonist	|	Manager Protagonist	|
-Mangaka Hero	|	Mangaka Hero	|
+Mangaka Hero	|	Mangaka 男主角	|
 Mangaka Heroine	|	Mangaka 女主角	|
 Mangaka Protagonist	|	Mangaka Protagonist	|
 Manticore	|	Manticore	|
 Manual Prostate Stimulation	|	Manual Prostate Stimulation	|
-Maou Hero	|	Maou Hero	|
+Maou Hero	|	Maou 男主角	|
 Maou Heroine	|	Maou 女主角	|
 Maou Protagonist	|	Maou Protagonist	|
 Map Movement	|	Map Movement	|
 Marriage Ending	|	Marriage Ending	|
-Married Hero	|	Married Hero	|
+Married Hero	|	Married 男主角	|
 Married Heroine	|	Married 女主角	|
 Mars	|	Mars	|
-Martial Artist Hero	|	Martial Artist Hero	|
+Martial Artist Hero	|	Martial Artist 男主角	|
 Martial Artist Heroine	|	Martial Artist 女主角	|
 Martial Artist Protagonist	|	Martial Artist Protagonist	|
-Masochist Hero	|	Masochist Hero	|
+Masochist Hero	|	Masochist 男主角	|
 Masochist Heroine	|	Masochist 女主角	|
 Masochist Protagonist	|	Masochist Protagonist	|
 Masochist Support Character	|	Masochist Support Character	|
@@ -1314,16 +1314,16 @@ Masturbation Involving Food	|	Masturbation Involving Food	|
 Masturbation not applicable	|	Masturbation not applicable	|
 Masturbation with Object	|	Masturbation with Object	|
 Masturbation with Water	|	Masturbation with Water	|
-Mayadere Hero	|	Mayadere Hero	|
+Mayadere Hero	|	Mayadere 男主角	|
 Mayadere Heroine	|	Mayadere 女主角	|
 May-December Romance	|	May-December Romance	|
 Meaningless Choices	|	Meaningless Choices	|
 Mecha	|	Mecha	|
 Mecha Combat	|	Mecha Combat	|
-Mecha Pilot Hero	|	Mecha Pilot Hero	|
+Mecha Pilot Hero	|	Mecha Pilot 男主角	|
 Mecha Pilot Heroine	|	Mecha Pilot 女主角	|
 Mecha Pilot Protagonist	|	Mecha Pilot Protagonist	|
-Medical Doctor Hero	|	Medical Doctor Hero	|
+Medical Doctor Hero	|	Medical Doctor 男主角	|
 Medical Doctor Heroine	|	Medical Doctor 女主角	|
 Medical Doctor Protagonist	|	Medical Doctor Protagonist	|
 Medieval Fantasy	|	Medieval Fantasy	|
@@ -1331,13 +1331,13 @@ Medium Heroine	|	Medium 女主角	|
 Meiji Era	|	Meiji Era	|
 Memory Alteration	|	Memory Alteration	|
 Mentor Support Character	|	Mentor Support Character	|
-Mercenary Hero	|	Mercenary Hero	|
+Mercenary Hero	|	Mercenary 男主角	|
 Mercenary Heroine	|	Mercenary 女主角	|
 Mercenary Protagonist	|	Mercenary Protagonist	|
 Mercenary Support Character	|	Mercenary Support Character	|
 Merchant Protagonist	|	Merchant Protagonist	|
 Mermaid Heroine	|	Mermaid 女主角	|
-Merman Hero	|	Merman Hero	|
+Merman Hero	|	Merman 男主角	|
 Merprotagonist	|	Merprotagonist	|
 Mesopotamian Mythology	|	Mesopotamian Mythology	|
 Messiah Heroine	|	Messiah 女主角	|
@@ -1350,7 +1350,7 @@ Middle Ages Earth	|	Middle Ages Earth	|
 Middle Ages Europe	|	Middle Ages Europe	|
 Middle East	|	Middle East	|
 Middle School	|	Middle School	|
-Middle School Student Hero	|	Middle School Student Hero	|
+Middle School Student Hero	|	Middle School Student 男主角	|
 Middle School Student Heroine	|	Middle School Student 女主角	|
 Middle School Student Protagonist	|	Middle School Student Protagonist	|
 Mid-game Videos	|	Mid-game Videos	|
@@ -1366,11 +1366,11 @@ Mind Screw	|	Mind Screw	|
 Minimalist Sprites	|	Minimalist Sprites	|
 Mirror Sex	|	Mirror Sex	|
 Misc. Character Tags not applicable, not searchable	|	Misc. Character Tags not applicable, not searchable	|
-Mischievous Hero	|	Mischievous Hero	|
+Mischievous Hero	|	Mischievous 男主角	|
 Mischievous Heroine	|	Mischievous 女主角	|
 Mischievous Protagonist	|	Mischievous Protagonist	|
 Missionary Position	|	Missionary Position	|
-Model Hero	|	Model Hero	|
+Model Hero	|	Model 男主角	|
 Model Heroine	|	Model 女主角	|
 Model Protagonist	|	Model Protagonist	|
 Modern Day	|	Modern Day	|
@@ -1392,14 +1392,14 @@ Modern Day United States of America	|	Modern Day United States of America	|
 Modern Tsundere Heroine	|	Modern Tsundere 女主角	|
 Modifications	|	Modifications	|
 Molestation on Public Transport	|	Molestation on Public Transport	|
-Monk Hero	|	Monk Hero	|
+Monk Hero	|	Monk 男主角	|
 Monk Heroine	|	Monk 女主角	|
 Monster Birth	|	Monster Birth	|
 Monster Girl Heroine	|	Monster Girl 女主角	|
 Monster Girl Support Character	|	Monster Girl Support Character	|
-Monster Hero	|	Monster Hero	|
+Monster Hero	|	Monster 男主角	|
 Monster Heroine	|	Monster 女主角	|
-Monster Hunter Hero	|	Monster Hunter Hero	|
+Monster Hunter Hero	|	Monster Hunter 男主角	|
 Monster Hunter Heroine	|	Monster Hunter 女主角	|
 Monster Hunter Protagonist	|	Monster Hunter Protagonist	|
 Monster Protagonist	|	Monster Protagonist	|
@@ -1408,7 +1408,7 @@ Monsters	|	Monsters	|
 Monster Support Character	|	Monster Support Character	|
 Moon	|	Moon	|
 More Than Seven Endings	|	More Than Seven Endings	|
-More Than Seven Heroes	|	More Than Seven Heroes	|
+More Than Seven Heroes	|	More Than Seven 男主角es	|
 More Than Seven Heroines	|	More Than Seven 女主角s	|
 Mother/Daughter Incest	|	Mother/Daughter Incest	|
 Mother/Son Incest	|	Mother/Son Incest	|
@@ -1434,7 +1434,7 @@ Multi-Selection Choices	|	Multi-Selection Choices	|
 Mummy	|	Mummy	|
 Murder Mystery	|	Murder Mystery	|
 Muromachi Era	|	Muromachi Era	|
-Muscular Hero	|	Muscular Hero	|
+Muscular Hero	|	Muscular 男主角	|
 Muscular Heroine	|	Muscular 女主角	|
 Muscular Protagonist	|	Muscular Protagonist	|
 Museum	|	Museum	|
@@ -1442,13 +1442,13 @@ Musical Environment	|	Musical Environment	|
 Musical Theater	|	Musical Theater	|
 Musical Themes	|	Musical Themes	|
 Music Club	|	Music Club	|
-Musician Hero	|	Musician Hero	|
+Musician Hero	|	Musician 男主角	|
 Musician Heroine	|	Musician 女主角	|
 Musician Protagonist	|	Musician Protagonist	|
 Music Recollection	|	Music Recollection	|
-Musuko-type Hero	|	Musuko-type Hero	|
+Musuko-type Hero	|	Musuko-type 男主角	|
 Musume-type Heroine	|	Musume-type 女主角	|
-Mute Hero	|	Mute Hero	|
+Mute Hero	|	Mute 男主角	|
 Mute Heroine	|	Mute 女主角	|
 Mute Protagonist	|	Mute Protagonist	|
 Mutual Masturbation	|	Mutual Masturbation	|
@@ -1463,7 +1463,7 @@ Naked Heroine with Apron	|	Naked 女主角 with Apron	|
 Naked Sprites	|	Naked Sprites	|
 Nakige	|	Nakige	|
 Nameable Character(s)	|	Nameable Character(s)	|
-Nameable Hero(es)	|	Nameable Hero(es)	|
+Nameable Hero(es)	|	Nameable 男主角(es)	|
 Nameable Heroine(s)	|	Nameable 女主角(s)	|
 Nameable Pet(s)	|	Nameable Pet(s)	|
 Nameable Protagonist	|	Nameable Protagonist	|
@@ -1477,12 +1477,12 @@ Natural Disaster	|	Natural Disaster	|
 Naval Warfare	|	Naval Warfare	|
 Navel Penetration	|	Navel Penetration	|
 Navel Piercing	|	Navel Piercing	|
-Navyman Hero	|	Navyman Hero	|
+Navyman Hero	|	Navyman 男主角	|
 Near Future	|	Near Future	|
 Necrophilia	|	Necrophilia	|
 NEET Heroine	|	NEET 女主角	|
 NEET Protagonist	|	NEET Protagonist	|
-Nekomimi Hero	|	Nekomimi Hero	|
+Nekomimi Hero	|	Nekomimi 男主角	|
 Nekomimi Heroine	|	Nekomimi 女主角	|
 Neon Genesis Evangelion	|	Neon Genesis Evangelion	|
 Netorare	|	Netorare	|
@@ -1502,23 +1502,23 @@ Nipple Piercing	|	Nipple Piercing	|
 No Auto Function	|	No Auto Function	|
 No Background Music	|	No Background Music	|
 No Backlog	|	No Backlog	|
-Noble Hero	|	Noble Hero	|
+Noble Hero	|	Noble 男主角	|
 Noble Protagonist	|	Noble Protagonist	|
 No Character Sprites	|	No Character Sprites	|
 No Common Sense Heroine	|	No Common Sense 女主角	|
 No Event CGs	|	No Event CGs	|
 No Gallery	|	No Gallery	|
-No Hero(in)es	|	No Hero(in)es	|
+No Hero(in)es	|	No 男主角(in)es	|
 No "Keep Voice on Click" Option	|	No "Keep Voice on Click" Option	|
 Non-Binary Characters	|	Non-Binary Characters	|
 Non-Binary Love Interest	|	Non-Binary Love Interest	|
 Non-Binary Protagonist	|	Non-Binary Protagonist	|
 Non-binary Protagonist Option	|	Non-binary Protagonist Option	|
 Non-blood-related Brother/Brother Incest	|	Non-blood-related Brother/Brother Incest	|
-Non-blood-related Brother Hero	|	Non-blood-related Brother Hero	|
+Non-blood-related Brother Hero	|	Non-blood-related Brother 男主角	|
 Non-blood-related Brother/Sister Incest	|	Non-blood-related Brother/Sister Incest	|
 Non-blood-related Father/Daughter Incest	|	Non-blood-related Father/Daughter Incest	|
-Non-blood-related Father Hero	|	Non-blood-related Father Hero	|
+Non-blood-related Father Hero	|	Non-blood-related Father 男主角	|
 Non-blood-related Father/Son Incest	|	Non-blood-related Father/Son Incest	|
 Non-blood-related Incest not applicable	|	Non-blood-related Incest not applicable	|
 Non-blood-related Mother/Daughter Incest	|	Non-blood-related Mother/Daughter Incest	|
@@ -1530,7 +1530,7 @@ Non-erotic Mind Control	|	Non-erotic Mind Control	|
 Non-Erotic Moral Corruption	|	Non-Erotic Moral Corruption	|
 Non-explicit Nudity Only	|	Non-explicit Nudity Only	|
 Non-heroine Only Unavoidable Rape	|	Non-heroine Only Unavoidable Rape	|
-Non-human Hero	|	Non-human Hero	|
+Non-human Hero	|	Non-human 男主角	|
 Non-human Heroine	|	Non-human 女主角	|
 Non-human Protagonist	|	Non-human Protagonist	|
 Non-Japanese Voice Acting	|	Non-Japanese Voice Acting	|
@@ -1540,7 +1540,7 @@ Non-penetrative Sex	|	Non-penetrative Sex	|
 Nonsense	|	Nonsense	|
 Non-sexual Child Abuse	|	Non-sexual Child Abuse	|
 Non-sexual Cosplay	|	Non-sexual Cosplay	|
-Non-twin Hero Brothers awaiting moderation	|	Non-twin Hero Brothers awaiting moderation	|
+Non-twin Hero Brothers awaiting moderation	|	Non-twin 男主角 Brothers awaiting moderation	|
 Non-twin Heroine Sisters	|	Non-twin 女主角 Sisters	|
 No Opening Movie	|	No Opening Movie	|
 No Protagonist	|	No Protagonist	|
@@ -1560,7 +1560,7 @@ Nukige	|	Nukige	|
 Nun Heroine	|	Nun 女主角	|
 Nun Protagonist	|	Nun Protagonist	|
 Nun Support Character	|	Nun Support Character	|
-Nurse Hero	|	Nurse Hero	|
+Nurse Hero	|	Nurse 男主角	|
 Nurse Heroine	|	Nurse 女主角	|
 Nurse Protagonist	|	Nurse Protagonist	|
 Nursery School	|	Nursery School	|
@@ -1585,23 +1585,23 @@ Off Screen Sex Only	|	Off Screen Sex Only	|
 Ojicon	|	Ojicon	|
 Ojousama Heroine	|	Ojousama 女主角	|
 Ojousama Protagonist	|	Ojousama Protagonist	|
-Okama Hero	|	Okama Hero	|
+Okama Hero	|	Okama 男主角	|
 Okama Support Character	|	Okama Support Character	|
 Onahole	|	Onahole	|
 Oneesan-type Heroine	|	Oneesan-type 女主角	|
 One True End	|	One True End	|
-Oni Hero	|	Oni Hero	|
+Oni Hero	|	Oni 男主角	|
 Oni Heroine	|	Oni 女主角	|
 Oni Protagonist	|	Oni Protagonist	|
 Online	|	Online	|
-Only a Single Hero	|	Only a Single Hero	|
+Only a Single Hero	|	Only a Single 男主角	|
 Only a Single Heroine	|	Only a Single 女主角	|
-Only Avoidable Death of Hero	|	Only Avoidable Death of Hero	|
+Only Avoidable Death of Hero	|	Only Avoidable Death of 男主角	|
 Only Avoidable Death of Heroine	|	Only Avoidable Death of 女主角	|
 Only Avoidable Heroine Having Sex with Others	|	Only Avoidable 女主角 Having Sex with Others	|
 Only Avoidable Heroine Rape	|	Only Avoidable 女主角 Rape	|
 Only Avoidable Heroine Rape by Others	|	Only Avoidable 女主角 Rape by Others	|
-Only Avoidable Hero Rape	|	Only Avoidable Hero Rape	|
+Only Avoidable Hero Rape	|	Only Avoidable 男主角 Rape	|
 Only Avoidable Netorare	|	Only Avoidable Netorare	|
 Only Avoidable Protagonist Rape	|	Only Avoidable Protagonist Rape	|
 Only Avoidable Rape by Others	|	Only Avoidable Rape by Others	|
@@ -1609,7 +1609,7 @@ Only Avoidable Rape by Protagonist	|	Only Avoidable Rape by Protagonist	|
 Only Avoidable Rape Scenes	|	Only Avoidable Rape Scenes	|
 Only Avoidable Sexual Content	|	Only Avoidable Sexual Content	|
 Only Avoidable Sex with Others	|	Only Avoidable Sex with Others	|
-Only Bad End Death of Hero	|	Only Bad End Death of Hero	|
+Only Bad End Death of Hero	|	Only Bad End Death of 男主角	|
 Only Bad End Death of Heroine	|	Only Bad End Death of 女主角	|
 Only Bad End Death of Protagonist	|	Only Bad End Death of Protagonist	|
 Only Bad Endings	|	仅坏结局	|
@@ -1618,11 +1618,11 @@ Only Good Endings	|	仅好结局	|
 Only One Bad Ending	|	仅一个坏结局	|
 Only One Good Ending	|	仅一个好结局	|
 Only Same-Sex Sexual Content not applicable	|	Only Same-Sex Sexual Content not applicable	|
-Only Seme Heroes	|	Only Seme Heroes	|
+Only Seme Heroes	|	Only Seme 男主角es	|
 Only Trap Heroines	|	Only Trap 女主角s	|
-Only Uke Heroes	|	Only Uke Heroes	|
+Only Uke Heroes	|	Only Uke 男主角es	|
 Only Virgin Heroines	|	Only Virgin 女主角s	|
-Onmyouji Hero	|	Onmyouji Hero	|
+Onmyouji Hero	|	Onmyouji 男主角	|
 Onmyouji Heroine	|	Onmyouji 女主角	|
 Onmyouji Protagonist	|	Onmyouji Protagonist	|
 Onna Bugeisha Heroine	|	Onna Bugeisha 女主角	|
@@ -1634,7 +1634,7 @@ Open Relationship	|	Open Relationship	|
 Operating System Simulation	|	Operating System Simulation	|
 Oppai Loli Heroine	|	Oppai Loli 女主角	|
 Optional Gameplay	|	Optional Gameplay	|
-Orc Hero	|	Orc Hero	|
+Orc Hero	|	Orc 男主角	|
 Orc Heroine	|	Orc 女主角	|
 Orc Protagonist	|	Orc Protagonist	|
 Orcs	|	Orcs	|
@@ -1643,11 +1643,11 @@ Orekko Heroine	|	Orekko 女主角	|
 Organised Corruption	|	Organised Corruption	|
 Organizations not applicable	|	Organizations not applicable	|
 Orgasm Denial	|	Orgasm Denial	|
-Orphan Hero	|	Orphan Hero	|
+Orphan Hero	|	Orphan 男主角	|
 Orphan Heroine	|	Orphan 女主角	|
 Orphan Protagonist	|	Orphan Protagonist	|
 Otaku Friend	|	Otaku Friend	|
-Otaku Hero	|	Otaku Hero	|
+Otaku Hero	|	Otaku 男主角	|
 Otaku Heroine	|	Otaku 女主角	|
 Otaku Protagonist	|	Otaku Protagonist	|
 Other Elements not applicable, not searchable	|	Other Elements not applicable, not searchable	|
@@ -1656,11 +1656,11 @@ Other Perspectives	|	Other Perspectives	|
 Otome Game	|	Otome Game	|
 Outdoor Sex	|	Outdoor Sex	|
 Overlord Protagonist	|	Overlord Protagonist	|
-Oyaji Hero	|	Oyaji Hero	|
+Oyaji Hero	|	Oyaji 男主角	|
 Oyaji Protagonist	|	Oyaji Protagonist	|
 Oyakodon	|	Oyakodon	|
 Pain Only Rape	|	Pain Only Rape	|
-Painter Hero	|	Painter Hero	|
+Painter Hero	|	Painter 男主角	|
 Painter Heroine	|	Painter 女主角	|
 Painter Protagonist	|	Painter Protagonist	|
 Palace	|	Palace	|
@@ -1695,13 +1695,13 @@ Penis Cage	|	Penis Cage	|
 Penis Enhancer	|	Penis Enhancer	|
 Penis Growth	|	Penis Growth	|
 Penis Removal	|	Penis Removal	|
-Performing Arts Director Hero	|	Performing Arts Director Hero	|
+Performing Arts Director Hero	|	Performing Arts Director 男主角	|
 Personal Armed Combat	|	Personal Armed Combat	|
 Perverted Friend	|	Perverted Friend	|
-Perverted Hero	|	Perverted Hero	|
+Perverted Hero	|	Perverted 男主角	|
 Perverted Heroine	|	Perverted 女主角	|
 Perverted Protagonist	|	Perverted Protagonist	|
-P.E. Teacher Hero	|	P.E. Teacher Hero	|
+P.E. Teacher Hero	|	P.E. Teacher 男主角	|
 P.E. Teacher Heroine	|	P.E. Teacher 女主角	|
 P.E. Teacher Protagonist	|	P.E. Teacher Protagonist	|
 Petplay	|	Petplay	|
@@ -1712,7 +1712,7 @@ Pettanko Protagonist	|	Pettanko Protagonist	|
 Phantom Thieves	|	Phantom Thieves	|
 Philippines	|	Philippines	|
 Philosophy	|	Philosophy	|
-Photographer Hero	|	Photographer Hero	|
+Photographer Hero	|	Photographer 男主角	|
 Photographer Heroine	|	Photographer 女主角	|
 Photographer Protagonist	|	Photographer Protagonist	|
 Photographic Backgrounds	|	Photographic Backgrounds	|
@@ -1724,12 +1724,12 @@ Pigs	|	Pigs	|
 Piledriver	|	Piledriver	|
 Pillory Sex	|	Pillory Sex	|
 Pillow Talk	|	Pillow Talk	|
-Pilot Hero	|	Pilot Hero	|
+Pilot Hero	|	Pilot 男主角	|
 Pilot Heroine	|	Pilot 女主角	|
 Pilot Protagonist	|	Pilot Protagonist	|
 Pimp/Madam Protagonist	|	Pimp/Madam Protagonist	|
 Pioneer Heroine	|	Pioneer 女主角	|
-Pirate Hero	|	Pirate Hero	|
+Pirate Hero	|	Pirate 男主角	|
 Pirate Heroine	|	Pirate 女主角	|
 Pirate Protagonist	|	Pirate Protagonist	|
 Pirates	|	Pirates	|
@@ -1739,12 +1739,12 @@ Pissing on Others	|	Pissing on Others	|
 Pissing on Own Face	|	Pissing on Own Face	|
 Pistol Combat	|	Pistol Combat	|
 Pixel Art	|	Pixel Art	|
-Plant Hero	|	Plant Hero	|
+Plant Hero	|	Plant 男主角	|
 Plant Heroine	|	Plant 女主角	|
 Plant Sex	|	Plant Sex	|
 Plants & Flowers	|	Plants & Flowers	|
 Platform Game	|	Platform Game	|
-Playboy Hero	|	Playboy Hero	|
+Playboy Hero	|	Playboy 男主角	|
 Playboy Protagonist	|	Playboy Protagonist	|
 Player as a Character	|	Player as a Character	|
 Player Voice Interactivity	|	Player Voice Interactivity	|
@@ -1758,19 +1758,19 @@ Pokémon	|	Pokémon	|
 Poker	|	Poker	|
 Pole Dancing	|	Pole Dancing	|
 Police	|	Police	|
-Police Officer Hero	|	Police Officer Hero	|
+Police Officer Hero	|	Police Officer 男主角	|
 Police Officer Heroine	|	Police Officer 女主角	|
 Police Officer Protagonist	|	Police Officer Protagonist	|
-Polite Formal Hero	|	Polite Formal Hero	|
-Politician Hero	|	Politician Hero	|
+Polite Formal Hero	|	Polite Formal 男主角	|
+Politician Hero	|	Politician 男主角	|
 Politician Heroine	|	Politician 女主角	|
 Politics	|	Politics	|
 Polyamory	|	Polyamory	|
 Polygamy	|	Polygamy	|
-Ponytail Hero	|	Ponytail Hero	|
+Ponytail Hero	|	Ponytail 男主角	|
 Ponytail Heroine	|	Ponytail 女主角	|
 Ponytail Protagonist	|	Ponytail Protagonist	|
-Poor Hero	|	Poor Hero	|
+Poor Hero	|	Poor 男主角	|
 Poor Heroine	|	Poor 女主角	|
 Poor Protagonist	|	Poor Protagonist	|
 Popular Protagonist	|	Popular Protagonist	|
@@ -1788,36 +1788,36 @@ Pregnant Sex	|	Pregnant Sex	|
 Pre-rendered 3D Graphics	|	Pre-rendered 3D Graphics	|
 Pre-rendered Backgrounds	|	Pre-rendered Backgrounds	|
 Presentation not applicable, not searchable	|	Presentation not applicable, not searchable	|
-Pretending Hero	|	Pretending Hero	|
+Pretending Hero	|	Pretending 男主角	|
 Pretending Heroine	|	Pretending 女主角	|
 Pretending Protagonist	|	Pretending Protagonist	|
 Priestess Heroine	|	Priestess 女主角	|
 Priest(ess) Protagonist	|	Priest(ess) Protagonist	|
-Priest Hero	|	Priest Hero	|
+Priest Hero	|	Priest 男主角	|
 Priest Support Character	|	Priest Support Character	|
 Primates	|	Primates	|
 Prince Protagonist	|	Prince Protagonist	|
 Princess Heroine	|	Princess 女主角	|
 Princess Protagonist	|	Princess Protagonist	|
-Principal Hero	|	Principal Hero	|
+Principal Hero	|	Principal 男主角	|
 Principal Heroine	|	Principal 女主角	|
 Principal Protagonist	|	Principal Protagonist	|
 Prison	|	Prison	|
-Private Detective Hero	|	Private Detective Hero	|
+Private Detective Hero	|	Private Detective 男主角	|
 Private Detective Protagonist	|	Private Detective Protagonist	|
 Proactive Protagonist	|	Proactive Protagonist	|
-Proagonist's Nephew as a Hero	|	Proagonist's Nephew as a Hero	|
+Proagonist's Nephew as a Hero	|	Proagonist's Nephew as a 男主角	|
 Production of Pornography (Amateur)	|	Production of Pornography (Amateur)	|
 Production of Pornography (Drawn)	|	Production of Pornography (Drawn)	|
 Production of Pornography not applicable	|	Production of Pornography not applicable	|
 Production of Pornography (Professional)	|	Production of Pornography (Professional)	|
-Programmer Hero	|	Programmer Hero	|
+Programmer Hero	|	Programmer 男主角	|
 Programmer Heroine	|	Programmer 女主角	|
 Prolapse	|	Prolapse	|
 Promiscuity	|	Promiscuity	|
 Promiscuous Heroine	|	Promiscuous 女主角	|
 Promiscuous Protagonist	|	Promiscuous Protagonist	|
-Prostitute Hero	|	Prostitute Hero	|
+Prostitute Hero	|	Prostitute 男主角	|
 Prostitute Heroine	|	Prostitute 女主角	|
 Prostitute Protagonist	|	Prostitute Protagonist	|
 Prostitution	|	Prostitution	|
@@ -1837,32 +1837,32 @@ Protagonist's Blood-related Mother as a Heroine	|	Protagonist's Blood-related Mo
 Protagonist's Blood-related Sister as a Heroine not applicable	|	Protagonist's Blood-related Sister as a 女主角 not applicable	|
 Protagonist's Body not applicable, not searchable	|	Protagonist's Body not applicable, not searchable	|
 Protagonist's Boss as a Heroine	|	Protagonist's Boss as a 女主角	|
-Protagonist's Boss as Hero	|	Protagonist's Boss as Hero	|
-Protagonist's Boyfriend as a Hero	|	Protagonist's Boyfriend as a Hero	|
-Protagonist's Brother as a Hero	|	Protagonist's Brother as a Hero	|
-Protagonist's Childhood Friend as a Hero	|	Protagonist's Childhood Friend as a Hero	|
+Protagonist's Boss as Hero	|	Protagonist's Boss as 男主角	|
+Protagonist's Boyfriend as a Hero	|	Protagonist's Boyfriend as a 男主角	|
+Protagonist's Brother as a Hero	|	Protagonist's Brother as a 男主角	|
+Protagonist's Childhood Friend as a Hero	|	Protagonist's Childhood Friend as a 男主角	|
 Protagonist's Childhood Friend as a Heroine	|	Protagonist's Childhood Friend as a 女主角	|
 Protagonist's Clothing and Accessories not applicable, not searchable	|	Protagonist's Clothing and Accessories not applicable, not searchable	|
-Protagonist's Cousin as a Hero	|	Protagonist's Cousin as a Hero	|
+Protagonist's Cousin as a Hero	|	Protagonist's Cousin as a 男主角	|
 Protagonist's Cousin as a Heroine	|	Protagonist's Cousin as a 女主角	|
 Protagonist's Daughter as a Heroine not applicable	|	Protagonist's Daughter as a 女主角 not applicable	|
 Protagonist Selection	|	Protagonist Selection	|
 Protagonist's Employee as a Heroine	|	Protagonist's Employee as a 女主角	|
-Protagonist's Employee as Hero	|	Protagonist's Employee as Hero	|
-Protagonist's Ex as a Hero	|	Protagonist's Ex as a Hero	|
+Protagonist's Employee as Hero	|	Protagonist's Employee as 男主角	|
+Protagonist's Ex as a Hero	|	Protagonist's Ex as a 男主角	|
 Protagonist's Ex as a Heroine	|	Protagonist's Ex as a 女主角	|
-Protagonist's Father as a Hero not applicable	|	Protagonist's Father as a Hero not applicable	|
-Protagonist's Fiance as a Hero	|	Protagonist's Fiance as a Hero	|
+Protagonist's Father as a Hero not applicable	|	Protagonist's Father as a 男主角 not applicable	|
+Protagonist's Fiance as a Hero	|	Protagonist's Fiance as a 男主角	|
 Protagonist's Fiancee as a Heroine	|	Protagonist's Fiancee as a 女主角	|
 Protagonist's Full Sister as a Heroine	|	Protagonist's Full Sister as a 女主角	|
 Protagonist's Gender not applicable, not searchable	|	Protagonist's Gender not applicable, not searchable	|
 Protagonist's Girlfriend as a Heroine	|	Protagonist's Girlfriend as a 女主角	|
-Protagonist's Grandfather as a Hero	|	Protagonist's Grandfather as a Hero	|
+Protagonist's Grandfather as a Hero	|	Protagonist's Grandfather as a 男主角	|
 Protagonist's Grandmother as a Heroine	|	Protagonist's Grandmother as a 女主角	|
 Protagonist's Hair not applicable, not searchable	|	Protagonist's Hair not applicable, not searchable	|
 Protagonist's Half-sister as a Heroine	|	Protagonist's Half-sister as a 女主角	|
-Protagonist's Husband as a Hero	|	Protagonist's Husband as a Hero	|
-Protagonist's Kouhai as a Hero	|	Protagonist's Kouhai as a Hero	|
+Protagonist's Husband as a Hero	|	Protagonist's Husband as a 男主角	|
+Protagonist's Kouhai as a Hero	|	Protagonist's Kouhai as a 男主角	|
 Protagonist's Kouhai as a Heroine	|	Protagonist's Kouhai as a 女主角	|
 Protagonist's Mother as a Heroine not applicable	|	Protagonist's Mother as a 女主角 not applicable	|
 Protagonist's Niece as a Heroine	|	Protagonist's Niece as a 女主角	|
@@ -1873,20 +1873,20 @@ Protagonist's Older Sister as a Heroine	|	Protagonist's Older Sister as a 女主
 Protagonist's Opponent as a Heroine	|	Protagonist's Opponent as a 女主角	|
 Protagonist's Personality not applicable, not searchable	|	Protagonist's Personality not applicable, not searchable	|
 Protagonist's Pronoun Choice	|	Protagonist's Pronoun Choice	|
-Protagonist's Rival as a Hero	|	Protagonist's Rival as a Hero	|
+Protagonist's Rival as a Hero	|	Protagonist's Rival as a 男主角	|
 Protagonist's Rival as a Heroine	|	Protagonist's Rival as a 女主角	|
 Protagonist's Role/Vocation not applicable, not searchable	|	Protagonist's Role/Vocation not applicable, not searchable	|
-Protagonist's Senpai as a Hero	|	Protagonist's Senpai as a Hero	|
+Protagonist's Senpai as a Hero	|	Protagonist's Senpai as a 男主角	|
 Protagonist's Senpai as a Heroine	|	Protagonist's Senpai as a 女主角	|
 Protagonist's Side Image Toggle	|	Protagonist's Side Image Toggle	|
 Protagonist's Sister as a Heroine not applicable	|	Protagonist's Sister as a 女主角 not applicable	|
 Protagonist's Sister as a Support Character	|	Protagonist's Sister as a Support Character	|
 Protagonist's Sister-in-Law as a Heroine	|	Protagonist's Sister-in-Law as a 女主角	|
-Protagonist's Son as a Hero	|	Protagonist's Son as a Hero	|
+Protagonist's Son as a Hero	|	Protagonist's Son as a 男主角	|
 Protagonist's Traits not applicable, not searchable	|	Protagonist's Traits not applicable, not searchable	|
-Protagonist's Twin as a Hero	|	Protagonist's Twin as a Hero	|
+Protagonist's Twin as a Hero	|	Protagonist's Twin as a 男主角	|
 Protagonist's Twin as a Heroine	|	Protagonist's Twin as a 女主角	|
-Protagonist's Uncle as a Hero	|	Protagonist's Uncle as a Hero	|
+Protagonist's Uncle as a Hero	|	Protagonist's Uncle as a 男主角	|
 Protagonist's Wife as a Heroine	|	Protagonist's Wife as a 女主角	|
 Protagonist's Younger Sister as a Heroine	|	Protagonist's Younger Sister as a 女主角	|
 Protagonist that's Feigning Idiocy	|	Protagonist that's Feigning Idiocy	|
@@ -1954,11 +1954,11 @@ Rape by Shota	|	Rape by Shota	|
 Rape Involving Drugs	|	Rape Involving Drugs	|
 Rape on Defeat	|	Rape on Defeat	|
 Rape Roleplay	|	Rape Roleplay	|
-Rape Victim Hero	|	Rape Victim Hero	|
+Rape Victim Hero	|	Rape Victim 男主角	|
 Rape Victim Heroine	|	Rape Victim 女主角	|
 Rape Victim Protagonist	|	Rape Victim Protagonist	|
 Rape with Blackmail	|	Rape with Blackmail	|
-Rapist Hero awaiting moderation	|	Rapist Hero awaiting moderation	|
+Rapist Hero awaiting moderation	|	Rapist 男主角 awaiting moderation	|
 Rapist Heroine awaiting moderation	|	Rapist 女主角 awaiting moderation	|
 Rapist Protagonist	|	Rapist Protagonist	|
 Read Text Marking	|	Read Text Marking	|
@@ -1973,7 +1973,7 @@ Reiwa Era	|	Reiwa Era	|
 Rejuvenation	|	Rejuvenation	|
 Relationship Chart	|	Relationship Chart	|
 Relationship Problems	|	Relationship Problems	|
-Religious Hero	|	Religious Hero	|
+Religious Hero	|	Religious 男主角	|
 Religious Heroine	|	Religious 女主角	|
 Religious Location	|	Religious Location	|
 Religious Organization	|	Religious Organization	|
@@ -2000,7 +2000,7 @@ Rich Protagonist	|	Rich Protagonist	|
 Rifle Combat	|	Rifle Combat	|
 Rimming Handjob	|	Rimming Handjob	|
 Road Trip	|	Road Trip	|
-Robot Hero	|	Robot Hero	|
+Robot Hero	|	Robot 男主角	|
 Robot Heroine	|	Robot 女主角	|
 Robot Protagonist	|	Robot Protagonist	|
 Robots	|	Robots	|
@@ -2012,28 +2012,28 @@ Rope Bondage	|	Rope Bondage	|
 Roses	|	Roses	|
 Rounin Protagonist	|	Rounin Protagonist	|
 Routes not applicable, not searchable	|	Routes not applicable, not searchable	|
-Royal Hero	|	Royal Hero	|
+Royal Hero	|	Royal 男主角	|
 Royal Heroine	|	Royal 女主角	|
 Royal Protagonist	|	Royal Protagonist	|
 RPG	|	RPG	|
 Runaway Heroine	|	Runaway 女主角	|
 Rushed Game Ending	|	Rushed Game Ending	|
 Russia	|	Russia	|
-Russian Hero	|	Russian Hero	|
+Russian Hero	|	Russian 男主角	|
 Russian Heroine	|	Russian 女主角	|
 Russian Protagonist	|	Russian Protagonist	|
 Ryokan	|	Ryokan	|
 Ryona	|	Ryona	|
 Sacred Treasure	|	Sacred Treasure	|
 Sacrifice	|	Sacrifice	|
-Sadist Hero	|	Sadist Hero	|
+Sadist Hero	|	Sadist 男主角	|
 Sadist Heroine	|	Sadist 女主角	|
 Sadist Protagonist	|	Sadist Protagonist	|
 Sadist Support Character	|	Sadist Support Character	|
-Salaryman Hero	|	Salaryman Hero	|
+Salaryman Hero	|	Salaryman 男主角	|
 Salaryman Protagonist	|	Salaryman Protagonist	|
 Salesman Protagonist	|	Salesman Protagonist	|
-Samurai Hero	|	Samurai Hero	|
+Samurai Hero	|	Samurai 男主角	|
 Samurai Protagonist	|	Samurai Protagonist	|
 Sanatorium	|	Sanatorium	|
 Save Memo Function	|	Save Memo Function	|
@@ -2047,19 +2047,19 @@ School Art Club	|	School Art Club	|
 School Dormitory	|	School Dormitory	|
 School Festival	|	School Festival	|
 School Life Comedy	|	School Life Comedy	|
-School Nurse Hero	|	School Nurse Hero	|
+School Nurse Hero	|	School Nurse 男主角	|
 School Nurse Heroine	|	School Nurse 女主角	|
 School Nurse Support Character	|	School Nurse Support Character	|
 School Play	|	School Play	|
 School Sports Club	|	School Sports Club	|
-School Sports Club Member Hero	|	School Sports Club Member Hero	|
+School Sports Club Member Hero	|	School Sports Club Member 男主角	|
 School Sports Club Member Heroine	|	School Sports Club Member 女主角	|
 School Sports Club Member Protagonist	|	School Sports Club Member Protagonist	|
-School Sports Club President Hero	|	School Sports Club President Hero	|
+School Sports Club President Hero	|	School Sports Club President 男主角	|
 School Sports Club President Heroine	|	School Sports Club President 女主角	|
 Science Fantasy	|	Science Fantasy	|
 Science Fiction	|	Science Fiction	|
-Scientist Hero	|	Scientist Hero	|
+Scientist Hero	|	Scientist 男主角	|
 Scientist Heroine	|	Scientist 女主角	|
 Scientist Protagonist	|	Scientist Protagonist	|
 Screenshot Backgrounds	|	Screenshot Backgrounds	|
@@ -2071,7 +2071,7 @@ Secretary Protagonist	|	Secretary Protagonist	|
 Secret Identity	|	Secret Identity	|
 Secret Romance	|	Secret Romance	|
 Secret Society	|	Secret Society	|
-Seiyuu Hero	|	Seiyuu Hero	|
+Seiyuu Hero	|	Seiyuu 男主角	|
 Seiyuu Heroine	|	Seiyuu 女主角	|
 Seke Protagonist	|	Seke Protagonist	|
 Selective Coloring	|	Selective Coloring	|
@@ -2146,34 +2146,34 @@ Sherlock Holmes	|	Sherlock Holmes	|
 Shimaidon	|	Shimaidon	|
 Shimaidon with Twins	|	Shimaidon with Twins	|
 Shingeki no Kyojin	|	Shingeki no Kyojin	|
-Shinigami Hero	|	Shinigami Hero	|
+Shinigami Hero	|	Shinigami 男主角	|
 Shinigami Heroine	|	Shinigami 女主角	|
 Shinigami Protagonist	|	Shinigami Protagonist	|
 Shinobi	|	Shinobi	|
-Shinobi Hero	|	Shinobi Hero	|
+Shinobi Hero	|	Shinobi 男主角	|
 Shinsengumi	|	Shinsengumi	|
 Shinto Shrine	|	Shinto Shrine	|
 Ship	|	Ship	|
 Shoejob	|	Shoejob	|
 Shooter Game	|	Shooter Game	|
-Shopkeeper Hero	|	Shopkeeper Hero	|
+Shopkeeper Hero	|	Shopkeeper 男主角	|
 Shopkeeper Heroine	|	Shopkeeper 女主角	|
 Shopkeeper Protagonist	|	Shopkeeper Protagonist	|
-Short Hero	|	Short Hero	|
+Short Hero	|	Short 男主角	|
 Short Heroine	|	Short 女主角	|
 Short Sexual Scenes	|	Short Sexual Scenes	|
 Shotacon	|	Shotacon	|
-Shotacon Hero	|	Shotacon Hero	|
+Shotacon Hero	|	Shotacon 男主角	|
 Shotacon Heroine	|	Shotacon 女主角	|
 Shotacon Protagonist	|	Shotacon Protagonist	|
-Shota Hero	|	Shota Hero	|
+Shota Hero	|	Shota 男主角	|
 Shota Protagonist	|	Shota Protagonist	|
 Shota Support Character	|	Shota Support Character	|
 Shouwa Era	|	Shouwa Era	|
-Shy Hero	|	Shy Hero	|
+Shy Hero	|	Shy 男主角	|
 Shy Heroine	|	Shy 女主角	|
 Sibling Rivalry	|	Sibling Rivalry	|
-Sickly Hero	|	Sickly Hero	|
+Sickly Hero	|	Sickly 男主角	|
 Sickly Heroine	|	Sickly 女主角	|
 Sickly Protagonist	|	Sickly Protagonist	|
 Side Character Having Sex with Others	|	Side Character Having Sex with Others	|
@@ -2181,7 +2181,7 @@ Side Character Rape by Others	|	Side Character Rape by Others	|
 Side Images	|	Side Images	|
 Silhouettes	|	Silhouettes	|
 Simulation Game	|	Simulation Game	|
-Singer Hero	|	Singer Hero	|
+Singer Hero	|	Singer 男主角	|
 Singer Heroine	|	Singer 女主角	|
 Single Blowjob	|	Single Blowjob	|
 Single Bodyjob	|	Single Bodyjob	|
@@ -2199,7 +2199,7 @@ Single Legjob	|	Single Legjob	|
 Single Leg Legjob	|	Single Leg Legjob	|
 Single Save Slot	|	Single Save Slot	|
 Single-sex School not applicable	|	Single-sex School not applicable	|
-Siscon Hero	|	Siscon Hero	|
+Siscon Hero	|	Siscon 男主角	|
 Siscon Protagonist	|	Siscon Protagonist	|
 Siscon Support Character	|	Siscon Support Character	|
 Sister/Sister Incest	|	Sister/Sister Incest	|
@@ -2207,14 +2207,14 @@ Sister/Sister Romance	|	Sister/Sister Romance	|
 Sister Support Character	|	Sister Support Character	|
 Sitting Sex	|	Sitting Sex	|
 Sixty-nine	|	Sixty-nine	|
-Skeleton Hero	|	Skeleton Hero	|
+Skeleton Hero	|	Skeleton 男主角	|
 Skin Color Selection	|	Skin Color Selection	|
 Skippable Gameplay	|	Skippable Gameplay	|
 Skip Scenes	|	Skip Scenes	|
 Skip to Choices not applicable	|	Skip to Choices not applicable	|
 Skull-fucking	|	Skull-fucking	|
 Slapstick	|	Slapstick	|
-Slave Hero	|	Slave Hero	|
+Slave Hero	|	Slave 男主角	|
 Slave Heroine	|	Slave 女主角	|
 Slave Protagonist	|	Slave Protagonist	|
 Slavery	|	Slavery	|
@@ -2225,7 +2225,7 @@ Slice of Life Drama	|	Slice of Life Drama	|
 Slice of Life Realism	|	Slice of Life Realism	|
 Slime Monster Rape	|	Slime Monster Rape	|
 Slums	|	Slums	|
-Smoker Hero	|	Smoker Hero	|
+Smoker Hero	|	Smoker 男主角	|
 Smoker Heroine	|	Smoker 女主角	|
 Smoker Protagonist	|	Smoker Protagonist	|
 Sniper Heroine	|	Sniper 女主角	|
@@ -2236,7 +2236,7 @@ Soccer	|	Soccer	|
 Social Networking Service	|	Social Networking Service	|
 Societal Collapse	|	Societal Collapse	|
 Softcore	|	Softcore	|
-Soldier Hero	|	Soldier Hero	|
+Soldier Hero	|	Soldier 男主角	|
 Soldier Heroine	|	Soldier 女主角	|
 Soldier Protagonist	|	Soldier Protagonist	|
 Sounds and Music not applicable, not searchable	|	Sounds and Music not applicable, not searchable	|
@@ -2258,7 +2258,7 @@ Spring	|	Spring	|
 Sprite Filter	|	Sprite Filter	|
 Sprites not applicable, not searchable	|	Sprites not applicable, not searchable	|
 Sprite Viewer	|	Sprite Viewer	|
-Spy Hero	|	Spy Hero	|
+Spy Hero	|	Spy 男主角	|
 Spy Heroine	|	Spy 女主角	|
 Spy Protagonist	|	Spy Protagonist	|
 SRPG	|	SRPG	|
@@ -2287,20 +2287,20 @@ Strong Female Protagonist	|	Strong Female Protagonist	|
 Stuck in Meatwall	|	Stuck in Meatwall	|
 Stuck-in-Wall Sex	|	Stuck-in-Wall Sex	|
 Student Club	|	Student Club	|
-Student Club Member Hero	|	Student Club Member Hero	|
+Student Club Member Hero	|	Student Club Member 男主角	|
 Student Club Member Heroine	|	Student Club Member 女主角	|
 Student Club Member Protagonist	|	Student Club Member Protagonist	|
-Student Club President Hero	|	Student Club President Hero	|
+Student Club President Hero	|	Student Club President 男主角	|
 Student Club President Heroine	|	Student Club President 女主角	|
 Student Club President Protagonist	|	Student Club President Protagonist	|
 Student Council	|	Student Council	|
-Student Council Member Hero	|	Student Council Member Hero	|
+Student Council Member Hero	|	Student Council Member 男主角	|
 Student Council Member Heroine	|	Student Council Member 女主角	|
 Student Council Member Protagonist	|	Student Council Member Protagonist	|
-Student Council President Hero	|	Student Council President Hero	|
+Student Council President Hero	|	Student Council President 男主角	|
 Student Council President Heroine	|	Student Council President 女主角	|
 Student Council President Protagonist	|	Student Council President Protagonist	|
-Student Hero	|	Student Hero	|
+Student Hero	|	Student 男主角	|
 Student Heroine	|	Student 女主角	|
 Student Protagonist	|	Student Protagonist	|
 Student-Teacher Romance	|	Student-Teacher Romance	|
@@ -2312,7 +2312,7 @@ Succubus Heroine	|	Succubus 女主角	|
 Suction on Nipples	|	Suction on Nipples	|
 Suction on Penis	|	Suction on Penis	|
 Sudden Girlfriend Appearance	|	Sudden Girlfriend Appearance	|
-Suicidal Hero	|	Suicidal Hero	|
+Suicidal Hero	|	Suicidal 男主角	|
 Suicidal Heroine	|	Suicidal 女主角	|
 Suicidal Protagonist	|	Suicidal Protagonist	|
 Suicide	|	Suicide	|
@@ -2351,10 +2351,10 @@ Tailjob	|	Tailjob	|
 Taishou Era	|	Taishou Era	|
 Talking Animal	|	Talking Animal	|
 Talking Object	|	Talking Object	|
-Tall Hero	|	Tall Hero	|
+Tall Hero	|	Tall 男主角	|
 Tall Heroine	|	Tall 女主角	|
 Tarot Cards	|	Tarot Cards	|
-Teacher Hero	|	Teacher Hero	|
+Teacher Hero	|	Teacher 男主角	|
 Teacher Heroine	|	Teacher 女主角	|
 Teacher of Magic Protagonist	|	Teacher of Magic Protagonist	|
 Teacher pointer awaiting moderation	|	Teacher pointer awaiting moderation	|
@@ -2377,7 +2377,7 @@ The Holiday Season	|	The Holiday Season	|
 Theme not applicable, not searchable	|	Theme not applicable, not searchable	|
 The Seven Deadly Sins	|	The Seven Deadly Sins	|
 The Seven School Mysteries	|	The Seven School Mysteries	|
-Thief Hero	|	Thief Hero	|
+Thief Hero	|	Thief 男主角	|
 Thief Heroine	|	Thief 女主角	|
 Thief Protagonist	|	Thief Protagonist	|
 Third-person Narrative	|	Third-person Narrative	|
@@ -2395,7 +2395,7 @@ Time Loop	|	Time Loop	|
 Time Period not applicable, not searchable	|	Time Period not applicable, not searchable	|
 Time Stop	|	Time Stop	|
 Time Travel	|	Time Travel	|
-Timid Hero	|	Timid Hero	|
+Timid Hero	|	Timid 男主角	|
 Timid Heroine	|	Timid 女主角	|
 Timid Protagonist	|	Timid Protagonist	|
 Title Parody	|	Title Parody	|
@@ -2412,11 +2412,11 @@ Trade Simulation	|	Trade Simulation	|
 Traditionalist Family	|	Traditionalist Family	|
 Trains	|	Trains	|
 Trampling	|	Trampling	|
-Transfer Student Hero	|	Transfer Student Hero	|
+Transfer Student Hero	|	Transfer Student 男主角	|
 Transfer Student Heroine	|	Transfer Student 女主角	|
 Transfer Student Protagonist	|	Transfer Student Protagonist	|
 Transformation Sequence(s)	|	Transformation Sequence(s)	|
-Transgender Hero	|	Transgender Hero	|
+Transgender Hero	|	Transgender 男主角	|
 Transgender Heroine	|	Transgender 女主角	|
 Transgender Protagonist	|	Transgender Protagonist	|
 Transgender Support Character	|	Transgender Support Character	|
@@ -2427,7 +2427,7 @@ Trap on Male	|	Trap on Male	|
 Trap Protagonist	|	Trap Protagonist	|
 Trap Support Character	|	Trap Support Character	|
 Traveler Protagonist	|	Traveler Protagonist	|
-Traveller Hero	|	Traveller Hero	|
+Traveller Hero	|	Traveller 男主角	|
 Treasure Hunting	|	Treasure Hunting	|
 Triad	|	Triad	|
 Tribadism	|	Tribadism	|
@@ -2441,7 +2441,7 @@ Triplet+ Heroines	|	Triplet+ 女主角s	|
 Triplets as Support Characters	|	Triplets as Support Characters	|
 Tsukkomi Heroine	|	Tsukkomi 女主角	|
 Tsukkomi Protagonist	|	Tsukkomi Protagonist	|
-Tsundere Hero	|	Tsundere Hero	|
+Tsundere Hero	|	Tsundere 男主角	|
 Tsundere Heroine	|	Tsundere 女主角	|
 Tsundere Protagonist	|	Tsundere Protagonist	|
 Turn Based Strategy Game	|	Turn Based Strategy Game	|
@@ -2449,7 +2449,7 @@ Twin Bellyjob	|	Twin Bellyjob	|
 Twin Blowjob	|	Twin Blowjob	|
 Twin+ Bodyjob	|	Twin+ Bodyjob	|
 Twin Boobjob	|	Twin Boobjob	|
-Twin Brothers as Heroes	|	Twin Brothers as Heroes	|
+Twin Brothers as Heroes	|	Twin Brothers as 男主角es	|
 Twin Buttjob	|	Twin Buttjob	|
 Twincest	|	Twincest	|
 Twin Footjob	|	Twin Footjob	|
@@ -2458,7 +2458,7 @@ Twin+ Legjob	|	Twin+ Legjob	|
 Twins as Support Characters	|	Twins as Support Characters	|
 Twin Sisters as Heroines	|	Twin Sisters as 女主角s	|
 Twin Sister Support Character	|	Twin Sister Support Character	|
-Twin Tail Hero	|	Twin Tail Hero	|
+Twin Tail Hero	|	Twin Tail 男主角	|
 Twin Tail Heroine	|	Twin Tail 女主角	|
 Twitter	|	Twitter	|
 Type not applicable, not searchable	|	Type not applicable, not searchable	|
@@ -2467,14 +2467,14 @@ Ugly Protagonist	|	Ugly Protagonist	|
 Uke Protagonist	|	Uke Protagonist	|
 Unarmed Combat	|	Unarmed Combat	|
 Unarmed Fighting Heroine	|	Unarmed Fighting 女主角	|
-Unavoidable Death of Hero	|	Unavoidable Death of Hero	|
+Unavoidable Death of Hero	|	Unavoidable Death of 男主角	|
 Unavoidable Death of Heroine	|	Unavoidable Death of 女主角	|
 Unavoidable Death of Protagonist	|	Unavoidable Death of Protagonist	|
 Unavoidable Harem Ending	|	Unavoidable Harem Ending	|
 Unavoidable Heroine Rape	|	Unavoidable 女主角 Rape	|
 Unavoidable Heroine Rape by Others	|	Unavoidable 女主角 Rape by Others	|
 Unavoidable Heroine Rape by Protagonist	|	Unavoidable 女主角 Rape by Protagonist	|
-Unavoidable Hero Rape	|	Unavoidable Hero Rape	|
+Unavoidable Hero Rape	|	Unavoidable 男主角 Rape	|
 Unavoidable Netorare	|	Unavoidable Netorare	|
 Unavoidable Protagonist Rape	|	Unavoidable Protagonist Rape	|
 Unavoidable Rape	|	Unavoidable Rape	|
@@ -2485,7 +2485,7 @@ Uncle/Nephew Incest	|	Uncle/Nephew Incest	|
 Uncle/Niece Incest	|	Uncle/Niece Incest	|
 Uncredited Voice Acting	|	Uncredited Voice Acting	|
 Undead	|	Undead	|
-Undead Hero	|	Undead Hero	|
+Undead Hero	|	Undead 男主角	|
 Undead Heroine	|	Undead 女主角	|
 Undead Protagonist	|	Undead Protagonist	|
 Under the Same Roof	|	Under the Same Roof	|
@@ -2496,7 +2496,7 @@ Unicorn	|	Unicorn	|
 Unique Routes	|	Unique Routes	|
 Universe not applicable, not searchable	|	Universe not applicable, not searchable	|
 University	|	University	|
-University Student Hero	|	University Student Hero	|
+University Student Hero	|	University Student 男主角	|
 University Student Heroine	|	University Student 女主角	|
 University Student Protagonist	|	University Student Protagonist	|
 Unknown Gender Protagonist	|	Unknown Gender Protagonist	|
@@ -2508,14 +2508,14 @@ Unlockable Event	|	Unlockable Event	|
 Unlockable Fighters	|	Unlockable Fighters	|
 Unlockable Gallery	|	Unlockable Gallery	|
 Unlockable Harem Ending	|	Unlockable Harem Ending	|
-Unlockable Hero(ine)	|	Unlockable Hero(ine)	|
+Unlockable Hero(ine)	|	Unlockable 男主角(ine)	|
 Unlockable Prologue	|	Unlockable Prologue	|
 Unlockable Protagonist	|	Unlockable Protagonist	|
 Unlockable Routes	|	Unlockable Routes	|
 Unlockable Sexual Content	|	Unlockable Sexual Content	|
 Unlockable Side Stories	|	Unlockable Side Stories	|
 Unlock All Scenes Option	|	Unlock All Scenes Option	|
-Unnamed Hero	|	Unnamed Hero	|
+Unnamed Hero	|	Unnamed 男主角	|
 Unnamed Heroine	|	Unnamed 女主角	|
 Unnamed Protagonist	|	Unnamed Protagonist	|
 Unreliable Narrator	|	Unreliable Narrator	|
@@ -2525,7 +2525,7 @@ Urban Legend	|	Urban Legend	|
 Urethral Intercourse	|	Urethral Intercourse	|
 Urethral Sounding	|	Urethral Sounding	|
 Urination Fetish not applicable	|	Urination Fetish not applicable	|
-Usagimimi Hero	|	Usagimimi Hero	|
+Usagimimi Hero	|	Usagimimi 男主角	|
 Usamimi Heroine	|	Usamimi 女主角	|
 Used Condoms Exposition	|	Used Condoms Exposition	|
 Ushimimi Heroine	|	Ushimimi 女主角	|
@@ -2544,9 +2544,9 @@ Vaginal Pump	|	Vaginal Pump	|
 Valentine's Day	|	Valentine's Day	|
 Valkyrie Heroine	|	Valkyrie 女主角	|
 Vampire	|	Vampire	|
-Vampire Hero	|	Vampire Hero	|
+Vampire Hero	|	Vampire 男主角	|
 Vampire Heroine	|	Vampire 女主角	|
-Vampire Hunter Hero	|	Vampire Hunter Hero	|
+Vampire Hunter Hero	|	Vampire Hunter 男主角	|
 Vampire Hunter Heroine	|	Vampire Hunter 女主角	|
 Vampire Hunter Protagonist	|	Vampire Hunter Protagonist	|
 Vampire Protagonist	|	Vampire Protagonist	|
@@ -2557,7 +2557,7 @@ Vehicular Combat	|	Vehicular Combat	|
 Vertically Oriented Text	|	Vertically Oriented Text	|
 Veterinarian Heroine	|	Veterinarian 女主角	|
 Vibrators	|	Vibrators	|
-Villainous Hero	|	Villainous Hero	|
+Villainous Hero	|	Villainous 男主角	|
 Villainous Heroine	|	Villainous 女主角	|
 Villainous Protagonist	|	Villainous Protagonist	|
 Violence	|	暴力	|
@@ -2577,7 +2577,7 @@ Vomiting Fetish	|	Vomiting Fetish	|
 Vore	|	Vore	|
 Voyeurism	|	Voyeurism	|
 VR Headset Support awaiting moderation	|	VR Headset Support awaiting moderation	|
-Waiter Hero	|	Waiter Hero	|
+Waiter Hero	|	Waiter 男主角	|
 Waiting Staff Protagonist	|	Waiting Staff Protagonist	|
 Waitress Heroine	|	Waitress 女主角	|
 Wakame Sake	|	Wakame Sake	|
@@ -2585,10 +2585,10 @@ Wake-up Sex	|	Wake-up Sex	|
 War	|	War	|
 Wax Play	|	Wax Play	|
 Weak-willed Heroine	|	Weak-willed 女主角	|
-Wealthy Hero	|	Wealthy Hero	|
+Wealthy Hero	|	Wealthy 男主角	|
 Wedding	|	Wedding	|
 Werewolf	|	Werewolf	|
-Werewolf Hero	|	Werewolf Hero	|
+Werewolf Hero	|	Werewolf 男主角	|
 Werewolf Heroine	|	Werewolf 女主角	|
 Werewolf Protagonist	|	Werewolf Protagonist	|
 Western	|	Western	|
@@ -2596,10 +2596,10 @@ Western-style Castle	|	Western-style Castle	|
 Western-style Mansion	|	Western-style Mansion	|
 Wet and Messy	|	Wet and Messy	|
 Whipping	|	Whipping	|
-White Haired Hero	|	White Haired Hero	|
+White Haired Hero	|	White Haired 男主角	|
 White Haired Heroine	|	White Haired 女主角	|
 White Haired Protagonist	|	White Haired Protagonist	|
-Widower Hero	|	Widower Hero	|
+Widower Hero	|	Widower 男主角	|
 Widow(er) Protagonist	|	Widow(er) Protagonist	|
 Widow Heroine	|	Widow 女主角	|
 Winter	|	Winter	|
@@ -2611,7 +2611,7 @@ World War I	|	World War I	|
 World War II	|	World War II	|
 Wormhole Sex	|	Wormhole Sex	|
 Wrestling (Sport)	|	Wrestling (Sport)	|
-Writer Hero	|	Writer Hero	|
+Writer Hero	|	Writer 男主角	|
 Writer Heroine	|	Writer 女主角	|
 Writer Protagonist	|	Writer Protagonist	|
 X-Cross	|	X-Cross	|
@@ -2620,14 +2620,14 @@ Yakuza	|	Yakuza	|
 Yakuza Heroine	|	Yakuza 女主角	|
 Yamato Nadeshiko Heroine	|	Yamato Nadeshiko 女主角	|
 Yamato Nadeshiko Protagonist	|	Yamato Nadeshiko Protagonist	|
-Yandere Hero	|	Yandere Hero	|
+Yandere Hero	|	Yandere 男主角	|
 Yandere Heroine	|	Yandere 女主角	|
 Yandere Protagonist	|	Yandere Protagonist	|
-Yangire Hero	|	Yangire Hero	|
+Yangire Hero	|	Yangire 男主角	|
 Yangire Heroine	|	Yangire 女主角	|
 Yaoi Game Jam	|	Yaoi Game Jam	|
 Youkai	|	Youkai	|
-Youkai Hero	|	Youkai Hero	|
+Youkai Hero	|	Youkai 男主角	|
 Youkai Heroine	|	Youkai 女主角	|
 Youkai Protagonist	|	Youkai Protagonist	|
 Yuki-onna Heroine	|	Yuki-onna 女主角	|
