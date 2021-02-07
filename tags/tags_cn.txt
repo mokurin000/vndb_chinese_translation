@@ -75,21 +75,21 @@ Anal Grapeshot
 Anal Masturbation
 Anal Penetration not applicable
 Anal Plug Tail
-Anal Rape
-Anal Sex
-Anal Toys
+肛奸
+肛交
+肛门玩具，肛门的玩具
 Anal Vore
 Ancient Rome
 Androphobic Heroine
 Angel Hero
 Angel Heroine
 Angel Protagonist
-Angels
+天使
 Anilingus
 Animal Cosplay not applicable
 Animal Cruelty
 Animal Protagonist
-Animals
+动物，兽，兽人，兽耳
 Animated Ending
 Announcer Heroine
 Anthology
@@ -152,9 +152,9 @@ Babysitting
 Background Moans
 Backlog Jump
 Back Skip Function
-Bad Ending(s)
-Bad Endings with Story
-Bad True End
+坏结局，BE
+坏结局有剧情
+坏真结局
 Baker Hero
 Baker Heroine
 Baker Protagonist
@@ -315,8 +315,8 @@ Castration
 Catboy Hero
 Cat Cosplay
 Catgirl Heroine
-如果游戏中出现了一个不是女主角或主角的猫娘，就用这个标签。
-这款游戏有一只或多只猫（娘）在故事中担任重要角色。或者是在很多场景上都有猫（娘）的身影，并有多句与之相关的对话。
+猫娘配角
+猫（娘）
 Celestial Body Hero
 Celestial Body Heroine
 Celestial Body Protagonist
@@ -387,8 +387,8 @@ Clothed Female Naked Female
 Clothed Female Naked Male
 Clothed Male Naked Female
 Clothed Male Naked Male
-Clothing Damage
-Clothing ON/OFF
+衣物破损
+衣物开关
 Coach Hero
 Coach Heroine
 Coach Protagonist
@@ -564,10 +564,10 @@ Divorcee Hero
 Divorcee Heroine
 Divorcee Protagonist
 Dogboy Hero
-Dog Cosplay
+狗娘cosplay
 Doggirl Heroine
 Doggy Style
-Dogs
+狗娘
 Dojikko Heroine
 Domestic Violence
 Domicile
@@ -1033,12 +1033,12 @@ High Amount of Special Effects
 High Amounts of Rape
 High Fantasy
 Highly Animated Sprites
-High School
+高中
 High School AU
 High School Student Hero
 High School Student Heroine
 High School Student Protagonist
-High Sexual Content
+大量色情内容，H场景多，
 Hikikomori Hero
 Hikikomori Heroine
 Hikikomori Protagonist
@@ -1059,7 +1059,7 @@ Homunculus Protagonist
 Homunculus Support Character
 Honey Select based Graphics awaiting moderation
 Horror
-Horse
+马
 Hospital
 Hostage Crisis
 Host Club Hero
@@ -1068,7 +1068,7 @@ Hotblooded Hero
 Hotblooded Heroine
 Hotblooded Protagonist
 Hotblooded Support Character
-Hotel
+旅馆
 Huge Insertion
 Human Branding
 Human Cattle
@@ -1079,7 +1079,7 @@ Identity Crisis
 Idol Hero
 Idol Heroine
 Idol Protagonist
-Illness
+病
 Immortal Hero
 Immortal Heroine
 Immortal Protagonist
@@ -1459,73 +1459,6 @@ Naked Dogeza
 Naked Heroine with Apron
 Naked Sprites
 Nakige
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
-Name ▴▾
 Nameable Character(s)
 Nameable Hero(es)
 Nameable Heroine(s)
@@ -2624,10 +2557,10 @@ Vibrators
 Villainous Hero
 Villainous Heroine
 Villainous Protagonist
-Violence
+暴力
 Virtual Reality
 Visible Cervix Penetration
-Vocaloid
+Vocaloid，V家
 Voice Acting not applicable
 Voiced Commentary
 Voiced Default Name

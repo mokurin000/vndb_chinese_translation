@@ -6,4 +6,4 @@ for i in {1..`curl https://vndb.org/g/list | hq a data|grep last|head -n 1| sed 
 do  curl -O 'https://vndb.org/g/list?p='$i
     sleep 3
 done
-cat *|hq td.tc3 text|grep -v deleted|sort > "${current_dir}/tags.txt"
+cat *|hq td.tc3 text|grep -v deleted|grep -v ▴▾|sort > "${current_dir}/tags.txt"
