@@ -10,10 +10,10 @@
 
 https://crates.io/crates/vndb_tags_get
 
-即将上传release到github（也许）
-
 ## 贡献
 
 <s>到上面的链接进入gitlocalize参与翻译。</s>
+
+https://gitlocalize.com/repo/5721 在这里翻译。
 
 ## Contributors
