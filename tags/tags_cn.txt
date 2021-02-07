@@ -14,57 +14,57 @@
 成就
 动作
 动作游戏
-Actor/Actress Protagonist
-Actor 男主角
-Actress 女主角
+演员主角
+演员男主角
+演员女主角
 Addict 女主角
-Addict Protagonist
+Addict 主角
 Adolescent Romance
 Adult Breast Feeding
 Adult 男主角
 Adult 女主角
-Adult Protagonist
+Adult 主角
 冒险游戏
 African 男主角
 African 女主角
-African Protagonist
+African 主角
 死后生活
 Ahegao
 AI 男主角
 AI 女主角
-AI Protagonist
+AI 主角
 Airhead 男主角
 Airhead 女主角
-Airhead Protagonist
+Airhead 主角
 飞机
 飞机作战
 Albino 男主角
 Albino 女主角
-Albino Protagonist
+Albino 主角
 Alchemy
 Alcoholism
-Alien 男主角
-Alien 女主角
-Alien Protagonist
-All Adult 男主角es
-All Adult 女主角s
-All-boys School
-All-girls School
-All 男主角es Are Protagonist's Brothers
-All 女主角s are Protagonist's Sister(s)
-All Loli 女主角s
-All Older 女主角s
+外星人男主角
+外星人女主角
+外星人主角
+成年男主角
+成年女主角
+男子学校，女子学院
+女子学校，女子学院
+男主角均为主角的兄弟
+女主角均为主角的妹妹
+全萝莉女主角
+全更年长女主角
 All Shota 男主角es
 All the Way Through
-All Younger 女主角s
+全更年轻女主角
 Alternate Dimensions
 Alternate Starting Point
 Ambient Sounds
-American 男主角
-American 女主角
-American Protagonist
+美国人男主角
+美国人女主角
+美国人主角
 Amnesia
-Amnesiac Protagonist
+Amnesiac 主角
 Amphibians
 Amusement Park
 Anal Birth
@@ -73,8 +73,7 @@ Anal Fisting
 Anal Gaping
 Anal Grapeshot
 Anal Masturbation
-Anal Penetration not applicable
-Anal Plug Tail
+肛门塞尾
 肛奸
 肛交
 肛门玩具，肛门的玩具
@@ -83,18 +82,17 @@ Ancient Rome
 Androphobic 女主角
 Angel 男主角
 Angel 女主角
-Angel Protagonist
+Angel 主角
 天使
 Anilingus
-Animal Cosplay not applicable
 Animal Cruelty
-Animal Protagonist
+Animal 主角
 动物，兽，兽人，兽耳
 Animated Ending
 Announcer 女主角
 Anthology
 Anthropomorphized Inanimate Object
-Antihero Protagonist
+Antihero 主角
 Apartment Building
 Apocalypse
 April Fool's
@@ -109,23 +107,23 @@ Armbinder
 Armpit Licking
 Armpit Sex
 Arranged Marriage
-Arrogant 男主角
-Arrogant 女主角
-Arrogant Protagonist
+傲慢男主角
+傲慢女主角
+傲慢主角
 Artificial Intelligence
-Artist 男主角
-Artist 女主角
-Artist Protagonist
+艺术家男主角
+艺术家女主角
+艺术家主角
 Asian-style Castle
 Asian-style Manor
 Asian-style Palace
-Assassin 男主角
-Assassin 女主角
-Assassin Protagonist
+刺客男主角
+刺客女主角
+刺客主角
 Astronomy Club
 Athlete 男主角
 Athlete 女主角
-Athlete Protagonist
+Athlete 主角
 Athletics Festival
 Attempted Rape
 Attempted Suicide
@@ -133,7 +131,7 @@ Aunt/Nephew Incest
 Aunt/Niece Incest
 Australia
 Author Commentary
-Autistic 女主角
+自闭症女主角
 Auto-Boobjob
 Autobukkake
 Autocunnilingus
@@ -143,7 +141,7 @@ Autosave Only
 Autumn
 Avoidable Death of 男主角
 Avoidable Death of 女主角
-Avoidable Death of Protagonist
+Avoidable Death of 主角
 Avoidable Netorare
 Avoidable Rape
 Axe Combat
@@ -157,11 +155,11 @@ Back Skip Function
 坏真结局
 Baker 男主角
 Baker 女主角
-Baker Protagonist
+Baker 主角
 Bakumatsu Era
 Bald 男主角
 Bald 女主角
-Bald Protagonist
+Bald 主角
 Ballbusting
 Ball-cupping
 Balljob
@@ -170,14 +168,14 @@ Bar
 Bara
 Barmaid 女主角
 Bartender 男主角
-Bartender Protagonist
+Bartender 主角
 Baseball
 Baseball Club
-Based on Actual Events
-Based on a Light Novel
-Based on a Manga
-Based on an Anime
-Based on a Web Novel
+改编自现实事件
+改编自轻小说
+改编自漫画
+改编自动漫
+改编自网络小说
 Basketball
 Bathroom Sex
 Battle of Wits
@@ -191,17 +189,14 @@ Bellyjob
 Bestiality
 Betrayal
 Big Ass 女主角
-Big Ass Protagonist
-Big Breast Sizes 女主角 not applicable
-Big Breast Sizes Protagonist not applicable
+Big Ass 主角
 Binaural Audio
 Biological Weapon
-Birds
-Birth not applicable
+鸟（人）
 Birthrate Decline
-Bisexual 男主角
-Bisexual 女主角
-Bisexual Protagonist
+双性恋男主角
+双性恋女主角
+双性恋主角
 Bishoujo Senshi Sailor Moon
 Black and White
 Black Comedy
@@ -210,7 +205,7 @@ Bleep Censor
 Blind Choices
 Blind 男主角
 Blind 女主角
-Blind Protagonist
+Blind 主角
 Bloodplay
 Blood-related Aunt/Nephew Incest
 Blood-related Brother/Brother Incest
@@ -221,7 +216,6 @@ Blood-related Father/Daughter Incest
 Blood-related Father 男主角
 Blood-related Father/Son Incest
 Blood-related Grandmother/Grandson Incest
-Blood-related Incest not applicable
 Blood-related Mother/Daughter Incest
 Blood-related Mother/Son Incest
 Blood-related Sister/Sister Incest
@@ -230,7 +224,6 @@ Bloody Scenes
 Blowbang
 Blowbang (One Mouth Multiple Penises)
 Blowjob Duck Face
-Blowjob not applicable
 Board Game
 Boarding House
 Boarding School
@@ -238,29 +231,27 @@ Body Fluid Tube
 Body Food
 Bodyguard 男主角
 Bodyguard 女主角
-Bodyguard Protagonist
+Bodyguard 主角
 Body Hair Option
 Body Horror
-Bodyjob not applicable
 Body of Water
 Body Piercing
 Body Smell Fetish
 Body Swapping
 Body Writing
 Boke 女主角
-Boke Protagonist
+Boke 主角
 Bokukko 女主角
 Bondage
 Bondage Weights
 Bonus Episodes
-Boobjob not applicable
 Boobs on Glass
 Book 女主角
 Bookworm 男主角
 Bookworm 女主角
-Bookworm Protagonist
+Bookworm 主角
 Both Male and Female Love Interests
-Bounty Hunter Protagonist
+Bounty Hunter 主角
 Boxing
 Boy x Boy Romance
 Boy x Boy Romance Only
@@ -276,10 +267,10 @@ Brief Branches Only
 Brief NVL Scenes
 Brief Third-person Narrative Sections
 British Mythology
-British Protagonist awaiting moderation
+British 主角 awaiting moderation
 Broadcasting Club
 Brocon 女主角
-Brocon Protagonist
+Brocon 主角
 Brocon Support Character
 Brothel
 兄弟乱伦
@@ -297,13 +288,12 @@ Bunnygirl Cosplay
 Businesswoman 女主角
 Butler 男主角
 Butler 女主角
-Butler Protagonist
+Butler 主角
 Butler Support Character
 Butterflies
-Buttjob not applicable
 Cafe
 Cannibalism
-Captain Protagonist
+Captain 主角
 Capturable Characters
 Capturable Units
 Car
@@ -319,7 +309,7 @@ Catgirl 女主角
 猫（娘）
 Celestial Body 男主角
 Celestial Body 女主角
-Celestial Body Protagonist
+Celestial Body 主角
 Celtic Mythology
 Censored Text
 Central America
@@ -327,12 +317,9 @@ Central 男主角
 Central 女主角
 Changeable Clothes
 Changeable Font
-Changing Perspective not applicable
 Channeling
-Character not applicable, not searchable
 Character Profiles
-Character Skin Colors not applicable, not searchable
-Charming Protagonist
+Charming 主角
 Cheat Codes
 Checkpoints
 Cheerful 男主角
@@ -340,47 +327,45 @@ Cheerleader 女主角
 Cherry Blossom
 Chikan
 Chikan 女主角
-Chikan Protagonist
-Child Abuse not applicable
+Chikan 主角
 Childhood Friend Support Character
 Childhood Promise
 Childishly Violent 男主角
 Childishly Violent 女主角
-Childishly Violent Protagonist
-Child Protagonist
+Childishly Violent 主角
+Child 主角
 Children Ending
 Child Support Character
 Chinese 男主角
 Chinese 女主角
 Chinese Mythology
-Chinese Protagonist
+Chinese 主角
 Choices from Other Perspectives
-Choices not applicable, not searchable
 Choices with 4 or More Options
 Chosen Choices Marking
 Christian Church
 Christian Mythology
 Chubby 男主角
 Chubby 女主角
-Chubby Protagonist
+Chubby 主角
 Church
 Church Sex
 Chuunibyou 男主角
 Chuunibyou 女主角
-Chuunibyou Protagonist
+Chuunibyou 主角
 City Building Game
 Clamps (BDSM)
 Classic Tsundere 女主角
 Class President 男主角
 Class President 女主角
-Class President Protagonist
+Class President 主角
 Clicker Game
 Cliffhanger Ending
 Clitoris Growth
 Clock Tower
 Clone 男主角
 Clone 女主角
-Clone Protagonist
+Clone 主角
 Cloning
 Close-up CGs
 Clothed Female Naked Female
@@ -391,7 +376,7 @@ Clothed Male Naked Male
 衣物开关
 Coach 男主角
 Coach 女主角
-Coach Protagonist
+Coach 主角
 Cock and Ball Torture
 Cock and Ball Torture Devices
 Colored Name-tags
@@ -399,7 +384,6 @@ Colored Texts
 Colposcopy Camera (Sexual)
 Combat Archery
 Combat Capable Friends
-Combat not applicable
 Combat Sport
 Combat with Arquebus
 Combat with Automatic Firearms
@@ -445,13 +429,11 @@ Coodere 男主角
 Coodere 女主角
 Cook 男主角
 Cook 女主角
-Cook Protagonist
+Cook 主角
 Cook Support Character
 Coprophagia
 Corporations
 Correct Choice Indicator
-Corruption of Characters not applicable
-Cosplay not applicable
 Countryside
 Courtroom
 Cousin Incest
@@ -466,7 +448,7 @@ Co-worker Support Character
 Crime
 Crime Family
 Crippled 女主角
-Crippled Protagonist
+Crippled 主角
 Cross-dressing
 Crossover
 Crotch Rope Walk
@@ -484,16 +466,15 @@ Cutesy 男主角
 Cyberpunk
 Cyborg 男主角
 Cyborg 女主角
-Cyborg Protagonist
+Cyborg 主角
 Dancer 男主角
 Dancer 女主角
 Dandere 男主角
-Darker Sexual Contents not applicable
 Dark Fantasy
 Dark Skinned Characters
 Dark Skinned 男主角
 Dark Skinned 女主角
-Dark Skinned Protagonist
+Dark Skinned 主角
 Date Display
 Dating Simulation
 Daughter Support Character
@@ -502,7 +483,7 @@ Death Game awaiting moderation
 Death Note
 Death of 男主角
 Death of 女主角
-Death of Protagonist
+Death of 主角
 Debt
 Deepthroat
 Defloration
@@ -510,17 +491,17 @@ Defloration by an Object
 Defloration by Others
 Defloration During Common Route
 Deities
-Deity Protagonist
+Deity 主角
 Delinquent 男主角
 Delinquent 女主角
-Delinquent Protagonist
+Delinquent 主角
 Delusion
 Delusional 男主角
 Delusional 女主角
-Delusional Protagonist
+Delusional 主角
 Demon 男主角
 Demon 女主角
-Demon Protagonist
+Demon 主角
 Demons
 Denpa
 Depression
@@ -529,7 +510,6 @@ Deredere 女主角
 Descriptions of Violence
 Desert
 Designer 男主角
-Design not applicable, not searchable
 Design Story
 Desperation
 Destiny
@@ -537,32 +517,31 @@ Detached Sexual Content
 Detective Work
 Determinant Antagonist awaiting moderation
 Dice Game
-Different Love Interest(s) Per Protagonist
+Different Love Interest(s) Per 主角
 Difficulty Settings
 Dildos
 Dinosaurs
 Dirty Talk
 Disabled 男主角
 Disabled 女主角
-Disabled Protagonist
+Disabled 主角
 Disappearance
 Discipline Committee Leader 女主角
-Discipline Committee Leader Protagonist
+Discipline Committee Leader 主角
 Discipline Committee Member 男主角
 Discipline Committee Member 女主角
-Discipline Committee Member Protagonist
+Discipline Committee Member 主角
 Discreet Masturbation
 Discreet Phone Sex
 Discreet Sex
 Discrimination
-Displays not applicable, not searchable
 Divine Beings
 Divine 男主角
 Divine 女主角
-Divine Protagonist
+Divine 主角
 Divorcee 男主角
 Divorcee 女主角
-Divorcee Protagonist
+Divorcee 主角
 Dogboy 男主角
 狗娘cosplay
 Doggirl 女主角
@@ -572,16 +551,16 @@ Dojikko 女主角
 Domestic Violence
 Domicile
 Dominatrix 女主角
-Donkan Protagonist
+Donkan 主角
 Dormitory Manager 女主角
-Dormitory Manager Protagonist
+Dormitory Manager 主角
 Double Dildos
 Double Handjob
 Double Penetration (Group Sex)
 Dragon
 Dragon 男主角
 Dragon 女主角
-Dragon Protagonist
+Dragon 主角
 Dragon Quest
 Drama
 Drama Club
@@ -591,8 +570,8 @@ Drastic Character Development
 Dream
 Drill Dildo
 Driver 女主角
-Driver Protagonist
-Drop-Out Protagonist
+Driver 主角
+Drop-Out 主角
 Drug Use
 Drunk Sex
 Dual Wielding Daggers
@@ -603,14 +582,13 @@ Duel
 Dungeon Crawling Game
 Dying 男主角
 Dying 女主角
-Dying Protagonist
+Dying 主角
 Dying Sex
 Dystopia
 Ear-Cleaning
 Early Branching Plot
 Early Modern Period Earth
 Early Sexual Content
-Earth not applicable
 Eating Disorder
 Edo Era
 Educational
@@ -622,19 +600,18 @@ Elemental Beings
 Elementary School
 Elementary School Student 男主角
 Elementary School Student 女主角
-Elementary School Student Protagonist
+Elementary School Student 主角
 Elf 男主角
 Elf 女主角
-Elf Protagonist
+Elf 主角
 Elopement
 Elves
 Emotionless 男主角
 Emotionless 女主角
-Emotionless Protagonist
-Emperor Protagonist
+Emotionless 主角
+Emperor 主角
 Encasement
 Ending List
-Ending not applicable, not searchable
 Ending Scene Recollection
 Enema
 Energetic 女主角
@@ -656,7 +633,6 @@ ESP
 Espionage
 Europe
 European 女主角
-Event CGs not applicable
 Evil Route
 Excessive Semen
 Execution
@@ -667,7 +643,7 @@ Extraterrestrial
 Extremely Small 男主角
 Extremely Small 女主角
 Extremely (un)Lucky 女主角
-Extremely (un)Lucky Protagonist
+Extremely (un)Lucky 主角
 Face-farting
 Facesitting
 Facial Hair Option
@@ -686,11 +662,11 @@ Fantasy
 Farm
 Farmer 男主角
 Farmer 女主角
-Farmer Protagonist
+Farmer 主角
 Fart Fetishism
 Fast Mini-games
 Fathercon 女主角
-Fathercon Protagonist
+Fathercon 主角
 Father/Daughter Incest
 Father/Daughter Romance
 Father/Son Incest
@@ -701,8 +677,8 @@ Feet Licking
 Female Domination
 Female Ejaculation
 Female Friend
-Female Protagonist
-Female Protagonist for a Short Time
+Female 主角
+Female 主角 for a Short Time
 Feminization
 Festival
 Few Choices
@@ -721,16 +697,14 @@ Fighting Game
 Fighting 男主角
 Fighting 女主角
 Fighting Princess 女主角
-Fighting Protagonist
+Fighting 主角
 Figure Skater 女主角
 Final Fantasy
 Finding Out (Relationship) awaiting moderation
-Fingering not applicable
 Finnish Mythology
 Fire Torture
 Fish
 Fisherman 女主角
-Fisting not applicable
 Flashback
 Flashforward
 Flat Tints Only
@@ -738,13 +712,11 @@ Flirtatious 男主角
 Floating Textbox
 Food Discussions
 Food Gokkun
-Food Play not applicable
 Foolish Friend
 Foolish Parent Support Character
-Foolish Protagonist
+Foolish 主角
 Foolish Villain
 Foot Insertion
-Footjob not applicable
 Footjob on Multiple Penises
 Forbidden Love
 Forced Auto-Read Sections
@@ -765,7 +737,6 @@ French Kiss
 Friendship
 Friendship Ending
 Friendship Route
-From Other Media not applicable
 Frot
 Fruits
 Full Chastity Belt
@@ -776,7 +747,7 @@ Futanari 女主角
 Futanari on Female
 Futanari on Futanari
 Futanari on Male
-Futanari Protagonist
+Futanari 主角
 Futanari Support Character
 Futa on Loli awaiting moderation
 Future
@@ -788,23 +759,20 @@ Future Setting in a Fictional World
 Future Tokyo
 Future United States of America
 Gacha Game
-Gaijin Protagonist
+Gaijin 主角
 Game Jam
 Game Over
-Gameplay Elements not applicable, not searchable
 Gamer 男主角
 Gamer 女主角
-Gamer Protagonist
-Game Saving Method not applicable
+Gamer 主角
 Gaming
 Gang
 Gang Bang
 Gang Rape
 Gangster 男主角
 Gangster 女主角
-Gangster Protagonist
+Gangster 主角
 Ganguro 女主角
-Gaping not applicable
 Gardening Club
 Gauge Display
 Gay Shotacon
@@ -815,19 +783,19 @@ Genie 男主角
 Genital Piercing
 Genius 男主角
 Genius 女主角
-Genius Protagonist
+Genius 主角
 Genius Support Character
 Genocide
-Genre Savvy Protagonist
+Genre Savvy 主角
 Genre Shift
-Gentle Protagonist
+Gentle 主角
 German 男主角
 Germanic Mythology
-German Protagonist
+German 主角
 Ghost
 Ghost 男主角
 Ghost 女主角
-Ghost Protagonist
+Ghost 主角
 Ghost Support Character
 Giant Spider
 Girl x Girl Romance
@@ -847,8 +815,6 @@ Grandfather/Grandson Incest
 Grandfather Support Character
 Grandmother/Grandson Incest
 Grandmother Support Character
-Grapeshot not applicable
-Graphics not applicable, not searchable
 Graphic Style Change
 Graphic Violence
 Greek Mythology
@@ -858,7 +824,6 @@ Group (4+) Boobjob
 Group (4+) Footjob
 Group (4+) Handjob
 Group of Friends
-Group Sex not applicable
 Group Sex of Multiple Females and Males
 Group Sex of One Female and Several Males
 Group Sex of One Male and Several Females
@@ -871,31 +836,30 @@ Guro
 Gyaru 女主角
 Gymnastic 女主角
 Gynecologist Chair
-Gynophobic Protagonist
+Gynophobic 主角
 Hacker 男主角
 Hacker 女主角
-Hacker Protagonist
+Hacker 主角
 Hacking
 Hairjob
 Hair Pulling (Sexual)
 Hairstyle Option
 Half-brother 男主角
 Half-demon 女主角
-Half-demon Protagonist
-Half-dragon Protagonist
+Half-demon 主角
+Half-dragon 主角
 Half-human 男主角
 Half-human 女主角
-Half-human Protagonist
+Half-human 主角
 Half-Japanese 男主角
 Half-Japanese 女主角
-Half-Japanese Protagonist
+Half-Japanese 主角
 Half-orphan 男主角
 Half-orphan 女主角
-Half-orphan Protagonist
+Half-orphan 主角
 Halloween
 Hanafuda
 Handcuffed Sex
-Handjob not applicable
 Haraguro 男主角
 Haraguro 女主角
 Hard Science Fiction
@@ -906,37 +870,24 @@ Hate Sex (Consensual)
 Hate Story
 Haunted House
 Healer 女主角
-Healer Protagonist
+Healer 主角
 健康问题
 Heian Period
 Heisei Era
 男主角 Based on a Fictional Person
 男主角 Based on a Mythological Character
 男主角 Based on Real Person
-男主角 by Race and Ethnicity not applicable, not searchable
-男主角es by Personality not applicable, not searchable
 男主角 from a Different World awaiting moderation
 女主角 Based on a Fictional Person
 女主角 Based on a Mythological Character
 女主角 Based on Real Person
-女主角 by Race and Ethnicity not applicable, not searchable
 女主角 from a Different World
 女主角 Having Sex with Others
 女主角 in Relationship with Other(s)
-女主角 not applicable, not searchable
 女主角 Rape by Others
-女主角's Appearance not applicable, not searchable
-女主角's Body not applicable, not searchable
-女主角s by Personality not applicable, not searchable
-女主角's Clothing and Accessories not applicable, not searchable
 男主角(ine) Selection
 男主角(ine)'s Father as a 男主角
-女主角's Hair not applicable, not searchable
-女主角 Sisters not applicable
 女主角's Mother as a 女主角
-女主角's Relation not applicable, not searchable
-女主角's Role/Vocation not applicable, not searchable
-女主角's Traits not applicable, not searchable
 女主角 with a Braid
 女主角 with a Fang
 女主角 with Ahoge
@@ -994,12 +945,6 @@ Heisei Era
 女主角 with Zettai Ryouiki
 男主角 in Kimono
 男主角 in Relationship with Other(s)
-男主角 not applicable, not searchable
-男主角's Appearance not applicable, not searchable
-男主角's Clothing and Accessories not applicable, not searchable
-男主角's Relation not applicable, not searchable
-男主角's Role/Vocation not applicable, not searchable
-男主角's Traits not applicable, not searchable
 男主角 with a Braid
 男主角 with a Fang
 男主角 with Ahoge
@@ -1025,7 +970,7 @@ Heisei Era
 男主角 with Tattoo
 男主角 with Visible Underwear
 男主角 with Wings
-Hetare Protagonist
+Hetare 主角
 Hidden Object Game
 Hidden Vibrator
 大量坏结局
@@ -1037,25 +982,24 @@ Highly Animated Sprites
 High School AU
 High School Student 男主角
 High School Student 女主角
-High School Student Protagonist
+High School Student 主角
 大量色情内容，H场景多，
 Hikikomori 男主角
 Hikikomori 女主角
-Hikikomori Protagonist
+Hikikomori 主角
 Hime 女主角
-Hime Protagonist
+Hime 主角
 Hint Corner
 Holiday Cottage
 Homecoming
 Homeless 女主角
-Homemaker Protagonist
+Homemaker 主角
 Homicide
 Homosexual 男主角
-Homosexual Male Protagonist
-Homosexual Protagonist not applicable
+Homosexual Male 主角
 Homosexual Support Character
 Homunculus 女主角
-Homunculus Protagonist
+Homunculus 主角
 Homunculus Support Character
 Honey Select based Graphics awaiting moderation
 Horror
@@ -1066,7 +1010,7 @@ Host Club 男主角
 Host Club 女主角
 Hotblooded 男主角
 Hotblooded 女主角
-Hotblooded Protagonist
+Hotblooded 主角
 Hotblooded Support Character
 旅馆
 Huge Insertion
@@ -1078,28 +1022,26 @@ Humping
 Identity Crisis
 Idol 男主角
 Idol 女主角
-Idol Protagonist
+Idol 主角
 生病
 Immortal 男主角
 Immortal 女主角
-Immortal Protagonist
+Immortal 主角
 Imouto-type 女主角
-Implementation of Sexual Content not applicable, not searchable
-Impotent Protagonist
+Impotent 主角
 Impregnation
 Impregnation by Others
 Impregnation Choice
-Impulsive Protagonist
+Impulsive 主角
 Inanimate 男主角
 Inbred 女主角
-Inbred Protagonist
+Inbred 主角
 Inbreeding
-Incest not applicable
 Incest Romance
 Incubi
 Incubus 男主角
 Incubus Protaganist
-Indecisive Protagonist
+Indecisive 主角
 Indonesia
 Infertile 女主角
 Infidelity
@@ -1131,14 +1073,14 @@ Inumimi 男主角
 Inumimi 女主角
 Inventor 男主角
 Inventor 女主角
-Inventor Protagonist
+Inventor 主角
 Invisibility
 Irish Mythology
 Island
 Italian 男主角
 Italian 女主角
 Italian Mafia
-Janitor Protagonist
+Janitor 主角
 Janken
 Japanese Idols
 Japanese Mythology
@@ -1148,7 +1090,7 @@ Jealousy
 Joke Endings
 Journalist 男主角
 Journalist 女主角
-Journalist Protagonist
+Journalist 主角
 Journey
 Jump Scares
 Jump to Next Choice
@@ -1163,12 +1105,12 @@ Katekyo Hitman Reborn!
 Kemonomimi
 Kemonomimi 男主角
 Kemonomimi 女主角
-Kemonomimi Protagonist
+Kemonomimi 主角
 Kemonomimi Support Character
 Kendo Club
 Kidnapping
 Kinetic Novel
-King Protagonist
+King 主角
 Kissing Scene
 Kitsune 男主角
 Kitsune 女主角
@@ -1176,7 +1118,7 @@ Kneepit Sex
 Knife/Dagger Combat
 Knight 男主角
 Knight 女主角
-Knight Protagonist
+Knight 主角
 Koikatsu-based Graphics awaiting moderation
 K-On!
 Korean 男主角
@@ -1192,20 +1134,19 @@ Late Branching Plot
 Late Sexual Content
 Lawyer 男主角
 Lawyer 女主角
-Lawyer Protagonist
+Lawyer 主角
 Lazy 男主角
 Lazy 女主角
 Leader 男主角
 Leader 女主角
-Leader Protagonist
+Leader 主角
 Leather Bondage
 Legal Shota 男主角
-Legjob not applicable
 Legwear Footjob
 Lesbian 女主角
 Lesbian Lolicon
 Lesbian NTR
-Lesbian Protagonist
+Lesbian 主角
 Lesbian Rape
 Lesbian Sex
 Lesbian Sex Only
@@ -1216,7 +1157,7 @@ Library
 Life and Death Drama
 Lifeguard 男主角
 Lifeguard 女主角
-Lifeguard Protagonist
+Lifeguard 主角
 Linear Plot
 Linked Clamps
 Linked Piercings
@@ -1225,15 +1166,14 @@ Literary Adaptation
 Living Clothes Sex
 Living Doll 男主角
 Living Doll 女主角
-Living Doll Protagonist
+Living Doll 主角
 Living Doll Support Character
 Location Display
 Lolicon 男主角
 Lolicon 女主角
-Lolicon not applicable
-Lolicon Protagonist
+Lolicon 主角
 Loli 女主角
-Loli Protagonist
+Loli 主角
 Loli Support Character
 Long Common Route
 Long-distance Relationship
@@ -1250,13 +1190,13 @@ Love Triangle
 Low Amount of Rape
 Low Fantasy
 Low Sexual Content
-Macho Protagonist
+Macho 主角
 Macrophilia
 Madness
 Mad Scientist Support Character
 Mage 男主角
 Mage 女主角
-Mage Protagonist
+Mage 主角
 Mages Association
 Magic
 Magic/ESP Combat
@@ -1265,11 +1205,11 @@ Mahjong as Gameplay Element
 Mahjong as Story Element
 Mahou Shoujo 女主角
 Mahou Shoujo Lyrical Nanoha
-Mahou Shoujo Protagonist
+Mahou Shoujo 主角
 Mahou Shounen 男主角
-Mahou Shounen Protagonist
+Mahou Shounen 主角
 Maid 女主角
-Maid Protagonist
+Maid 主角
 Maid Support Character
 Major Antagonist
 Male Friend
@@ -1281,17 +1221,17 @@ Male on Male Sex Only
 Male on Transwoman
 Male on Trap
 Male Pregnancy
-Male Protagonist
-Male Protagonist for a Short Time
-Manager Protagonist
+Male 主角
+Male 主角 for a Short Time
+Manager 主角
 Mangaka 男主角
 Mangaka 女主角
-Mangaka Protagonist
+Mangaka 主角
 Manticore
 Manual Prostate Stimulation
 Maou 男主角
 Maou 女主角
-Maou Protagonist
+Maou 主角
 Map Movement
 Marriage Ending
 Married 男主角
@@ -1299,16 +1239,15 @@ Married 女主角
 Mars
 Martial Artist 男主角
 Martial Artist 女主角
-Martial Artist Protagonist
+Martial Artist 主角
 Masochist 男主角
 Masochist 女主角
-Masochist Protagonist
+Masochist 主角
 Masochist Support Character
-Massage Therapist Protagonist
+Massage Therapist 主角
 Master and Servant
 Masturbation in front of an Audience
 Masturbation Involving Food
-Masturbation not applicable
 Masturbation with Object
 Masturbation with Water
 Mayadere 男主角
@@ -1319,10 +1258,10 @@ Mecha
 Mecha Combat
 Mecha Pilot 男主角
 Mecha Pilot 女主角
-Mecha Pilot Protagonist
+Mecha Pilot 主角
 Medical Doctor 男主角
 Medical Doctor 女主角
-Medical Doctor Protagonist
+Medical Doctor 主角
 Medieval Fantasy
 Medium 女主角
 Meiji Era
@@ -1330,15 +1269,15 @@ Memory Alteration
 Mentor Support Character
 Mercenary 男主角
 Mercenary 女主角
-Mercenary Protagonist
+Mercenary 主角
 Mercenary Support Character
-Merchant Protagonist
+Merchant 主角
 Mermaid 女主角
 Merman 男主角
 Merprotagonist
 Mesopotamian Mythology
 Messiah 女主角
-Messiah Protagonist
+Messiah 主角
 Metafiction
 Metal Bondage
 Metropolitan Area
@@ -1349,10 +1288,10 @@ Middle East
 Middle School
 Middle School Student 男主角
 Middle School Student 女主角
-Middle School Student Protagonist
+Middle School Student 主角
 Mid-game Videos
 Miko 女主角
-Miko Protagonist
+Miko 主角
 Military
 Military Base
 Military School
@@ -1362,14 +1301,13 @@ Mind Control
 Mind Screw
 Minimalist Sprites
 Mirror Sex
-Misc. Character Tags not applicable, not searchable
 Mischievous 男主角
 Mischievous 女主角
-Mischievous Protagonist
+Mischievous 主角
 Missionary Position
 Model 男主角
 Model 女主角
-Model Protagonist
+Model 主角
 Modern Day
 Modern Day Akihabara
 Modern Day British Isles
@@ -1398,8 +1336,8 @@ Monster 男主角
 Monster 女主角
 Monster Hunter 男主角
 Monster Hunter 女主角
-Monster Hunter Protagonist
-Monster Protagonist
+Monster Hunter 主角
+Monster 主角
 Monster Rape
 Monsters
 Monster Support Character
@@ -1423,7 +1361,7 @@ Multiple Endings
 Multiple Opening Movies
 Multiple Penetration
 Multiple Penises
-Multiple Protagonists
+Multiple 主角s
 Multiple Route Mystery
 Multiple Songs
 Multiple True Endings awaiting moderation
@@ -1433,7 +1371,7 @@ Murder Mystery
 Muromachi Era
 Muscular 男主角
 Muscular 女主角
-Muscular Protagonist
+Muscular 主角
 Museum
 Musical Environment
 Musical Theater
@@ -1441,13 +1379,13 @@ Musical Themes
 Music Club
 Musician 男主角
 Musician 女主角
-Musician Protagonist
+Musician 主角
 Music Recollection
 Musuko-type 男主角
 Musume-type 女主角
 Mute 男主角
 Mute 女主角
-Mute Protagonist
+Mute 主角
 Mutual Masturbation
 My Little Pony
 Mystery
@@ -1463,7 +1401,7 @@ Nameable Character(s)
 Nameable 男主角(es)
 Nameable 女主角(s)
 Nameable Pet(s)
-Nameable Protagonist
+Nameable 主角
 Nanomachines
 NaNoRenO
 Nanpa
@@ -1478,7 +1416,7 @@ Navyman 男主角
 Near Future
 Necrophilia
 NEET 女主角
-NEET Protagonist
+NEET 主角
 Nekomimi 男主角
 Nekomimi 女主角
 Neon Genesis Evangelion
@@ -1490,17 +1428,17 @@ Netorase
 Netori
 New Game Plus
 Newhalf 女主角
-Newhalf (Not Born Male) Protagonist
-Newhalf Protagonist
+Newhalf (Not Born Male) 主角
+Newhalf 主角
 Newspaper Club
-Ninja Protagonist
+Ninja 主角
 Nipple Insertion
 Nipple Piercing
 No Auto Function
 No Background Music
 No Backlog
 Noble 男主角
-Noble Protagonist
+Noble 主角
 No Character Sprites
 No Common Sense 女主角
 No Event CGs
@@ -1509,15 +1447,14 @@ No 男主角(in)es
 No "Keep Voice on Click" Option
 Non-Binary Characters
 Non-Binary Love Interest
-Non-Binary Protagonist
-Non-binary Protagonist Option
+Non-Binary 主角
+Non-binary 主角 Option
 Non-blood-related Brother/Brother Incest
 Non-blood-related Brother 男主角
 Non-blood-related Brother/Sister Incest
 Non-blood-related Father/Daughter Incest
 Non-blood-related Father 男主角
 Non-blood-related Father/Son Incest
-Non-blood-related Incest not applicable
 Non-blood-related Mother/Daughter Incest
 Non-blood-related Mother/Son Incest
 Non-blood-related Sister/Sister Incest
@@ -1529,7 +1466,7 @@ Non-explicit Nudity Only
 Non-heroine Only Unavoidable Rape
 Non-human 男主角
 Non-human 女主角
-Non-human Protagonist
+Non-human 主角
 Non-Japanese Voice Acting
 Non Looping BGM
 Non-original Soundtrack
@@ -1540,7 +1477,7 @@ Non-sexual Cosplay
 Non-twin 男主角 Brothers awaiting moderation
 Non-twin 女主角 Sisters
 No Opening Movie
-No Protagonist
+No 主角
 No Quick Save/Load
 Normal Scene Recollection
 No Romance Plot
@@ -1555,33 +1492,33 @@ No Virgin 女主角s
 Nude Filter
 Nukige
 Nun 女主角
-Nun Protagonist
+Nun 主角
 Nun Support Character
 Nurse 男主角
 Nurse 女主角
-Nurse Protagonist
+Nurse 主角
 Nursery School
 Nurse Support Character
 Nursing Handjob
 NVL
 Nympho 女主角
-Nympho Protagonist
+Nympho 主角
 Obacon
 Object Insertion
-Observer Protagonist
+Observer 主角
 Obsession
 Occult Club
 Octopus
 Odyssey
 Office
 Office Lady 女主角
-Office Lady Protagonist
+Office Lady 主角
 Officer 女主角
-Officer Protagonist
+Officer 主角
 Off Screen Sex Only
 Ojicon
 Ojousama 女主角
-Ojousama Protagonist
+Ojousama 主角
 Okama 男主角
 Okama Support Character
 Onahole
@@ -1589,7 +1526,7 @@ Oneesan-type 女主角
 One True End
 Oni 男主角
 Oni 女主角
-Oni Protagonist
+Oni 主角
 Online
 Only a Single 男主角
 Only a Single 女主角
@@ -1600,28 +1537,27 @@ Only Avoidable 女主角 Rape
 Only Avoidable 女主角 Rape by Others
 Only Avoidable 男主角 Rape
 Only Avoidable Netorare
-Only Avoidable Protagonist Rape
+Only Avoidable 主角 Rape
 Only Avoidable Rape by Others
-Only Avoidable Rape by Protagonist
+Only Avoidable Rape by 主角
 Only Avoidable Rape Scenes
 Only Avoidable Sexual Content
 Only Avoidable Sex with Others
 Only Bad End Death of 男主角
 Only Bad End Death of 女主角
-Only Bad End Death of Protagonist
+Only Bad End Death of 主角
 仅坏结局
 Only consanguineous heroines awaiting moderation
 仅好结局
 仅一个坏结局
 仅一个好结局
-Only Same-Sex Sexual Content not applicable
 Only Seme 男主角es
 Only Trap 女主角s
 Only Uke 男主角es
 Only Virgin 女主角s
 Onmyouji 男主角
 Onmyouji 女主角
-Onmyouji Protagonist
+Onmyouji 主角
 Onna Bugeisha 女主角
 Onsen
 On the Run
@@ -1633,33 +1569,30 @@ Oppai Loli 女主角
 Optional Gameplay
 Orc 男主角
 Orc 女主角
-Orc Protagonist
+Orc 主角
 Orcs
 Ordered Choices
 Orekko 女主角
 Organised Corruption
-Organizations not applicable
 Orgasm Denial
 Orphan 男主角
 Orphan 女主角
-Orphan Protagonist
+Orphan 主角
 Otaku Friend
 Otaku 男主角
 Otaku 女主角
-Otaku Protagonist
-Other Elements not applicable, not searchable
-Other Gameplay Elements not applicable
+Otaku 主角
 Other Perspectives
 Otome Game
 Outdoor Sex
-Overlord Protagonist
+Overlord 主角
 Oyaji 男主角
-Oyaji Protagonist
+Oyaji 主角
 Oyakodon
 Pain Only Rape
 Painter 男主角
 Painter 女主角
-Painter Protagonist
+Painter 主角
 Palace
 Panchira
 Panic Button
@@ -1685,7 +1618,7 @@ Past Tokyo
 Past United States of America
 Patricide
 Peace Sign Ahegao
-Pedophile Protagonist
+Pedophile 主角
 Pegging
 Penile Masturbation
 Penis Cage
@@ -1697,21 +1630,21 @@ Personal Armed Combat
 Perverted Friend
 Perverted 男主角
 Perverted 女主角
-Perverted Protagonist
+Perverted 主角
 P.E. Teacher 男主角
 P.E. Teacher 女主角
-P.E. Teacher Protagonist
+P.E. Teacher 主角
 Petplay
 Petrification
 Pet Support Character
 Pettanko 女主角
-Pettanko Protagonist
+Pettanko 主角
 Phantom Thieves
 Philippines
 Philosophy
 Photographer 男主角
 Photographer 女主角
-Photographer Protagonist
+Photographer 主角
 Photographic Backgrounds
 Photographic Sprites
 Photography Gameplay
@@ -1723,12 +1656,12 @@ Pillory Sex
 Pillow Talk
 Pilot 男主角
 Pilot 女主角
-Pilot Protagonist
-Pimp/Madam Protagonist
+Pilot 主角
+Pimp/Madam 主角
 Pioneer 女主角
 Pirate 男主角
 Pirate 女主角
-Pirate Protagonist
+Pirate 主角
 Pirates
 Piss Drinking
 Pissing
@@ -1742,13 +1675,11 @@ Plant Sex
 Plants & Flowers
 Platform Game
 Playboy 男主角
-Playboy Protagonist
+Playboy 主角
 Player as a Character
 Player Voice Interactivity
 Play Piercing
 Playtime Counter
-Plot Devices not applicable, not searchable
-Plot not applicable, not searchable
 Poetry
 Pointy Eared 女主角 awaiting moderation
 Pokémon
@@ -1757,7 +1688,7 @@ Pole Dancing
 Police
 Police Officer 男主角
 Police Officer 女主角
-Police Officer Protagonist
+Police Officer 主角
 Polite Formal 男主角
 Politician 男主角
 Politician 女主角
@@ -1766,154 +1697,137 @@ Polyamory
 Polygamy
 Ponytail 男主角
 Ponytail 女主角
-Ponytail Protagonist
+Ponytail 主角
 Poor 男主角
 Poor 女主角
-Poor Protagonist
-Popular Protagonist
+Poor 主角
+Popular 主角
 Pornography
 Portrait Orientation
 Possession
 Post Apocalyptic Earth
 Pragmatic 女主角
-Pragmatic Protagonist
+Pragmatic 主角
 Pregnancy
 Pregnancy Bad Ending
-Pregnancy Ending not applicable
 Pregnancy Good Ending
 Pregnant Sex
 Pre-rendered 3D Graphics
 Pre-rendered Backgrounds
-Presentation not applicable, not searchable
 Pretending 男主角
 Pretending 女主角
-Pretending Protagonist
+Pretending 主角
 Priestess 女主角
-Priest(ess) Protagonist
+Priest(ess) 主角
 Priest 男主角
 Priest Support Character
 Primates
-Prince Protagonist
+Prince 主角
 Princess 女主角
-Princess Protagonist
+Princess 主角
 Principal 男主角
 Principal 女主角
-Principal Protagonist
+Principal 主角
 Prison
 Private Detective 男主角
-Private Detective Protagonist
-Proactive Protagonist
+Private Detective 主角
+Proactive 主角
 Proagonist's Nephew as a 男主角
 Production of Pornography (Amateur)
 Production of Pornography (Drawn)
-Production of Pornography not applicable
 Production of Pornography (Professional)
 Programmer 男主角
 Programmer 女主角
 Prolapse
 Promiscuity
 Promiscuous 女主角
-Promiscuous Protagonist
+Promiscuous 主角
 Prostitute 男主角
 Prostitute 女主角
-Prostitute Protagonist
+Prostitute 主角
 Prostitution
-Protagonist as the Only Female
-Protagonist as the Only Male
-Protagonist Based on a Fictional Person
-Protagonist Based on a Mythological Character
-Protagonist Based on Real Person
-Protagonist from a Different World
-Protagonist Gender Choice
-Protagonist in Relationship
-Protagonist not applicable, not searchable
-Protagonist's Appearance not applicable, not searchable
-Protagonist's Aunt as a 女主角
-Protagonist's Blood-related Daughter as a 女主角
-Protagonist's Blood-related Mother as a 女主角
-Protagonist's Blood-related Sister as a 女主角 not applicable
-Protagonist's Body not applicable, not searchable
-Protagonist's Boss as a 女主角
-Protagonist's Boss as 男主角
-Protagonist's Boyfriend as a 男主角
-Protagonist's Brother as a 男主角
-Protagonist's Childhood Friend as a 男主角
-Protagonist's Childhood Friend as a 女主角
-Protagonist's Clothing and Accessories not applicable, not searchable
-Protagonist's Cousin as a 男主角
-Protagonist's Cousin as a 女主角
-Protagonist's Daughter as a 女主角 not applicable
-Protagonist Selection
-Protagonist's Employee as a 女主角
-Protagonist's Employee as 男主角
-Protagonist's Ex as a 男主角
-Protagonist's Ex as a 女主角
-Protagonist's Father as a 男主角 not applicable
-Protagonist's Fiance as a 男主角
-Protagonist's Fiancee as a 女主角
-Protagonist's Full Sister as a 女主角
-Protagonist's Gender not applicable, not searchable
-Protagonist's Girlfriend as a 女主角
-Protagonist's Grandfather as a 男主角
-Protagonist's Grandmother as a 女主角
-Protagonist's Hair not applicable, not searchable
-Protagonist's Half-sister as a 女主角
-Protagonist's Husband as a 男主角
-Protagonist's Kouhai as a 男主角
-Protagonist's Kouhai as a 女主角
-Protagonist's Mother as a 女主角 not applicable
-Protagonist's Niece as a 女主角
-Protagonist's Non-blood-related Daughter as a 女主角
-Protagonist's Non-blood-related Mother as a 女主角
-Protagonist's Non-blood-related Sister as a 女主角
-Protagonist's Older Sister as a 女主角
-Protagonist's Opponent as a 女主角
-Protagonist's Personality not applicable, not searchable
-Protagonist's Pronoun Choice
-Protagonist's Rival as a 男主角
-Protagonist's Rival as a 女主角
-Protagonist's Role/Vocation not applicable, not searchable
-Protagonist's Senpai as a 男主角
-Protagonist's Senpai as a 女主角
-Protagonist's Side Image Toggle
-Protagonist's Sister as a 女主角 not applicable
-Protagonist's Sister as a Support Character
-Protagonist's Sister-in-Law as a 女主角
-Protagonist's Son as a 男主角
-Protagonist's Traits not applicable, not searchable
-Protagonist's Twin as a 男主角
-Protagonist's Twin as a 女主角
-Protagonist's Uncle as a 男主角
-Protagonist's Wife as a 女主角
-Protagonist's Younger Sister as a 女主角
-Protagonist that's Feigning Idiocy
-Protagonist with a Face
-Protagonist with Ahoge
-Protagonist with a Sprite
-Protagonist with Big Breasts
-Protagonist with Children
-Protagonist with Eyepatch
-Protagonist with Facial Hair
-Protagonist with Gigantic Breasts
-Protagonist with Glasses
-Protagonist with Health Issues
-Protagonist with Heterochromia
-Protagonist with Huge Breasts
-Protagonist with Imaginary Friends
-Protagonist with Kimono
-Protagonist with Monocle
-Protagonist with Multiple Personalities
-Protagonist with Partial Voice Acting
-Protagonist with Phimosis
-Protagonist with Psychological Problems
-Protagonist with Regenerative Hymen
-Protagonist with See-through Vision awaiting moderation
-Protagonist with Sexual Experience
-Protagonist with Superpowered Side
-Protagonist with Tattoo
-Protagonist with Tentacles
-Protagonist with Voice Acting
-Protagonist with Voiced Changeable Names
+主角 as the Only Female
+主角 as the Only Male
+主角 Based on a Fictional Person
+主角 Based on a Mythological Character
+主角 Based on Real Person
+主角 from a Different World
+主角 Gender Choice
+主角 in Relationship
+主角's Aunt as a 女主角
+主角's Blood-related Daughter as a 女主角
+主角's Blood-related Mother as a 女主角
+主角's Boss as a 女主角
+主角's Boss as 男主角
+主角's Boyfriend as a 男主角
+主角's Brother as a 男主角
+主角's Childhood Friend as a 男主角
+主角's Childhood Friend as a 女主角
+主角's Cousin as a 男主角
+主角's Cousin as a 女主角
+主角 Selection
+主角's Employee as a 女主角
+主角's Employee as 男主角
+主角's Ex as a 男主角
+主角's Ex as a 女主角
+主角's Fiance as a 男主角
+主角's Fiancee as a 女主角
+主角's Full Sister as a 女主角
+主角's Girlfriend as a 女主角
+主角's Grandfather as a 男主角
+主角's Grandmother as a 女主角
+主角's Half-sister as a 女主角
+主角's Husband as a 男主角
+主角's Kouhai as a 男主角
+主角's Kouhai as a 女主角
+主角's Niece as a 女主角
+主角's Non-blood-related Daughter as a 女主角
+主角's Non-blood-related Mother as a 女主角
+主角's Non-blood-related Sister as a 女主角
+主角's Older Sister as a 女主角
+主角's Opponent as a 女主角
+主角's Pronoun Choice
+主角's Rival as a 男主角
+主角's Rival as a 女主角
+主角's Senpai as a 男主角
+主角's Senpai as a 女主角
+主角's Side Image Toggle
+主角's Sister as a Support Character
+主角's Sister-in-Law as a 女主角
+主角's Son as a 男主角
+主角's Twin as a 男主角
+主角's Twin as a 女主角
+主角's Uncle as a 男主角
+主角's Wife as a 女主角
+主角's Younger Sister as a 女主角
+主角 that's Feigning Idiocy
+主角 with a Face
+主角 with Ahoge
+主角 with a Sprite
+主角 with Big Breasts
+主角 with Children
+主角 with Eyepatch
+主角 with Facial Hair
+主角 with Gigantic Breasts
+主角 with Glasses
+主角 with Health Issues
+主角 with Heterochromia
+主角 with Huge Breasts
+主角 with Imaginary Friends
+主角 with Kimono
+主角 with Monocle
+主角 with Multiple Personalities
+主角 with Partial Voice Acting
+主角 with Phimosis
+主角 with Psychological Problems
+主角 with Regenerative Hymen
+主角 with See-through Vision awaiting moderation
+主角 with Sexual Experience
+主角 with Superpowered Side
+主角 with Tattoo
+主角 with Tentacles
+主角 with Voice Acting
+主角 with Voiced Changeable Names
 Psionic School
 Psychological Problems
 Psychological Trauma
@@ -1927,14 +1841,14 @@ Pure Love Story
 Puzzle Game
 Quadruple+ Blowjob
 Queen 女主角
-Queen Protagonist
+Queen 主角
 Quickie
 Quickie Fix Position
 Quick Time Events
 Quiz Game
 Rabbitgirl 女主角
 Race Driver 女主角
-Race Driver Protagonist
+Race Driver 主角
 Racing
 Racing Game
 Rags to Riches
@@ -1953,11 +1867,11 @@ Rape on Defeat
 Rape Roleplay
 Rape Victim 男主角
 Rape Victim 女主角
-Rape Victim Protagonist
+Rape Victim 主角
 Rape with Blackmail
 Rapist 男主角 awaiting moderation
 Rapist 女主角 awaiting moderation
-Rapist Protagonist
+Rapist 主角
 Read Text Marking
 Realtime 3D
 Real Time Strategy Game
@@ -1989,56 +1903,54 @@ Reverse NTR
 Reverse Piledriver
 Reverse Rape
 Reverse Trap 女主角
-Reverse Trap Protagonist
+Reverse Trap 主角
 Reverse Trap Support Character
 Reversible Yaoi Pairing
 Rhythm Game
-Rich Protagonist
+Rich 主角
 Rifle Combat
 Rimming Handjob
 Road Trip
 Robot 男主角
 Robot 女主角
-Robot Protagonist
+Robot 主角
 Robots
 Roguelike
 Romance
-Romanceable Protagonist Candidate(s)
+Romanceable 主角 Candidate(s)
 Romancing a Family
 Rope Bondage
 Roses
-Rounin Protagonist
-Routes not applicable, not searchable
+Rounin 主角
 Royal 男主角
 Royal 女主角
-Royal Protagonist
+Royal 主角
 RPG
 Runaway 女主角
 Rushed Game Ending
 Russia
 Russian 男主角
 Russian 女主角
-Russian Protagonist
+Russian 主角
 Ryokan
 Ryona
 Sacred Treasure
 Sacrifice
 Sadist 男主角
 Sadist 女主角
-Sadist Protagonist
+Sadist 主角
 Sadist Support Character
 Salaryman 男主角
-Salaryman Protagonist
-Salesman Protagonist
+Salaryman 主角
+Salesman 主角
 Samurai 男主角
-Samurai Protagonist
+Samurai 主角
 Sanatorium
 Save Memo Function
-Scary Protagonist
+Scary 主角
 Scat
 Scat Filter
 Scenario Selection
-Scene not applicable, not searchable
 School
 School Art Club
 School Dormitory
@@ -2051,37 +1963,35 @@ School Play
 School Sports Club
 School Sports Club Member 男主角
 School Sports Club Member 女主角
-School Sports Club Member Protagonist
+School Sports Club Member 主角
 School Sports Club President 男主角
 School Sports Club President 女主角
 Science Fantasy
 Science Fiction
 Scientist 男主角
 Scientist 女主角
-Scientist Protagonist
+Scientist 主角
 Screenshot Backgrounds
 Scrolling Shooter
 Scythe Combat
-Seasons not applicable, not searchable
 Second-person Narrative
-Secretary Protagonist
+Secretary 主角
 Secret Identity
 Secret Romance
 Secret Society
 Seiyuu 男主角
 Seiyuu 女主角
-Seke Protagonist
+Seke 主角
 Selective Coloring
 Selfcest
-Seme Protagonist
+Seme 主角
 Sengoku Period
 Sensory Deprivation
 Sensual Biting
 Sentient Weapon 女主角
 Separate Text Boxes
 Separate Windows
-Serious Protagonist
-Setting not applicable, not searchable
+Serious 主角
 Seventh Posture
 Sex Change
 Sex Cult
@@ -2111,14 +2021,11 @@ Sex Swing
 Sexual Blindfold
 Sexual Child Abuse
 Sexual Content
-Sexual Content by Activity not applicable, not searchable
-Sexual Content by Location not applicable, not searchable
-Sexual Content by Participants not applicable, not searchable
 Sexual Corruption
 Sexual Cosplay
 Sexual Crucifixion awaiting moderation
 Sexual Devices
-Sexual Devices Used On Protagonist
+Sexual Devices Used On 主角
 Sexual Fantasizing
 Sexual Hair Eating
 Sexual Harassment
@@ -2135,7 +2042,7 @@ Sex with Insects
 Sex with Invertebrates
 Sex With Monsters
 Sex with Others
-Sex with Protagonist Only
+Sex with 主角 Only
 Sex with Sleepers
 Shapeshifting
 Sharks
@@ -2145,7 +2052,7 @@ Shimaidon with Twins
 Shingeki no Kyojin
 Shinigami 男主角
 Shinigami 女主角
-Shinigami Protagonist
+Shinigami 主角
 Shinobi
 Shinobi 男主角
 Shinsengumi
@@ -2155,16 +2062,16 @@ Shoejob
 Shooter Game
 Shopkeeper 男主角
 Shopkeeper 女主角
-Shopkeeper Protagonist
+Shopkeeper 主角
 Short 男主角
 Short 女主角
 Short Sexual Scenes
 Shotacon
 Shotacon 男主角
 Shotacon 女主角
-Shotacon Protagonist
+Shotacon 主角
 Shota 男主角
-Shota Protagonist
+Shota 主角
 Shota Support Character
 Shouwa Era
 Shy 男主角
@@ -2172,7 +2079,7 @@ Shy 女主角
 Sibling Rivalry
 Sickly 男主角
 Sickly 女主角
-Sickly Protagonist
+Sickly 主角
 Side Character Having Sex with Others
 Side Character Rape by Others
 Side Images
@@ -2195,9 +2102,8 @@ Single Hole Multiple Tentacle Penetration
 Single Legjob
 Single Leg Legjob
 Single Save Slot
-Single-sex School not applicable
 Siscon 男主角
-Siscon Protagonist
+Siscon 主角
 Siscon Support Character
 Sister/Sister Incest
 Sister/Sister Romance
@@ -2208,12 +2114,11 @@ Skeleton 男主角
 Skin Color Selection
 Skippable Gameplay
 Skip Scenes
-Skip to Choices not applicable
 Skull-fucking
 Slapstick
 Slave 男主角
 Slave 女主角
-Slave Protagonist
+Slave 主角
 Slavery
 Slavic Mythology
 Slice of Life
@@ -2224,9 +2129,9 @@ Slime Monster Rape
 Slums
 Smoker 男主角
 Smoker 女主角
-Smoker Protagonist
+Smoker 主角
 Sniper 女主角
-Sniper Protagonist
+Sniper 主角
 Snowballing
 Soapy Massage
 Soccer
@@ -2235,8 +2140,7 @@ Societal Collapse
 Softcore
 Soldier 男主角
 Soldier 女主角
-Soldier Protagonist
-Sounds and Music not applicable, not searchable
+Soldier 主角
 Sounds of Copulation
 South America
 Space
@@ -2253,11 +2157,10 @@ Spreader Bar
 Spreader Straps with Clamps
 Spring
 Sprite Filter
-Sprites not applicable, not searchable
 Sprite Viewer
 Spy 男主角
 Spy 女主角
-Spy Protagonist
+Spy 主角
 SRPG
 Staff Combat
 Stalking
@@ -2270,8 +2173,6 @@ Stock Backgrounds awaiting moderation
 Stock Graphics awaiting moderation
 Stockings
 Stock Sprites awaiting moderation
-Story Events not applicable, not searchable
-Story not applicable, not searchable
 Straight Lolicon
 Straight Shotacon
 Stranded
@@ -2280,30 +2181,29 @@ Strap-on Dildos
 Strategic Card Battles
 Strategy Game
 Strip Game
-Strong Female Protagonist
+Strong Female 主角
 Stuck in Meatwall
 Stuck-in-Wall Sex
 Student Club
 Student Club Member 男主角
 Student Club Member 女主角
-Student Club Member Protagonist
+Student Club Member 主角
 Student Club President 男主角
 Student Club President 女主角
-Student Club President Protagonist
+Student Club President 主角
 Student Council
 Student Council Member 男主角
 Student Council Member 女主角
-Student Council Member Protagonist
+Student Council Member 主角
 Student Council President 男主角
 Student Council President 女主角
-Student Council President Protagonist
+Student Council President 主角
 Student 男主角
 Student 女主角
-Student Protagonist
+Student 主角
 Student-Teacher Romance
-Style not applicable, not searchable
 Submarine
-Submissive Protagonist
+Submissive 主角
 Succubi
 Succubus 女主角
 Suction on Nipples
@@ -2311,7 +2211,7 @@ Suction on Penis
 Sudden Girlfriend Appearance
 Suicidal 男主角
 Suicidal 女主角
-Suicidal Protagonist
+Suicidal 主角
 Suicide
 Suicide Pact
 Summer
@@ -2322,11 +2222,10 @@ Super Deformed CG's
 Super Deformed Sprites
 Superheroes
 Superheroine
-Superhero Protagonist
+Superhero 主角
 Superpowers
 Support Character Based on a Fictional Person
 Support Character Based on Real Person
-Support Characters not applicable, not searchable
 Support Character with Ahoge
 Support Character with Kansai Accent
 Support Character with Multiple Personalities
@@ -2338,11 +2237,11 @@ Swimming Club
 Swinging
 Sword Combat
 Sword Wielding 女主角
-Sword Wielding Protagonist
+Sword Wielding 主角
 Symbiote / Parasite
 System Time Events
 Tactician 女主角
-Tactician Protagonist
+Tactician 主角
 Tactician Support Character
 Tailjob
 Taishou Era
@@ -2353,10 +2252,10 @@ Tall 女主角
 Tarot Cards
 Teacher 男主角
 Teacher 女主角
-Teacher of Magic Protagonist
+Teacher of Magic 主角
 Teacher pointer awaiting moderation
-Teacher Protagonist
-Technician Protagonist
+Teacher 主角
+Technician 主角
 Temple
 Tennis
 Tennis Club
@@ -2368,15 +2267,13 @@ Terrorism
 Terrorized by Monsters
 Text-only Sexual Content
 Text Parser
-Texts not applicable, not searchable
 Theater
 The Holiday Season
-Theme not applicable, not searchable
 The Seven Deadly Sins
 The Seven School Mysteries
 Thief 男主角
 Thief 女主角
-Thief Protagonist
+Thief 主角
 Third-person Narrative
 Three Kingdoms
 Threesome
@@ -2389,15 +2286,14 @@ Tile Matching
 Timed Choices
 Time Jump
 Time Loop
-Time Period not applicable, not searchable
 Time Stop
 Time Travel
 Timid 男主角
 Timid 女主角
-Timid Protagonist
+Timid 主角
 Title Parody
 Tomboy 女主角
-Tomboy Protagonist
+Tomboy 主角
 Tongue Piercing
 Torture
 Torture Chamber
@@ -2411,19 +2307,19 @@ Trains
 Trampling
 Transfer Student 男主角
 Transfer Student 女主角
-Transfer Student Protagonist
+Transfer Student 主角
 Transformation Sequence(s)
 Transgender 男主角
 Transgender 女主角
-Transgender Protagonist
+Transgender 主角
 Transgender Support Character
 Transhumanism
 Transwoman on Male
 Trap 女主角
 Trap on Male
-Trap Protagonist
+Trap 主角
 Trap Support Character
-Traveler Protagonist
+Traveler 主角
 Traveller 男主角
 Treasure Hunting
 Triad
@@ -2437,10 +2333,10 @@ Triple Handjob
 Triplet+ 女主角s
 Triplets as Support Characters
 Tsukkomi 女主角
-Tsukkomi Protagonist
+Tsukkomi 主角
 Tsundere 男主角
 Tsundere 女主角
-Tsundere Protagonist
+Tsundere 主角
 Turn Based Strategy Game
 Twin Bellyjob
 Twin Blowjob
@@ -2458,22 +2354,21 @@ Twin Sister Support Character
 Twin Tail 男主角
 Twin Tail 女主角
 Twitter
-Type not applicable, not searchable
 Typing Game
-Ugly Protagonist
-Uke Protagonist
+Ugly 主角
+Uke 主角
 Unarmed Combat
 Unarmed Fighting 女主角
 Unavoidable Death of 男主角
 Unavoidable Death of 女主角
-Unavoidable Death of Protagonist
+Unavoidable Death of 主角
 Unavoidable Harem Ending
 Unavoidable 女主角 Rape
 Unavoidable 女主角 Rape by Others
-Unavoidable 女主角 Rape by Protagonist
+Unavoidable 女主角 Rape by 主角
 Unavoidable 男主角 Rape
 Unavoidable Netorare
-Unavoidable Protagonist Rape
+Unavoidable 主角 Rape
 Unavoidable Rape
 Unavoidable Rape by Others
 Unbeknown Incest
@@ -2484,19 +2379,18 @@ Uncredited Voice Acting
 Undead
 Undead 男主角
 Undead 女主角
-Undead Protagonist
+Undead 主角
 Under the Same Roof
 Underwater
 Underweight 女主角
 Underworld
 Unicorn
 Unique Routes
-Universe not applicable, not searchable
 University
 University Student 男主角
 University Student 女主角
-University Student Protagonist
-Unknown Gender Protagonist
+University Student 主角
+Unknown Gender 主角
 Unlockable Bonus Content
 Unlockable Choices
 Unlockable Concept Art
@@ -2507,21 +2401,20 @@ Unlockable Gallery
 Unlockable Harem Ending
 Unlockable 男主角(ine)
 Unlockable Prologue
-Unlockable Protagonist
+Unlockable 主角
 Unlockable Routes
 Unlockable Sexual Content
 Unlockable Side Stories
 Unlock All Scenes Option
 Unnamed 男主角
 Unnamed 女主角
-Unnamed Protagonist
+Unnamed 主角
 Unreliable Narrator
 Unrequited Love
 Urban Fantasy
 Urban Legend
 Urethral Intercourse
 Urethral Sounding
-Urination Fetish not applicable
 Usagimimi 男主角
 Usamimi 女主角
 Used Condoms Exposition
@@ -2545,8 +2438,8 @@ Vampire 男主角
 Vampire 女主角
 Vampire Hunter 男主角
 Vampire Hunter 女主角
-Vampire Hunter Protagonist
-Vampire Protagonist
+Vampire Hunter 主角
+Vampire 主角
 Varied Title Screens
 Varying Ending Songs
 Vehicles
@@ -2556,12 +2449,11 @@ Veterinarian 女主角
 Vibrators
 Villainous 男主角
 Villainous 女主角
-Villainous Protagonist
+Villainous 主角
 暴力
 Virtual Reality
 Visible Cervix Penetration
 Vocaloid，V家
-Voice Acting not applicable
 Voiced Commentary
 Voiced Default Name
 Voiced Narration
@@ -2575,7 +2467,7 @@ Vore
 Voyeurism
 VR Headset Support awaiting moderation
 Waiter 男主角
-Waiting Staff Protagonist
+Waiting Staff 主角
 Waitress 女主角
 Wakame Sake
 Wake-up Sex
@@ -2587,7 +2479,7 @@ Wedding
 Werewolf
 Werewolf 男主角
 Werewolf 女主角
-Werewolf Protagonist
+Werewolf 主角
 Western
 Western-style Castle
 Western-style Mansion
@@ -2595,13 +2487,13 @@ Wet and Messy
 Whipping
 White Haired 男主角
 White Haired 女主角
-White Haired Protagonist
+White Haired 主角
 Widower 男主角
-Widow(er) Protagonist
+Widow(er) 主角
 Widow 女主角
 Winter
 Witch 女主角
-Witch Protagonist
+Witch 主角
 Wonderland
 Wooden Horse
 World War I
@@ -2610,23 +2502,23 @@ Wormhole Sex
 Wrestling (Sport)
 Writer 男主角
 Writer 女主角
-Writer Protagonist
+Writer 主角
 X-Cross
 Xonix Game
 Yakuza
 Yakuza 女主角
 Yamato Nadeshiko 女主角
-Yamato Nadeshiko Protagonist
+Yamato Nadeshiko 主角
 Yandere 男主角
 Yandere 女主角
-Yandere Protagonist
+Yandere 主角
 Yangire 男主角
 Yangire 女主角
 Yaoi Game Jam
 Youkai
 Youkai 男主角
 Youkai 女主角
-Youkai Protagonist
+Youkai 主角
 Yuki-onna 女主角
 Yuri Game Jam
 Zombie
