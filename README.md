@@ -6,6 +6,8 @@
 
 正在尝试做github预览的自动换行
 
+https://gitlocalize.com/repo/5720 参与汉化
+
 ## 依赖
 
 本项目使用了这个工具
