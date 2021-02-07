@@ -1,6 +1,6 @@
 #!/bin/bash
 
-output_file=index.md
+output_file=readme.md
 
 echo '# vndb标签中英对照表' > $output_file
 echo '-------------------------------  |-----------------------------' >> $output_file
