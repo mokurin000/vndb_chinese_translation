@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 work_dir=`mktemp -td XXXXXXXXXX`
 current_dir="`pwd`"
 cd "${work_dir}"
