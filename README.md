@@ -18,8 +18,6 @@ https://crates.io/crates/vndb_tags_get
 
 ## 贡献
 
-fork后修改 tags_cn.txt ，或者直接点击“编辑”后拉“PR”即可。
-
-感谢DeepL的翻译服务。
+到上面的链接进入gitlocalize参与翻译。
 
 ## Contributors
