@@ -1,9 +1,9 @@
-1001 Nights
-100% Completion Bonus
-19th Century
-2000s
+一千零一夜
+100% 完成奖励
+19世纪
+2000年代
 20's
-20th Century
+20世纪
 30's
 40's
 50's
@@ -11,9 +11,9 @@
 70's
 80's
 90's
-Achievements
-Action
-Action Game
+成就
+动作
+动作游戏
 Actor/Actress Protagonist
 Actor Hero
 Actress Heroine
@@ -24,11 +24,11 @@ Adult Breast Feeding
 Adult Hero
 Adult Heroine
 Adult Protagonist
-ADV
+冒险游戏
 African Hero
 African Heroine
 African Protagonist
-Afterlife
+死后生活
 Ahegao
 AI Hero
 AI Heroine
@@ -36,8 +36,8 @@ AI Protagonist
 Airhead Hero
 Airhead Heroine
 Airhead Protagonist
-Airplane
-Airplane Combat
+飞机
+飞机作战
 Albino Hero
 Albino Heroine
 Albino Protagonist
