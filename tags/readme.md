@@ -1,26 +1,26 @@
 Tag | Comment
 --------------------------------  |------------------------------- 
-[Sexual Content](https://vndb.org/g23) | This tag can be used for the games that has <a href=http://en.wikipedia.org/wiki/Sexual_content>erotic content</a>. It is recommended to use its child-tags to provide further details instead when applicable.
-[ADV](https://vndb.org/g32) | In these games, the box with the text occupies only part of the screen, usually at the bottom. This is by far the most common text presentation method.<br><br>If the textbox is not in the same position every time, use the <a href=http://vndb.org/g398>Floating Textbox</a> tag instead of this one.<br><br>If a game uses both <a href=http://vndb.org/g43>full-screen</a> and part-screen textboxes, apply both tags to it.<br><br><a href=http://s.vndb.org/sf/01/6101.jpg>Example 1</a><br><a href=http://s.vndb.org/sf/04/1304.jpg>Example 2</a>
-[Male Protagonist](https://vndb.org/g133) | These games have a male protagonist.
-[School](https://vndb.org/g47) | Use this tag only if you can not identify what kind of a school that the game uses. Otherwise use of the child tags under this one.
-[High Sexual Content](https://vndb.org/g304) | This visual novel has significant amount of sex scenes: about half or more of the playtime is spent on explicit sexual content.
-[No Sexual Content](https://vndb.org/g235) | This game has no sexual and real erotic content at all. It may have some small fan services here and there but those would be at a level that you would normally can see on an anime on TV.
-[Multiple Endings](https://vndb.org/g148) | These games have several different endings.
-[Fantasy](https://vndb.org/g2) | This game features elements and themes from the <a href=http://en.wikipedia.org/wiki/Fantasy>fantasy</a> genre.
-[Romance](https://vndb.org/g96) | Romance plays a large role in these games.
-[Drama](https://vndb.org/g147) | 
-[Nukige](https://vndb.org/g214) | This visual novel is focused on the erotic content, the storyline and characterization (if any) play a secondary role, and only provide setting for the sex-scenes. Plot serves the sex-scenes, not the other way round.
-[Female Protagonist](https://vndb.org/g134) | These games have a female protagonist.
-[Blowjob](https://vndb.org/g916) | The game contains scenes that features <a href=http://en.wikipedia.org/wiki/Blowjob>blowjob</a>.<br><br>A blowjob is oral sex performed upon the penis.
-[Group Sex](https://vndb.org/g179) | This game includes <a href=http://en.wikipedia.org/wiki/Group_sex>group sex</a> scenes.
-[Student Heroine](https://vndb.org/g373) | One or more of this games heroines is a <a href=http://en.wikipedia.org/wiki/Student>student</a>.
-[Protagonist with a Face](https://vndb.org/g728) | This game's protagonist has a face that is visible in CGs and/or <URL=https://vndb.org/g1903>on their sprite(s)</URL>.<br><br>This is a notable difference from the usual VN protagonist with a hidden face- protagonists with hidden faces usually have their hair or a shadow covering their face, their face being barely out of screen on every shot, their eyes not drawn, etc.
-[Darker Sexual Contents](https://vndb.org/g382) | These are the sexual content tags that are not for everyone.
-[Non-penetrative Sex](https://vndb.org/g1094) | The game contains at least one scene that features <a href=http://en.wikipedia.org/wiki/Non-penetrative_sex>Non-penetrative sex</a>.<br><br>Non-penetrative sex is sexual activity without vaginal, anal, or oral penetration, as opposed to penetrative aspects of intercourse, anal sex, or oral sex.
-[High School](https://vndb.org/g48) | Some part of the game takes place in a <a href=http://en.wikipedia.org/wiki/High_school>high school</a>.
-[Sexual Harassment](https://vndb.org/g520) | For games that has elements of <a href=http://en.wikipedia.org/wiki/Sexual_harassment>sexual harassment</a> in their stories.
-[Rape](https://vndb.org/g84) | This game contains scenes of <a href=http://en.wikipedia.org/wiki/Rape>rape</a>. <br><br>Please use the specific child tag to mark the rape scenes in the game, so users that want to avoid/seek such content can make use of the tagging feature fully.
+[性爱内容]](https://vndb.org/g23) |  此标签可用于具有<a href=https://en.wanweibaike.com/wiki-Sexual_content>性爱内容</a>的游戏。
+[冒险游戏](https://vndb.org/g32) | 在这些游戏中，文本框只占据了屏幕的一部分，通常在底部。<br><br>如果文本框不是每次都在同一个位置，请使用<a href=http://vndb.org/g398>浮动文本框</a>标签来代替。 <br>如果一个游戏同时使用 <a href=http://vndb.org/g43>全屏</a>和部分屏幕文本框，请同时应用这两个标记。<br><br><a href=http://s.vndb.org/sf/01/6101.jpg>示例 1</a> <a href=http://s.vndb.org/sf/04/1304.jpg>示例 2</a>
+[男主角](https://vndb.org/g133) | 这些游戏有男主角。
+[校园](https://vndb.org/g47) | 只有当你不能确定游戏使用的是什么样的学校时，才使用这个标签。否则使用本标签下的子标签。
+[高性爱内容](https://vndb.org/g304) | 这部视觉小说有相当多的性爱场面：约有一半以上的游戏时间用于明确的性内容。
+[无性爱](https://vndb.org/g235) | 这款游戏完全没有性和真正的情色内容。它可能会有一些小的杀必死，但这些将在一个水平，你通常可以在电视上的动画看到。
+[多结局](https://vndb.org/g148) | 这些游戏有几种不同的结局。
+[奇幻]](https://vndb.org/g2) | 此游戏的特点元素及主题为<a href=https://www.wanweibaike.com/wiki-奇幻作品>奇幻作品</a>类型。
+[浪漫](https://vndb.org/g96) | 浪漫（恋爱）在这些游戏中扮演着重要角色。
+[戏剧](https://vndb.org/g147) | 无
+[拔作](https://vndb.org/g214) | 这部视觉小说的重点是情色内容，故事情节和人物形象（如果有的话）是次要的，只是为性爱场景提供背景。情节是为性爱场景服务的，而不是相反。
+[女主角](https://vndb.org/g134) | 这些游戏有女主角。
+[口交](https://vndb.org/g916) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/口交>口交</a>场景。<br>口交是指对阴茎进行口腔性交。
+[群交]](https://vndb.org/g179) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/群交>群交</a> 场景。
+[学生女主](https://vndb.org/g373) | 这个游戏的一个或多个女主角是一个<a href=https://www.wanweibaike.com/wiki-学生>学生</a>。
+[主角长脸](https://vndb.org/g728) | 这款游戏的主角的脸在CG中和/或</a href=https://vndb.org/g1903>在他们的拼合图</a>上都是可见的。<br>这与一般VN主角的隐藏脸有明显的区别……隐藏脸的主角通常会有头发或阴影遮住脸，每次拍摄时脸几乎不在屏幕上，眼睛也没有画出来等等。
+[阴暗的性爱内容](https://vndb.org/g382) | 这些都是不是每个人都能接受的性内容标签。
+[非插入式性行为](https://vndb.org/g1094) | 此游戏含有至少一个<a href=https://www.wanweibaike.com/wiki-非插入式性行为>非插入式性行为</a>场景。<br>非插入性性行为是指没有阴道、肛门或口腔插入的性活动，与性交、肛交或口交的插入性相对。
+[高中](https://vndb.org/g48) | 游戏的某些部分发生在<a href=https://www.wanweibaike.com/wiki-高中>高中</a>里。
+[性骚扰](https://vndb.org/g520) | 故事中含有<a href=https://www.wanweibaike.com/wiki-性骚扰>性骚扰</a>元素的游戏。
+[强奸](https://vndb.org/g84) | 本游戏包含<a href=https://www.wanweibaike.com/wiki-强奸>强奸</a>的场景。<br>请使用特定的子标签来标记游戏中的强奸场景，以便想要避免/寻找这类内容的用户充分使用标签功能。
 [Other Gameplay Elements](https://vndb.org/g21) | These are the tags about <a href=http://en.wikipedia.org/wiki/Gameplay>gameplay</a> elements not found in traditional VNs.
 [Doggy Style](https://vndb.org/g1297) | <a href=http://en.wikipedia.org/wiki/Doggy_style>Doggy style</a> or doggie style is sexual intercourse usually involving a receiving partner crouching on all fours while a penetrative partner sexually penetrates the vagina or the anus from behind or performs other sex acts.
 [Fictional Beings](https://vndb.org/g202) | This visual novel contains creatures and/or beings not found in the real world.
