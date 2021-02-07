@@ -78,21 +78,21 @@ Anal Grapeshot	|	Anal Grapeshot
 Anal Masturbation	|	Anal Masturbation
 Anal Penetration not applicable	|	Anal Penetration not applicable
 Anal Plug Tail	|	Anal Plug Tail
-Anal Rape	|	Anal Rape
-Anal Sex	|	Anal Sex
-Anal Toys	|	Anal Toys
+Anal Rape	|	肛奸
+Anal Sex	|	肛交
+Anal Toys	|	肛门玩具，肛门的玩具
 Anal Vore	|	Anal Vore
 Ancient Rome	|	Ancient Rome
 Androphobic Heroine	|	Androphobic Heroine
 Angel Hero	|	Angel Hero
 Angel Heroine	|	Angel Heroine
 Angel Protagonist	|	Angel Protagonist
-Angels	|	Angels
+Angels	|	天使
 Anilingus	|	Anilingus
 Animal Cosplay not applicable	|	Animal Cosplay not applicable
 Animal Cruelty	|	Animal Cruelty
 Animal Protagonist	|	Animal Protagonist
-Animals	|	Animals
+Animals	|	动物，兽，兽人，兽耳
 Animated Ending	|	Animated Ending
 Announcer Heroine	|	Announcer Heroine
 Anthology	|	Anthology
@@ -155,9 +155,9 @@ Babysitting	|	Babysitting
 Background Moans	|	Background Moans
 Backlog Jump	|	Backlog Jump
 Back Skip Function	|	Back Skip Function
-Bad Ending(s)	|	Bad Ending(s)
-Bad Endings with Story	|	Bad Endings with Story
-Bad True End	|	Bad True End
+Bad Ending(s)	|	坏结局，BE
+Bad Endings with Story	|	坏结局有剧情
+Bad True End	|	坏真结局
 Baker Hero	|	Baker Hero
 Baker Heroine	|	Baker Heroine
 Baker Protagonist	|	Baker Protagonist
@@ -318,8 +318,8 @@ Castration	|	Castration
 Catboy Hero	|	Catboy Hero
 Cat Cosplay	|	Cat Cosplay
 Catgirl Heroine	|	Catgirl Heroine
-Catgirl Support Character	|	如果游戏中出现了一个不是女主角或主角的猫娘，就用这个标签。
-Cats	|	这款游戏有一只或多只猫（娘）在故事中担任重要角色。或者是在很多场景上都有猫（娘）的身影，并有多句与之相关的对话。
+Catgirl Support Character	|	猫娘配角
+Cats	|	猫（娘）
 Celestial Body Hero	|	Celestial Body Hero
 Celestial Body Heroine	|	Celestial Body Heroine
 Celestial Body Protagonist	|	Celestial Body Protagonist
@@ -390,8 +390,8 @@ Clothed Female Naked Female	|	Clothed Female Naked Female
 Clothed Female Naked Male	|	Clothed Female Naked Male
 Clothed Male Naked Female	|	Clothed Male Naked Female
 Clothed Male Naked Male	|	Clothed Male Naked Male
-Clothing Damage	|	Clothing Damage
-Clothing ON/OFF	|	Clothing ON/OFF
+Clothing Damage	|	衣物破损
+Clothing ON/OFF	|	衣物开关
 Coach Hero	|	Coach Hero
 Coach Heroine	|	Coach Heroine
 Coach Protagonist	|	Coach Protagonist
@@ -567,10 +567,10 @@ Divorcee Hero	|	Divorcee Hero
 Divorcee Heroine	|	Divorcee Heroine
 Divorcee Protagonist	|	Divorcee Protagonist
 Dogboy Hero	|	Dogboy Hero
-Dog Cosplay	|	Dog Cosplay
+Dog Cosplay	|	狗娘cosplay
 Doggirl Heroine	|	Doggirl Heroine
 Doggy Style	|	Doggy Style
-Dogs	|	Dogs
+Dogs	|	狗娘
 Dojikko Heroine	|	Dojikko Heroine
 Domestic Violence	|	Domestic Violence
 Domicile	|	Domicile
@@ -910,7 +910,7 @@ Hate Story	|	Hate Story
 Haunted House	|	Haunted House
 Healer Heroine	|	Healer Heroine
 Healer Protagonist	|	Healer Protagonist
-Health Issues	|	Health Issues
+Health Issues	|	健康问题
 Heian Period	|	Heian Period
 Heisei Era	|	Heisei Era
 Hero Based on a Fictional Person	|	Hero Based on a Fictional Person
@@ -1031,17 +1031,17 @@ Hero with Wings	|	Hero with Wings
 Hetare Protagonist	|	Hetare Protagonist
 Hidden Object Game	|	Hidden Object Game
 Hidden Vibrator	|	Hidden Vibrator
-High Amount of Bad Endings	|	High Amount of Bad Endings
+High Amount of Bad Endings	|	大量坏结局
 High Amount of Special Effects	|	High Amount of Special Effects
 High Amounts of Rape	|	High Amounts of Rape
 High Fantasy	|	High Fantasy
 Highly Animated Sprites	|	Highly Animated Sprites
-High School	|	High School
+High School	|	高中
 High School AU	|	High School AU
 High School Student Hero	|	High School Student Hero
 High School Student Heroine	|	High School Student Heroine
 High School Student Protagonist	|	High School Student Protagonist
-High Sexual Content	|	High Sexual Content
+High Sexual Content	|	大量色情内容，H场景多，
 Hikikomori Hero	|	Hikikomori Hero
 Hikikomori Heroine	|	Hikikomori Heroine
 Hikikomori Protagonist	|	Hikikomori Protagonist
@@ -1062,7 +1062,7 @@ Homunculus Protagonist	|	Homunculus Protagonist
 Homunculus Support Character	|	Homunculus Support Character
 Honey Select based Graphics awaiting moderation	|	Honey Select based Graphics awaiting moderation
 Horror	|	Horror
-Horse	|	Horse
+Horse	|	马
 Hospital	|	Hospital
 Hostage Crisis	|	Hostage Crisis
 Host Club Hero	|	Host Club Hero
@@ -1071,7 +1071,7 @@ Hotblooded Hero	|	Hotblooded Hero
 Hotblooded Heroine	|	Hotblooded Heroine
 Hotblooded Protagonist	|	Hotblooded Protagonist
 Hotblooded Support Character	|	Hotblooded Support Character
-Hotel	|	Hotel
+Hotel	|	旅馆
 Huge Insertion	|	Huge Insertion
 Human Branding	|	Human Branding
 Human Cattle	|	Human Cattle
@@ -1082,7 +1082,7 @@ Identity Crisis	|	Identity Crisis
 Idol Hero	|	Idol Hero
 Idol Heroine	|	Idol Heroine
 Idol Protagonist	|	Idol Protagonist
-Illness	|	Illness
+Illness	|	生病
 Immortal Hero	|	Immortal Hero
 Immortal Heroine	|	Immortal Heroine
 Immortal Protagonist	|	Immortal Protagonist
@@ -1462,73 +1462,6 @@ Naked Dogeza	|	Naked Dogeza
 Naked Heroine with Apron	|	Naked Heroine with Apron
 Naked Sprites	|	Naked Sprites
 Nakige	|	Nakige
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
-Name ▴▾	|	Name ▴▾
 Nameable Character(s)	|	Nameable Character(s)
 Nameable Hero(es)	|	Nameable Hero(es)
 Nameable Heroine(s)	|	Nameable Heroine(s)
@@ -1679,11 +1612,11 @@ Only Avoidable Sex with Others	|	Only Avoidable Sex with Others
 Only Bad End Death of Hero	|	Only Bad End Death of Hero
 Only Bad End Death of Heroine	|	Only Bad End Death of Heroine
 Only Bad End Death of Protagonist	|	Only Bad End Death of Protagonist
-Only Bad Endings	|	Only Bad Endings
+Only Bad Endings	|	仅坏结局
 Only consanguineous heroines awaiting moderation	|	Only consanguineous heroines awaiting moderation
-Only Good Endings	|	Only Good Endings
-Only One Bad Ending	|	Only One Bad Ending
-Only One Good Ending	|	Only One Good Ending
+Only Good Endings	|	仅好结局
+Only One Bad Ending	|	仅一个坏结局
+Only One Good Ending	|	仅一个好结局
 Only Same-Sex Sexual Content not applicable	|	Only Same-Sex Sexual Content not applicable
 Only Seme Heroes	|	Only Seme Heroes
 Only Trap Heroines	|	Only Trap Heroines
@@ -2627,10 +2560,10 @@ Vibrators	|	Vibrators
 Villainous Hero	|	Villainous Hero
 Villainous Heroine	|	Villainous Heroine
 Villainous Protagonist	|	Villainous Protagonist
-Violence	|	Violence
+Violence	|	暴力
 Virtual Reality	|	Virtual Reality
 Visible Cervix Penetration	|	Visible Cervix Penetration
-Vocaloid	|	Vocaloid
+Vocaloid	|	Vocaloid，V家
 Voice Acting not applicable	|	Voice Acting not applicable
 Voiced Commentary	|	Voiced Commentary
 Voiced Default Name	|	Voiced Default Name
