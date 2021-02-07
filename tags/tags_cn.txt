@@ -282,10 +282,10 @@ Brocon Heroine
 Brocon Protagonist
 Brocon Support Character
 Brothel
-Brother/Brother Incest
-Brother/Brother Romance
-Brother/Sister Incest
-Brother/Sister Romance
+兄弟乱伦
+兄弟恋爱
+兄妹乱伦
+兄妹恋爱
 Brother Support Character
 Buddhist Mythology
 Built-in Encyclopedia
@@ -315,8 +315,8 @@ Castration
 Catboy Hero
 Cat Cosplay
 Catgirl Heroine
-Catgirl Support Character
-Cats
+如果游戏中出现了一个不是女主角或主角的猫娘，就用这个标签。
+这款游戏有一只或多只猫（娘）在故事中担任重要角色。或者是在很多场景上都有猫（娘）的身影，并有多句与之相关的对话。
 Celestial Body Hero
 Celestial Body Heroine
 Celestial Body Protagonist
