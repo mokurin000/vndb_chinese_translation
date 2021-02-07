@@ -20,7 +20,7 @@ https://crates.io/crates/vndb_tags_get
 
 <s>到上面的链接进入gitlocalize参与翻译。</s>
 
-https://gitlocalize.com/repo/5721 在这里翻译。（目前是机器翻译，可以提供参考）
+直接修改 readme.md 即可。 
 
 ## Contributors
 
