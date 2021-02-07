@@ -24,9 +24,9 @@ Addict Heroine	|	Addict 女主角	|
 Addict Protagonist	|	Addict 主角	|
 Adolescent Romance	|	Adolescent Romance	|
 Adult Breast Feeding	|	Adult Breast Feeding	|
-Adult Hero	|	Adult 男主角	|
-Adult Heroine	|	Adult 女主角	|
-Adult Protagonist	|	Adult 主角	|
+Adult Hero	|	成年男主角	|
+Adult Heroine	|	成年女主角	|
+Adult Protagonist	|	成年主角	|
 ADV	|	冒险游戏	|
 African Hero	|	African 男主角	|
 African Heroine	|	African 女主角	|
@@ -49,8 +49,8 @@ Alcoholism	|	Alcoholism	|
 Alien Hero	|	外星人男主角	|
 Alien Heroine	|	外星人女主角	|
 Alien Protagonist	|	外星人主角	|
-All Adult Heroes	|	成年男主角	|
-All Adult Heroines	|	成年女主角	|
+All Adult Heroes	|	全成年男主角	|
+All Adult Heroines	|	全成年女主角	|
 All-boys School	|	男子学校，女子学院	|
 All-girls School	|	女子学校，女子学院	|
 All Heroes Are Protagonist's Brothers	|	男主角均为主角的兄弟	|

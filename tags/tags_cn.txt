@@ -21,9 +21,9 @@ Addict 女主角
 Addict 主角
 Adolescent Romance
 Adult Breast Feeding
-Adult 男主角
-Adult 女主角
-Adult 主角
+成年男主角
+成年女主角
+成年主角
 冒险游戏
 African 男主角
 African 女主角
@@ -46,8 +46,8 @@ Alcoholism
 外星人男主角
 外星人女主角
 外星人主角
-成年男主角
-成年女主角
+全成年男主角
+全成年女主角
 男子学校，女子学院
 女子学校，女子学院
 男主角均为主角的兄弟
