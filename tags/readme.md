@@ -1,19 +1,19 @@
 Tag | Comment
 --------------------------------  |------------------------------- 
-[性爱内容]](https://vndb.org/g23) |  此标签可用于具有<a href=https://en.wanweibaike.com/wiki-Sexual_content>性爱内容</a>的游戏。
+[性爱内容](https://vndb.org/g23) |  此标签可用于具有<a href=https://en.wanweibaike.com/wiki-Sexual_content>性爱内容</a>的游戏。
 [冒险游戏](https://vndb.org/g32) | 在这些游戏中，文本框只占据了屏幕的一部分，通常在底部。<br><br>如果文本框不是每次都在同一个位置，请使用<a href=http://vndb.org/g398>浮动文本框</a>标签来代替。 <br>如果一个游戏同时使用 <a href=http://vndb.org/g43>全屏</a>和部分屏幕文本框，请同时应用这两个标记。<br><br><a href=http://s.vndb.org/sf/01/6101.jpg>示例 1</a> <a href=http://s.vndb.org/sf/04/1304.jpg>示例 2</a>
 [男主角](https://vndb.org/g133) | 这些游戏有男主角。
 [校园](https://vndb.org/g47) | 只有当你不能确定游戏使用的是什么样的学校时，才使用这个标签。否则使用本标签下的子标签。
 [高性爱内容](https://vndb.org/g304) | 这部视觉小说有相当多的性爱场面：约有一半以上的游戏时间用于明确的性内容。
 [无性爱](https://vndb.org/g235) | 这款游戏完全没有性和真正的情色内容。它可能会有一些小的杀必死，但这些将在一个水平，你通常可以在电视上的动画看到。
 [多结局](https://vndb.org/g148) | 这些游戏有几种不同的结局。
-[奇幻]](https://vndb.org/g2) | 此游戏的特点元素及主题为<a href=https://www.wanweibaike.com/wiki-奇幻作品>奇幻作品</a>类型。
+[奇幻](https://vndb.org/g2) | 此游戏的特点元素及主题为<a href=https://www.wanweibaike.com/wiki-奇幻作品>奇幻作品</a>类型。
 [浪漫](https://vndb.org/g96) | 浪漫（恋爱）在这些游戏中扮演着重要角色。
 [戏剧](https://vndb.org/g147) | 无
 [拔作](https://vndb.org/g214) | 这部视觉小说的重点是情色内容，故事情节和人物形象（如果有的话）是次要的，只是为性爱场景提供背景。情节是为性爱场景服务的，而不是相反。
 [女主角](https://vndb.org/g134) | 这些游戏有女主角。
 [口交](https://vndb.org/g916) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/口交>口交</a>场景。<br>口交是指对阴茎进行口腔性交。
-[群交]](https://vndb.org/g179) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/群交>群交</a> 场景。
+[群交](https://vndb.org/g179) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/群交>群交</a> 场景。
 [学生女主](https://vndb.org/g373) | 这个游戏的一个或多个女主角是一个<a href=https://www.wanweibaike.com/wiki-学生>学生</a>。
 [主角长脸](https://vndb.org/g728) | 这款游戏的主角的脸在CG中和/或</a href=https://vndb.org/g1903>在他们的拼合图</a>上都是可见的。<br>这与一般VN主角的隐藏脸有明显的区别……隐藏脸的主角通常会有头发或阴影遮住脸，每次拍摄时脸几乎不在屏幕上，眼睛也没有画出来等等。
 [阴暗的性爱内容](https://vndb.org/g382) | 这些都是不是每个人都能接受的性内容标签。
