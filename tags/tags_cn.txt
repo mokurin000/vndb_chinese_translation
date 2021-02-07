@@ -271,13 +271,13 @@ British 主角 awaiting moderation
 Broadcasting Club
 Brocon 女主角
 Brocon 主角
-Brocon Support Character
+Brocon 配角
 Brothel
 兄弟乱伦
 兄弟恋爱
 兄妹乱伦
 兄妹恋爱
-Brother Support Character
+Brother 配角
 Buddhist Mythology
 Built-in Encyclopedia
 Built-in Flowchart
@@ -289,7 +289,7 @@ Businesswoman 女主角
 Butler 男主角
 Butler 女主角
 Butler 主角
-Butler Support Character
+Butler 配角
 Butterflies
 Cafe
 Cannibalism
@@ -328,14 +328,14 @@ Cherry Blossom
 Chikan
 Chikan 女主角
 Chikan 主角
-Childhood Friend Support Character
+Childhood Friend 配角
 Childhood Promise
 Childishly Violent 男主角
 Childishly Violent 女主角
 Childishly Violent 主角
 Child 主角
 Children Ending
-Child Support Character
+Child 配角
 Chinese 男主角
 Chinese 女主角
 Chinese Mythology
@@ -427,10 +427,10 @@ Contemporary Fantasy
 Convention
 Coodere 男主角
 Coodere 女主角
-Cook 男主角
-Cook 女主角
-Cook 主角
-Cook Support Character
+厨师男主角
+厨师女主角
+厨师主角
+厨师配角
 Coprophagia
 Corporations
 Correct Choice Indicator
@@ -438,13 +438,13 @@ Countryside
 Courtroom
 Cousin Incest
 Cousin Romance
-Cousin Support Character
-Cow Cosplay
-Cowgirl
-Cowgirl 女主角
+Cousin 配角
+牛娘cosplay
+牛娘
+牛娘女主角
 Co-worker 男主角
 Co-worker 女主角
-Co-worker Support Character
+Co-worker 配角
 Crime
 Crime Family
 Crippled 女主角
@@ -477,7 +477,7 @@ Dark Skinned 女主角
 Dark Skinned 主角
 Date Display
 Dating Simulation
-Daughter Support Character
+Daughter 配角
 Daydreams
 Death Game awaiting moderation
 Death Note
@@ -544,7 +544,7 @@ Divorcee 女主角
 Divorcee 主角
 Dogboy 男主角
 狗娘cosplay
-Doggirl 女主角
+狗娘女主角
 Doggy Style
 狗娘
 Dojikko 女主角
@@ -650,7 +650,7 @@ Facial Hair Option
 Fairies
 Fairy 男主角
 Fairy 女主角
-Fairy Support Character
+Fairy 配角
 Fairy Tale
 Fake Options
 Falsely Accused
@@ -670,7 +670,7 @@ Fathercon 主角
 Father/Daughter Incest
 Father/Daughter Romance
 Father/Son Incest
-Father Support Character
+Father 配角
 Fear of Death
 Feeder Fetish
 Feet Licking
@@ -713,7 +713,7 @@ Floating Textbox
 Food Discussions
 Food Gokkun
 Foolish Friend
-Foolish Parent Support Character
+Foolish Parent 配角
 Foolish 主角
 Foolish Villain
 Foot Insertion
@@ -748,7 +748,7 @@ Futanari on Female
 Futanari on Futanari
 Futanari on Male
 Futanari 主角
-Futanari Support Character
+Futanari 配角
 Futa on Loli awaiting moderation
 Future
 Future China
@@ -784,7 +784,7 @@ Genital Piercing
 Genius 男主角
 Genius 女主角
 Genius 主角
-Genius Support Character
+Genius 配角
 Genocide
 Genre Savvy 主角
 Genre Shift
@@ -796,7 +796,7 @@ Ghost
 Ghost 男主角
 Ghost 女主角
 Ghost 主角
-Ghost Support Character
+Ghost 配角
 Giant Spider
 Girl x Girl Romance
 Girl x Girl Romance Only
@@ -812,9 +812,9 @@ Gothic Romance
 Government
 Grandfather/Granddaughter Incest
 Grandfather/Grandson Incest
-Grandfather Support Character
+Grandfather 配角
 Grandmother/Grandson Incest
-Grandmother Support Character
+Grandmother 配角
 Graphic Style Change
 Graphic Violence
 Greek Mythology
@@ -997,10 +997,10 @@ Homemaker 主角
 Homicide
 Homosexual 男主角
 Homosexual Male 主角
-Homosexual Support Character
+Homosexual 配角
 Homunculus 女主角
 Homunculus 主角
-Homunculus Support Character
+Homunculus 配角
 Honey Select based Graphics awaiting moderation
 Horror
 马
@@ -1011,7 +1011,7 @@ Host Club 女主角
 Hotblooded 男主角
 Hotblooded 女主角
 Hotblooded 主角
-Hotblooded Support Character
+Hotblooded 配角
 旅馆
 Huge Insertion
 Human Branding
@@ -1106,7 +1106,7 @@ Kemonomimi
 Kemonomimi 男主角
 Kemonomimi 女主角
 Kemonomimi 主角
-Kemonomimi Support Character
+Kemonomimi 配角
 Kendo Club
 Kidnapping
 Kinetic Novel
@@ -1167,14 +1167,14 @@ Living Clothes Sex
 Living Doll 男主角
 Living Doll 女主角
 Living Doll 主角
-Living Doll Support Character
+Living Doll 配角
 Location Display
 Lolicon 男主角
 Lolicon 女主角
 Lolicon 主角
 Loli 女主角
 Loli 主角
-Loli Support Character
+Loli 配角
 Long Common Route
 Long-distance Relationship
 Long Sexual Scenes
@@ -1193,7 +1193,7 @@ Low Sexual Content
 Macho 主角
 Macrophilia
 Madness
-Mad Scientist Support Character
+Mad Scientist 配角
 Mage 男主角
 Mage 女主角
 Mage 主角
@@ -1210,7 +1210,7 @@ Mahou Shounen 男主角
 Mahou Shounen 主角
 Maid 女主角
 Maid 主角
-Maid Support Character
+Maid 配角
 Major Antagonist
 Male Friend
 Male Homosexual NTR
@@ -1243,7 +1243,7 @@ Martial Artist 主角
 Masochist 男主角
 Masochist 女主角
 Masochist 主角
-Masochist Support Character
+Masochist 配角
 Massage Therapist 主角
 Master and Servant
 Masturbation in front of an Audience
@@ -1266,11 +1266,11 @@ Medieval Fantasy
 Medium 女主角
 Meiji Era
 Memory Alteration
-Mentor Support Character
+Mentor 配角
 Mercenary 男主角
 Mercenary 女主角
 Mercenary 主角
-Mercenary Support Character
+Mercenary 配角
 Merchant 主角
 Mermaid 女主角
 Merman 男主角
@@ -1331,7 +1331,7 @@ Monk 男主角
 Monk 女主角
 Monster Birth
 Monster Girl 女主角
-Monster Girl Support Character
+Monster Girl 配角
 Monster 男主角
 Monster 女主角
 Monster Hunter 男主角
@@ -1340,7 +1340,7 @@ Monster Hunter 主角
 Monster 主角
 Monster Rape
 Monsters
-Monster Support Character
+Monster 配角
 Moon
 More Than Seven Endings
 More Than Seven 男主角es
@@ -1348,7 +1348,7 @@ More Than Seven 女主角s
 Mother/Daughter Incest
 Mother/Son Incest
 Mother/Son Romance
-Mother Support Character
+Mother 配角
 Motion Controls
 Mouth Gag
 Movable Text Box
@@ -1493,12 +1493,12 @@ Nude Filter
 Nukige
 Nun 女主角
 Nun 主角
-Nun Support Character
+Nun 配角
 Nurse 男主角
 Nurse 女主角
 Nurse 主角
 Nursery School
-Nurse Support Character
+Nurse 配角
 Nursing Handjob
 NVL
 Nympho 女主角
@@ -1520,7 +1520,7 @@ Ojicon
 Ojousama 女主角
 Ojousama 主角
 Okama 男主角
-Okama Support Character
+Okama 配角
 Onahole
 Oneesan-type 女主角
 One True End
@@ -1636,7 +1636,7 @@ P.E. Teacher 女主角
 P.E. Teacher 主角
 Petplay
 Petrification
-Pet Support Character
+Pet 配角
 Pettanko 女主角
 Pettanko 主角
 Phantom Thieves
@@ -1720,7 +1720,7 @@ Pretending 主角
 Priestess 女主角
 Priest(ess) 主角
 Priest 男主角
-Priest Support Character
+Priest 配角
 Primates
 Prince 主角
 Princess 女主角
@@ -1736,8 +1736,8 @@ Proagonist's Nephew as a 男主角
 Production of Pornography (Amateur)
 Production of Pornography (Drawn)
 Production of Pornography (Professional)
-Programmer 男主角
-Programmer 女主角
+程序员男主角
+程序员女主角
 Prolapse
 Promiscuity
 Promiscuous 女主角
@@ -1746,21 +1746,21 @@ Prostitute 男主角
 Prostitute 女主角
 Prostitute 主角
 Prostitution
-主角 as the Only Female
-主角 as the Only Male
+仅女性主角
+仅男性主角
 主角 Based on a Fictional Person
 主角 Based on a Mythological Character
 主角 Based on Real Person
 主角 from a Different World
 主角 Gender Choice
 主角 in Relationship
-主角's Aunt as a 女主角
-主角's Blood-related Daughter as a 女主角
-主角's Blood-related Mother as a 女主角
-主角's Boss as a 女主角
-主角's Boss as 男主角
-主角's Boyfriend as a 男主角
-主角's Brother as a 男主角
+女主角是主角的姨母
+女主角是主角的亲生女儿
+女主角是主角的生母
+女主角是主角的老板
+男主角是主角的老板
+男主角是主角的男朋友
+男主角是主角的兄弟
 主角's Childhood Friend as a 男主角
 主角's Childhood Friend as a 女主角
 主角's Cousin as a 男主角
@@ -1792,7 +1792,7 @@ Prostitution
 主角's Senpai as a 男主角
 主角's Senpai as a 女主角
 主角's Side Image Toggle
-主角's Sister as a Support Character
+主角's Sister as a 配角
 主角's Sister-in-Law as a 女主角
 主角's Son as a 男主角
 主角's Twin as a 男主角
@@ -1838,10 +1838,10 @@ Public Masturbation
 Puella Magi Madoka Magica
 Puppeteer 女主角
 Pure Love Story
-Puzzle Game
+智力游戏
 Quadruple+ Blowjob
-Queen 女主角
-Queen 主角
+女王女主角
+女王主角
 Quickie
 Quickie Fix Position
 Quick Time Events
@@ -1852,22 +1852,22 @@ Race Driver 主角
 Racing
 Racing Game
 Rags to Riches
-Rain
+雨
 Raising Simulation
 Random Choices
 Randomized Events
-Rape
+强奸
 Rape by Deception
 Rape by Others
 Rape by Possession
-Rape by Proxy
+代理强奸
 Rape by Shota
 Rape Involving Drugs
 Rape on Defeat
 Rape Roleplay
-Rape Victim 男主角
-Rape Victim 女主角
-Rape Victim 主角
+强奸受害男主角
+强奸受害女主角
+强奸受害主角
 Rape with Blackmail
 Rapist 男主角 awaiting moderation
 Rapist 女主角 awaiting moderation
@@ -1884,8 +1884,8 @@ Reiwa Era
 Rejuvenation
 Relationship Chart
 Relationship Problems
-Religious 男主角
-Religious 女主角
+宗教男主角
+宗教女主角
 Religious Location
 Religious Organization
 Remote-controlled Vibrator
@@ -1901,13 +1901,13 @@ Reverse Cowgirl
 Reverse Missionary
 Reverse NTR
 Reverse Piledriver
-Reverse Rape
+倒推
 Reverse Trap 女主角
 Reverse Trap 主角
-Reverse Trap Support Character
+Reverse Trap 配角
 Reversible Yaoi Pairing
-Rhythm Game
-Rich 主角
+节奏游戏，音游，音乐游戏
+富主角
 Rifle Combat
 Rimming Handjob
 Road Trip
@@ -1916,11 +1916,11 @@ Robot 女主角
 Robot 主角
 Robots
 Roguelike
-Romance
+恋爱，浪漫
 Romanceable 主角 Candidate(s)
 Romancing a Family
 Rope Bondage
-Roses
+玫瑰
 Rounin 主角
 Royal 男主角
 Royal 女主角
@@ -1939,7 +1939,7 @@ Sacrifice
 Sadist 男主角
 Sadist 女主角
 Sadist 主角
-Sadist Support Character
+Sadist 配角
 Salaryman 男主角
 Salaryman 主角
 Salesman 主角
@@ -1951,14 +1951,14 @@ Scary 主角
 Scat
 Scat Filter
 Scenario Selection
-School
+校园
 School Art Club
 School Dormitory
 School Festival
 School Life Comedy
-School Nurse 男主角
-School Nurse 女主角
-School Nurse Support Character
+校医男主角，学校护士
+校医女主角
+校医配角
 School Play
 School Sports Club
 School Sports Club Member 男主角
@@ -2024,8 +2024,8 @@ Sexual Content
 Sexual Corruption
 Sexual Cosplay
 Sexual Crucifixion awaiting moderation
-Sexual Devices
-Sexual Devices Used On 主角
+性用具
+对主角使用性用具
 Sexual Fantasizing
 Sexual Hair Eating
 Sexual Harassment
@@ -2065,14 +2065,14 @@ Shopkeeper 女主角
 Shopkeeper 主角
 Short 男主角
 Short 女主角
-Short Sexual Scenes
+Short 色情场景
 Shotacon
 Shotacon 男主角
 Shotacon 女主角
 Shotacon 主角
 Shota 男主角
 Shota 主角
-Shota Support Character
+Shota 配角
 Shouwa Era
 Shy 男主角
 Shy 女主角
@@ -2104,10 +2104,10 @@ Single Leg Legjob
 Single Save Slot
 Siscon 男主角
 Siscon 主角
-Siscon Support Character
+Siscon 配角
 Sister/Sister Incest
 Sister/Sister Romance
-Sister Support Character
+Sister 配角
 Sitting Sex
 Sixty-nine
 Skeleton 男主角
@@ -2127,9 +2127,9 @@ Slice of Life Drama
 Slice of Life Realism
 Slime Monster Rape
 Slums
-Smoker 男主角
-Smoker 女主角
-Smoker 主角
+吸烟男主角
+吸烟女主角
+吸烟主角
 Sniper 女主角
 Sniper 主角
 Snowballing
@@ -2145,8 +2145,8 @@ Sounds of Copulation
 South America
 Space
 Space Pirate 女主角
-Spaceship
-Space Station
+太空船
+太空站
 Specula (Sexual)
 Spelling Errors
 Spontaneous Power-ups
@@ -2224,11 +2224,11 @@ Superheroes
 Superheroine
 Superhero 主角
 Superpowers
-Support Character Based on a Fictional Person
-Support Character Based on Real Person
-Support Character with Ahoge
-Support Character with Kansai Accent
-Support Character with Multiple Personalities
+配角 Based on a Fictional Person
+配角 Based on Real Person
+配角 with Ahoge
+配角 with Kansai Accent
+配角 with Multiple Personalities
 Surreal
 Suspense
 Suspension Bondage
@@ -2242,7 +2242,7 @@ Symbiote / Parasite
 System Time Events
 Tactician 女主角
 Tactician 主角
-Tactician Support Character
+Tactician 配角
 Tailjob
 Taishou Era
 Talking Animal
@@ -2265,7 +2265,7 @@ Tentacle Rape
 Terminal Illness
 Terrorism
 Terrorized by Monsters
-Text-only Sexual Content
+色情内容仅文本
 Text Parser
 Theater
 The Holiday Season
@@ -2286,8 +2286,8 @@ Tile Matching
 Timed Choices
 Time Jump
 Time Loop
-Time Stop
-Time Travel
+时间停止
+时间旅行
 Timid 男主角
 Timid 女主角
 Timid 主角
@@ -2312,13 +2312,13 @@ Transformation Sequence(s)
 Transgender 男主角
 Transgender 女主角
 Transgender 主角
-Transgender Support Character
+Transgender 配角
 Transhumanism
 Transwoman on Male
 Trap 女主角
 Trap on Male
 Trap 主角
-Trap Support Character
+Trap 配角
 Traveler 主角
 Traveller 男主角
 Treasure Hunting
@@ -2331,7 +2331,7 @@ Triple+ Buttjob
 Triple Footjob
 Triple Handjob
 Triplet+ 女主角s
-Triplets as Support Characters
+Triplets as 配角s
 Tsukkomi 女主角
 Tsukkomi 主角
 Tsundere 男主角
@@ -2348,9 +2348,9 @@ Twincest
 Twin Footjob
 Twin Handjob
 Twin+ Legjob
-Twins as Support Characters
+Twins as 配角s
 Twin Sisters as 女主角s
-Twin Sister Support Character
+Twin Sister 配角
 Twin Tail 男主角
 Twin Tail 女主角
 Twitter
@@ -2359,38 +2359,38 @@ Ugly 主角
 Uke 主角
 Unarmed Combat
 Unarmed Fighting 女主角
-Unavoidable Death of 男主角
-Unavoidable Death of 女主角
-Unavoidable Death of 主角
+男主角不可避免的死
+女主角不可避免的死
+主角不可避免的死
 Unavoidable Harem Ending
-Unavoidable 女主角 Rape
-Unavoidable 女主角 Rape by Others
-Unavoidable 女主角 Rape by 主角
-Unavoidable 男主角 Rape
+不可避免的女主角强奸
+不可避免的女主角被他人强奸
+不可避免的女主角被主角强奸
+不可避免的男主角强奸
 Unavoidable Netorare
-Unavoidable 主角 Rape
-Unavoidable Rape
-Unavoidable Rape by Others
+不可避免的主角强奸
+不可避免的强奸
+不可避免的他人强奸
 Unbeknown Incest
 Unbirth
 Uncle/Nephew Incest
 Uncle/Niece Incest
 Uncredited Voice Acting
-Undead
-Undead 男主角
-Undead 女主角
-Undead 主角
+亡灵
+亡灵男主角
+亡灵女主角
+亡灵主角
 Under the Same Roof
 Underwater
 Underweight 女主角
 Underworld
 Unicorn
 Unique Routes
-University
-University Student 男主角
-University Student 女主角
-University Student 主角
-Unknown Gender 主角
+大学
+大学学生男主角
+大学学生女主角
+大学学生主角
+未知性别主角
 Unlockable Bonus Content
 Unlockable Choices
 Unlockable Concept Art
@@ -2399,16 +2399,16 @@ Unlockable Event
 Unlockable Fighters
 Unlockable Gallery
 Unlockable Harem Ending
-Unlockable 男主角(ine)
-Unlockable Prologue
-Unlockable 主角
+可解锁男女主角
+可解锁序章
+可解锁主角
 Unlockable Routes
 Unlockable Sexual Content
 Unlockable Side Stories
-Unlock All Scenes Option
-Unnamed 男主角
-Unnamed 女主角
-Unnamed 主角
+解锁所有场景选项
+不具名男主角
+不具名女主角
+不具名主角
 Unreliable Narrator
 Unrequited Love
 Urban Fantasy

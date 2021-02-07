@@ -2,7 +2,7 @@
 
 output_file=readme.md
 
-echo '# vndb标签中英对照表' > $output_file
+echo -e '# vndb标签中英对照表\n\n共 2500 个标签，汉化进度 9%\n\n' > $output_file
 echo -e 'English 英文                     | Chinese 中文                  |注释\n--------------------------------  |-------------------------------  |-----------------------------' >> $output_file
 rm pipe.txt
 for a in {1..`wc tags.txt|gawk '{print $1}'`} 
