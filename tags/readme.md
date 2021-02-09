@@ -43,7 +43,7 @@ Tag | Comment
 [正常体位](https://vndb.org/g878) | 这些游戏设有正常体位性爱。
 [线性剧情](https://vndb.org/g145) | 线性剧情的游戏有一个静态的主线，它不可能进入传统的、实质上不同的路线.<br>这一类游戏中的许多游戏并不提示玩家选择，而只是照本宣科地讲述故事。然而，这并不是一个规则：游戏也有可能提供选择，但它们对故事本身没有持久的影响。(如《Utawarerumono》)
 [健康问题](https://vndb.org/g167) | 人物的<a href=https://zh.wikipedia.org/wiki/健康>健康</a>问题在这个故事中起到重要作用。
-[室外性爱](https://vndb.org/g1393) | 这类游戏的设有在户外的性爱场景，也就是说，任何没有墙壁、屋顶和地板的地方都可以。<br><br>虽然这个标签看起来和<a href=/g735>公共场所的性爱</a>类似，但它们指的是不同的东西。
+[室外性爱](https://vndb.org/g1393) | 这类游戏的设有在户外的性爱场景，也就是说，任何没有墙壁、屋顶和地板的地方都可以。<br><br>虽然这个标签看起来和<a href=https://vndb.org/g735>公开性爱</a>类似，但它们指的是不同的东西。
 [乱伦](https://vndb.org/g86) | These games contain sex scenes that could be considered <a href=http://en.wikipedia.org/wiki/Incest>incestious</a>. Whether the involved characters are actually blood-related matters not.
 [非人类女主角](https://vndb.org/g123) | At least one of the heroines might look <a href=http://en.wikipedia.org/wiki/Human>human</a>, but she is way more than that...
 [奴役](https://vndb.org/g220) | This game features scenes of <a href=http://en.wikipedia.org/wiki/Bondage_%28sexual%29>性奴役</a>.
@@ -59,7 +59,7 @@ Tag | Comment
 [现代地球](https://vndb.org/g60) | The visual novel is set on modern day <a href=http://en.wikipedia.org/wiki/Earth>Earth</a>.<br>Note: "Modern day" refers to an unspecified time period between the late 20th century and today.
 [组织](https://vndb.org/g28) | The subtags of this metatag are for games in which certain <a href=http://en.wikipedia.org/wiki/Organizations>organizations</a> play an important role - usually because the protagonist and/or his friends/love interests are members of said organizations or are affiliated with them.
 [单结局](https://vndb.org/g146) | These games have only a single ending.
-[公共场所性爱](https://vndb.org/g735) | This story features some sexual acts taking place in a public location, i.e. park, train, school, etc.
+[公开性爱](https://vndb.org/g735) | This story features some sexual acts taking place in a public location, i.e. park, train, school, etc.
 [Lesbian Sex](https://vndb.org/g82) | There are sex scenes involving two (or possibly more) females.
 [Standing Sex](https://vndb.org/g1735) | This game has scenes where characters use the <URL=http://en.wikipedia.org/wiki/Sex_positions#Standing>standing position</URL> during a sexual intercourse scene.<br><br>In the basic standing position, both partners stand facing each other and engage in vaginal sex. In order to match heights, the shorter partner can, for instance, stand on a stair or wear high heels. It may be easier to maintain solid thrusts if the woman has her back to a wall. Alternatively, the penetrating partner stands, and the receiving partner wraps their arms around his neck, and their legs around his waist, thereby exposing either the vagina or anus to the man's penis.
 [六九](https://vndb.org/g894) | Contains scenes in which two (or more) characters perform mutual oral sex on each other.<br><br>Check the related <a href=http://en.wikipedia.org/wiki/69_%28sex_position%29>Wikipedia</a> entry for details.
