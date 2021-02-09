@@ -2,7 +2,7 @@ Tag | Comment
 --------------------------------  |------------------------------- 
 [性爱内容](https://vndb.org/g23) |  此标签可用于具有<a href=https://en.wanweibaike.com/wiki-Sexual_content>性爱内容</a>的游戏。
 [冒险游戏](https://vndb.org/g32) | 在这些游戏中，文本框只占据了屏幕的一部分，通常在底部。<br><br>如果文本框不是每次都在同一个位置，请使用<a href=http://vndb.org/g398>浮动文本框</a>标签来代替。 <br>如果一个游戏同时使用 <a href=http://vndb.org/g43>全屏</a>和部分屏幕文本框，请同时应用这两个标记。<br><br><a href=http://s.vndb.org/sf/01/6101.jpg>示例 1</a> <a href=http://s.vndb.org/sf/04/1304.jpg>示例 2</a>
-[男主角](https://vndb.org/g133) | 这些游戏有男主角。
+[男主角](https://vndb.org/g133) | 这些游戏主人公是男的。
 [校园](https://vndb.org/g47) | 只有当你不能确定游戏使用的是什么样的学校时，才使用这个标签。否则使用本标签下的子标签。
 [高性爱内容](https://vndb.org/g304) | 这部视觉小说有相当多的性爱场面：约有一半以上的游戏时间用于明确的性内容。
 [无性爱](https://vndb.org/g235) | 这款游戏完全没有性和真正的情色内容。它可能会有一些小的杀必死，但这些将在一个水平，你通常可以在电视上的动画看到。
@@ -11,7 +11,7 @@ Tag | Comment
 [浪漫](https://vndb.org/g96) | 浪漫（恋爱）在这些游戏中扮演着重要角色。
 [戏剧](https://vndb.org/g147) | 无
 [拔作](https://vndb.org/g214) | 这部视觉小说的重点是情色内容，故事情节和人物形象（如果有的话）是次要的，只是为性爱场景提供背景。情节是为性爱场景服务的，而不是相反。
-[女主角](https://vndb.org/g134) | 这些游戏有女主角。
+[女主角](https://vndb.org/g134) | 这些游戏主人公是女的。
 [口交](https://vndb.org/g916) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/口交>口交</a>场景。<br>口交是指对阴茎进行口腔性交。
 [群交](https://vndb.org/g179) | 此游戏含有<a href=https://zh.wikipedia.org/wiki/群交>群交</a> 场景。
 [学生女主](https://vndb.org/g373) | 这个游戏的一个或多个女主角是一个<a href=https://www.wanweibaike.com/wiki-学生>学生</a>。
@@ -21,40 +21,40 @@ Tag | Comment
 [高中](https://vndb.org/g48) | 游戏的某些部分发生在<a href=https://www.wanweibaike.com/wiki-高中>高中</a>里。
 [性骚扰](https://vndb.org/g520) | 故事中含有<a href=https://www.wanweibaike.com/wiki-性骚扰>性骚扰</a>元素的游戏。
 [强奸](https://vndb.org/g84) | 本游戏包含<a href=https://www.wanweibaike.com/wiki-强奸>强奸</a>的场景。<br>请使用特定的子标签来标记游戏中的强奸场景，以便想要避免/寻找这类内容的用户充分使用标签功能。
-[其他游戏元素](https://vndb.org/g21) | These are the tags about <a href=http://en.wikipedia.org/wiki/Gameplay>gameplay</a> elements not found in traditional VNs.
-[后入体位](https://vndb.org/g1297) | <a href=http://en.wikipedia.org/wiki/Doggy_style>Doggy style</a> or doggie style is sexual intercourse usually involving a receiving partner crouching on all fours while a penetrative partner sexually penetrates the vagina or the anus from behind or performs other sex acts.
-[虚构人物](https://vndb.org/g202) | This visual novel contains creatures and/or beings not found in the real world.
-[牛女](https://vndb.org/g1581) | <a href=http://en.wikipedia.org/wiki/Woman_on_top_%28sex_position%29>Cowgirl</a> is the name of a group of sex positions in which the man lies on his back or sits, the woman straddles him and they face each other, and the vagina or anus of the receiving partner is aligned with the phallus of the inserting partner to achieve penetration.<br><br><a href=http://upload.wikimedia.org/wikipedia/commons/8/84/Wiki-cowgirl.png>NSFW example</a><br><br>Note: If the participants face away from its each other, then use the <a href=http://vndb.org/g1582>Reverse Cowgirl</a> tag instead.
-[破处](https://vndb.org/g733) | This game has one or more scenes of losing one's virginity or <a href=http://en.wikipedia.org/wiki/Defloration#Loss_of_virginity>defloration</a>. Usually includes blood and long winded discussions about it.
-[虐恋](https://vndb.org/g1117) | This game features one or more scenes featuring <a href=http://en.wikipedia.org/wiki/BDSM>BDSM</a>.<br><br>BDSM is a type of roleplay or lifestyle choice between two or more individuals who use their experiences of pain and power to create sexual tension, pleasure, and release. The compound acronym, BDSM, is derived from the terms bondage and discipline (B&D, B/D, or BD), dominance and submission (D&s, D/s, or Ds), sadism and masochism (S&M, S/M, or SM).
-[学生主角](https://vndb.org/g544) | The protagonist is attending school during the course of the story.
-[巨乳女主](https://vndb.org/g533) | One or more heroines of this VN have big, huge or gigantic breasts.
-[性用具](https://vndb.org/g720) | This story features multiple scenes involving sexual devices or <a href=http://en.wikipedia.org/wiki/Sex_toys>sex toys</a>.
-[地球](https://vndb.org/g52) | The game takes place on our own planet. Most continents, countries and cities featured are portrayed as they are or have been on <a href=http://en.wikipedia.org/wiki/Earth>Earth</a>. Stories set in ficticious cities based on real cities in recognised countries take place on Earth.
-[高中生女主](https://vndb.org/g3171) | At least one of the heroines is an high school student.
-[喜剧](https://vndb.org/g104) | Comedy is an important element of these games.
-[Group Sex of One Male and Several Females](https://vndb.org/g357) | This game includes group sex scenes including the named combination.
-[Anal Penetration](https://vndb.org/g749) | This game features at least one sex scene containing a character being anally penetrated in some way.
-[乳交](https://vndb.org/g751) | The game contains at least one scene that features <a href=http://en.wikipedia.org/wiki/Titfuck>titty fucking</a>.<br><br>A boobjob involves the stimulation of the male penis by the female breasts.
-[有坏结局](https://vndb.org/g672) | The game has at least one bad ending. The nature and the number of the bad ending(s) can vary.
-[现代](https://vndb.org/g143) | The game is set in the current day.
-[语音回放](https://vndb.org/g1556) | The game features an option for replaying the voice.
-[Cunnilingus](https://vndb.org/g1190) | These visual novels have at least one scene of <a href=http://en.wikipedia.org/wiki/Cunnilingus>cunnilingus</a> (oral stimulation of the female genitals).
-[正常体位](https://vndb.org/g878) | This game features sex in the <a href=http://en.wikipedia.org/wiki/Missionary_position>Missionary Position</a>.
-[线性剧情](https://vndb.org/g145) | A game with a linear plot has a static main storyline; it is not possible to get into traditional, substantially different routes.<br><br>Many games in this category do not prompt the player with choices and simply tell the story as it is. This is, however, not a rule: it is also possible for a game to provide choices, but they have no lasting influence on the story itself. (e.g. Utawarerumono)
-[健康问题](https://vndb.org/g167) | Problems regarding the <a href=http://en.wikipedia.org/wiki/Health>health</a> of its characters play an important role in this story.
-[室外性爱](https://vndb.org/g1393) | These games feature sexual scenes in an outdoor area. That is, any area not enclosed by walls, a roof and a floor.<br><br>Although this tag may seem similar to <a href=/g735>Sex in Public Places</a>, they refer to different things.
+[其他游戏元素](https://vndb.org/g21) | 这些是关于<a href=http://en.wikipedia.org/wiki/Gameplay>游戏玩法</a>元素的标签，在传统的虚拟小说中找不到。
+[后入体位](https://vndb.org/g1297) | 一种性行为，通常涉及到接受者四肢伏地，而插入者从后面插入阴道或肛门，或进行其他性行为。
+[虚构人物](https://vndb.org/g202) | 这部视觉小说包含了现实世界中没有的生物和/或生命。
+[牛女](https://vndb.org/g1581) | 牛女是一组性爱姿势的名称，其中男人仰卧或坐着，女人跨在他身上，他们面对面，接受者的阴道或肛门与插入者的阳具对准，以实现插入。 <br><a href=http://upload.wikimedia.org/wikipedia/commons/8/84/Wiki-cowgirl.png>NSFW 例</a><br>注：如果参与者面对面远离其对方，则使用<a href=http://vndb.org/g1582>反面牛郎</a>标签代替。
+[破处](https://vndb.org/g733) | 游戏有一个以上破处场景。通常带血，而且有很长的描述。
+[虐恋](https://vndb.org/g1117) | 游戏含设有<a href=http://en.wikipedia.org/wiki/BDSM>BDSM</a>的一个或多个场景。<br>BDSM是一种角色扮演或生活方式的选择，在两个或两个以上的人之间，他们利用他们的痛苦和权力的体验来创造性的紧张，快乐和释放。BDSM这个复合首字母缩写词来自于捆绑和惩戒（B&D，B/D，或BD）、支配和服从（D&s，D/s，或Ds）、虐待和受虐（S&M，S/M，或SM）等术语。
+[学生主角](https://vndb.org/g544) | 故事过程中，主人公正在上学。
+[巨乳女主](https://vndb.org/g533) | 这样的虚拟小说的一个以上巨乳女主。
+[性用具](https://vndb.org/g720) | 故事有多处涉及性用具或<a href=https://zh.wikipedia.org/wiki/性玩具>性玩具</a>的场景。
+[地球](https://vndb.org/g52) | 游戏发生在我们的星球上。大多数大陆、国家和城市都是按照<a href=https://zh.wikipedia.org/wiki/地球>地球</a>上的样子来描绘的。故事发生在地球上的虚构城市，以公认国家的真实城市为基础。
+[高中生女主](https://vndb.org/g3171) | 女主角中至少有一个是高中生。
+[喜剧](https://vndb.org/g104) | 喜剧是这些游戏的重要元素。
+[一男多女群交](https://vndb.org/g357) | 这个游戏包括这种组合的群交场景。
+[肛门穿刺](https://vndb.org/g749) | 游戏至少有一个性爱场景包含一个角色以某种方式被插入肛门。
+[乳交](https://vndb.org/g751) | 游戏中至少有一个场景是以<a href=https://zh.wikipedia.org/wiki/乳交>乳交</a>为特色的。<br><br>乳交是指男性阴茎受到女性乳房的刺激。
+[有坏结局](https://vndb.org/g672) | 游戏至少有一个坏结局。坏结局的性质和数量可能会有所不同。
+[现代](https://vndb.org/g143) | 游戏的背景是现今。
+[语音回放](https://vndb.org/g1556) | 游戏中设有重播语音的选项。
+[舔阴](https://vndb.org/g1190) | 这些视觉小说至少有一个< href=https://zh.wikipedia.org/wiki/舐陰>舔阴</a>（女性生殖器口交刺激）的场景。
+[正常体位](https://vndb.org/g878) | 这些游戏设有正常体位性爱。
+[线性剧情](https://vndb.org/g145) | 线性剧情的游戏有一个静态的主线，它不可能进入传统的、实质上不同的路线.<br>这一类游戏中的许多游戏并不提示玩家选择，而只是照本宣科地讲述故事。然而，这并不是一个规则：游戏也有可能提供选择，但它们对故事本身没有持久的影响。(如《Utawarerumono》)
+[健康问题](https://vndb.org/g167) | 人物的<a href=https://zh.wikipedia.org/wiki/健康>健康</a>问题在这个故事中起到重要作用。
+[室外性爱](https://vndb.org/g1393) | 这类游戏的设有在户外的性爱场景，也就是说，任何没有墙壁、屋顶和地板的地方都可以。<br><br>虽然这个标签看起来和<a href=/g735>公共场所的性爱</a>类似，但它们指的是不同的东西。
 [乱伦](https://vndb.org/g86) | These games contain sex scenes that could be considered <a href=http://en.wikipedia.org/wiki/Incest>incestious</a>. Whether the involved characters are actually blood-related matters not.
 [非人类女主角](https://vndb.org/g123) | At least one of the heroines might look <a href=http://en.wikipedia.org/wiki/Human>human</a>, but she is way more than that...
 [奴役](https://vndb.org/g220) | This game features scenes of <a href=http://en.wikipedia.org/wiki/Bondage_%28sexual%29>性奴役</a>.
-[Mystery](https://vndb.org/g19) | This game features elements and themes related to the <a href=http://en.wikipedia.org/wiki/Mystery_fiction>mystery</a> genre.<br><br>A mystery is a story whose plot involves a crime or other event that remains puzzlingly unsettled until the very end.
-[Changing Perspective](https://vndb.org/g632) | While most games stick to the perspective of a single lead character, some use more then one lead and some switch to the other characters' <a href=http://en.wikipedia.org/wiki/Point_of_view_%28literature%29>point of view</a> from time to time.
-[Otome Game](https://vndb.org/g542) | A game with a female protagonist, with the central focus on developing a relationship with one or more male characters. These games are usually aimed at a female audience, such as Tokimeki Memorial Girls' Side.<br><br>Note that not all games meant for female players fit this tag, such as yaoi games.
-[手交](https://vndb.org/g917) | The game contains at least one scene that features <a href=http://en.wikipedia.org/wiki/Handjob>handjob</a>.<br><br>A handjob is a slang or informal word denoting the manual stimulation of one partner's penis by another partner, whether female or male, usually to the point of orgasm and ejaculation. What differentiates it from fellatio is the exclusive use of hands, rather than the mouth or a combination of hands and mouth, to rub the penis.<br><br>By contrast, the manual stimulation of a female's sex organ is usually called fingering due to the use of fingers in stimulation of the clitoris and vulva.
+[悬疑](https://vndb.org/g19) | This game features elements and themes related to the <a href=http://en.wikipedia.org/wiki/Mystery_fiction>mystery</a> genre.<br><br>A mystery is a story whose plot involves a crime or other event that remains puzzlingly unsettled until the very end.
+[改变视角](https://vndb.org/g632) | 虽然大多数游戏都保持主角的视角，但有些游戏使用多个主角，有些游戏则不时切换到其他角色的视角。
+[乙女游戏](https://vndb.org/g542) | A game with a female protagonist, with the central focus on developing a relationship with one or more male characters. These games are usually aimed at a female audience, such as Tokimeki Memorial Girls' Side.<br><br>Note that not all games meant for female players fit this tag, such as yaoi games.
+[手交](https://vndb.org/g917) | 游戏包含至少一个场景涉及<a href="https://zh.wikipedia.org/wiki/手交">手交</a>。<br>手交是俚语或非正式语，意味着一位性伴侣（不论男女）人工刺激另一位性伴侣的阴茎，通常达到致使高潮和射精的程度。与口交不同的是，它只用手，而不是用嘴或手和嘴的结合来摩擦阴茎。<br>相比之下，对女性性器官的手动刺激，由于在刺激阴蒂和外阴时使用了手指，通常被称为指交。
 [自慰](https://vndb.org/g1087) | The game contains at least one scene that features <a href=http://en.wikipedia.org/wiki/Masturbation>masturbation</a>.<br><br>Masturbation refers to sexual stimulation of a person's genitals, usually to the point of orgasm.
-[Customization](https://vndb.org/g447) | This game allows you to customize your characters, vehicles and similar. Any detailed customizations beyond the basic picking up (and equipping) items an equipment detail of the usual RPG's can be considered a customization.
-[单女多男群交](https://vndb.org/g358) | This game includes group sex scenes including the named combination.
-[心理问题](https://vndb.org/g253) | Problems regarding the mental <a href=http://en.wikipedia.org/wiki/Health>health</a> of its characters play an important role in this story.
+[自定义](https://vndb.org/g447) | 这款游戏允许你定制你的角色，车辆和类似的东西。除了一般RPG的基本拾取（和装备）物品一个装备的细节之外，任何详细的定制都可以视为自定义。
+[单女多男群交](https://vndb.org/g358) | 这个游戏包括这种组合的群交场景。
+[心理问题](https://vndb.org/g253) | 人物的心理<a href=https://zh.wikipedia.org/wiki/健康>健康</a>问题在这个故事中起到重要作用。
 [指交](https://vndb.org/g1515) | <a href=http://en.wikipedia.org/wiki/Fingering_%28sexual_act%29>Fingering</a> is the manual (genital) manipulation of the clitoris, vulva, vagina, or anus for the purpose of sexual arousal and sexual stimulation. It may constitute the entire sexual encounter or it may be part of mutual masturbation, foreplay or other sexual activities. To "finger oneself" is to masturbate in this manner. It is analogous to a handjob, the manual stimulation of the penis. These activities provide sexual pleasure, whether or not used as non-penetrative or penetrative intercourse.
 [现代地球](https://vndb.org/g60) | The visual novel is set on modern day <a href=http://en.wikipedia.org/wiki/Earth>Earth</a>.<br>Note: "Modern day" refers to an unspecified time period between the late 20th century and today.
 [组织](https://vndb.org/g28) | The subtags of this metatag are for games in which certain <a href=http://en.wikipedia.org/wiki/Organizations>organizations</a> play an important role - usually because the protagonist and/or his friends/love interests are members of said organizations or are affiliated with them.
@@ -62,7 +62,7 @@ Tag | Comment
 [公共场所性爱](https://vndb.org/g735) | This story features some sexual acts taking place in a public location, i.e. park, train, school, etc.
 [Lesbian Sex](https://vndb.org/g82) | There are sex scenes involving two (or possibly more) females.
 [Standing Sex](https://vndb.org/g1735) | This game has scenes where characters use the <URL=http://en.wikipedia.org/wiki/Sex_positions#Standing>standing position</URL> during a sexual intercourse scene.<br><br>In the basic standing position, both partners stand facing each other and engage in vaginal sex. In order to match heights, the shorter partner can, for instance, stand on a stair or wear high heels. It may be easier to maintain solid thrusts if the woman has her back to a wall. Alternatively, the penetrating partner stands, and the receiving partner wraps their arms around his neck, and their legs around his waist, thereby exposing either the vagina or anus to the man's penis.
-[六九]](https://vndb.org/g894) | Contains scenes in which two (or more) characters perform mutual oral sex on each other.<br><br>Check the related <a href=http://en.wikipedia.org/wiki/69_%28sex_position%29>Wikipedia</a> entry for details.
+[六九](https://vndb.org/g894) | Contains scenes in which two (or more) characters perform mutual oral sex on each other.<br><br>Check the related <a href=http://en.wikipedia.org/wiki/69_%28sex_position%29>Wikipedia</a> entry for details.
 [Sitting Sex](https://vndb.org/g1736) | This game has scenes where characters use the  <URL=http://en.wikipedia.org/wiki/Sex_positions#Sitting_and_kneeling>sitting position</URL> during a sexual intercourse scene.<br><br>During the sitting position, The penetrating partner sits on an area surface, legs outstretched. The receiving partner sits on top back towards to the penetrating partner.
 [Nameable Character(s)](https://vndb.org/g2820) | These games have one or more characters whose names can be changed.
 [Single Blowjob](https://vndb.org/g3147) | The game contains scenes that features <a href=http://en.wikipedia.org/wiki/Blowjob>blowjob</a>.<br><br>A blowjob is oral sex performed upon the penis.<br><br><a href=https://s2.vndb.org/sf/24/130924.jpg>NSFW Example 1</a><br><a href=https://s2.vndb.org/sf/26/130926.jpg>NSFW Example 2</a><br><a href=https://s2.vndb.org/sf/25/130925.jpg>NSFW Group Sex Example</a>
@@ -100,10 +100,10 @@ Tag | Comment
 [Tsundere Heroine](https://vndb.org/g602) | This game features one or more heroines that display <a href=http://en.wikipedia.org/wiki/Tsundere>tsundere</a> behavior.<br><br>Tsundere is a Japanese character development process which describes a person who is initially cold and even hostile towards another person before gradually showing their warm side over time.
 [Immortal Heroine](https://vndb.org/g287) | One of the heroines is <a href=http://en.wikipedia.org/wiki/Immortality>immortal</a>, doesn't age or can't be killed through normal means.
 [Divine Beings](https://vndb.org/g492) | All divine entities goes here, angels, demons, gods etc.<br><br>Also includes ones that are touched by them, chosen ones etc.
-[血缘乱伦]](https://vndb.org/g88) | This eroge contains incestual eroscenes with characters that are blood-related.
+[血缘乱伦](https://vndb.org/g88) | This eroge contains incestual eroscenes with characters that are blood-related.
 [Jealousy](https://vndb.org/g1673) | Some characters in this game are jealous when their beloved ones are flirting with other characters or becomes the subjects of flirt themselves, or for other reasons that might cause jealousy in the love relationships.<br><br>Please use this tag only when the jealousy is an important part of the game's plot.
 [兄妹/姐弟乱伦](https://vndb.org/g89) | 这些游戏包含了一个兄弟和他的妹妹之间的性场景。他们可能有也可能没有血缘关系。
-[动作游戏]](https://vndb.org/g12) | This game features elements and themes related to the <a href=http://en.wikipedia.org/wiki/Action_(fiction)>action</a> genre.
+[动作游戏](https://vndb.org/g12) | This game features elements and themes related to the <a href=http://en.wikipedia.org/wiki/Action_(fiction)>action</a> genre.
 [Urination Fetish](https://vndb.org/g689) | This game features one of more sexual scenes involving urination.
 [与怪物做爱](https://vndb.org/g988) | This game features sex scenes involving non-human, non-animal fictional creatures.
 [Side Images](https://vndb.org/g737) | The speaking character's portrait is included at the side of the text box, possibly in addition to an already shown sprite.
