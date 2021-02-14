@@ -71,7 +71,7 @@ Tag | Comment
 [Science Fiction](https://vndb.org/g105) | Science Fiction (Hard or Soft) is an important Element of these games.
 [Vibrators](https://vndb.org/g721) | This story features multiple scenes involving the use of <a href=http://en.wikipedia.org/wiki/Vibrator_(sex_toy)>vibrators</a>.
 [Nameable Protagonist](https://vndb.org/g203) | You can set the name of the protagonist of this game.<br><br>There may or may not be additional voice acting if you use the default name.
-[loli女主](https://vndb.org/g154) | 至少一个女主是萝莉。She's either an underage girl or has the looks of one.<br><br>Her age matters not one bit when it comes to her classification as a loli. This is only about appearance.<br>Refer to the related <a href=http://en.wikipedia.org/wiki/Lolicon>Wikipedia</a> article for details.
+[萝莉女主](https://vndb.org/g154) | 至少一个女主是萝莉。She's either an underage girl or has the looks of one.<br><br>Her age matters not one bit when it comes to her classification as a loli. This is only about appearance.<br>Refer to the related <a href=http://en.wikipedia.org/wiki/Lolicon>Wikipedia</a> article for details.
 [单女主](https://vndb.org/g268) | This game has only a single heroine to interact with, that's all the story is about.
 [Crime](https://vndb.org/g322) | This is a crime story. Or at least have some law and order, crime life etc. themes taking an important role in it.<br><br>Do not use it for games that include one or more criminal acts in them somewhere. The game has to be about a specific crime, like a story about a bank robbery, or the lives of people in the crime world.
 [Adult Heroine](https://vndb.org/g465) | One or more of the heroines in this game are <a href=http://en.wikipedia.org/wiki/Adult>adults</a>.
