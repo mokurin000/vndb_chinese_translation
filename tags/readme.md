@@ -24,7 +24,7 @@ Tag | Comment
 [其他游戏元素](https://vndb.org/g21) | 这些是关于<a href=http://en.wikipedia.org/wiki/Gameplay>游戏玩法</a>元素的标签，在传统的虚拟小说中找不到。
 [后入体位](https://vndb.org/g1297) | 一种性行为，通常涉及到接受者四肢伏地，而插入者从后面插入阴道或肛门，或进行其他性行为。
 [虚构人物](https://vndb.org/g202) | 这部视觉小说包含了现实世界中没有的生物和/或生命。
-[牛女](https://vndb.org/g1581) | 牛女是一组性爱姿势的名称，其中男人仰卧或坐着，女人跨在他身上，他们面对面，接受者的阴道或肛门与插入者的阳具对准，以实现插入。 <br><a href=http://upload.wikimedia.org/wikipedia/commons/8/84/Wiki-cowgirl.png>NSFW 例</a><br>注：如果参与者面对面远离其对方，则使用<a href=http://vndb.org/g1582>反面牛郎</a>标签代替。
+[女上位](https://vndb.org/g1581) | 女上位是一组性爱姿势的名称，其中男人仰卧或坐着，女人跨在他身上，他们面对面，接受者的阴道或肛门与插入者的阳具对准，以实现插入。 <br><a href=http://upload.wikimedia.org/wikipedia/commons/8/84/Wiki-cowgirl.png>NSFW 例</a><br>注：如果参与者面对面远离其对方，则使用<a href=http://vndb.org/g1582>反面女上位</a>标签代替。
 [破处](https://vndb.org/g733) | 游戏有一个以上破处场景。通常带血，而且有很长的描述。
 [虐恋](https://vndb.org/g1117) | 游戏含设有<a href=http://en.wikipedia.org/wiki/BDSM>BDSM</a>的一个或多个场景。<br>BDSM是一种角色扮演或生活方式的选择，在两个或两个以上的人之间，他们利用他们的痛苦和权力的体验来创造性的紧张，快乐和释放。BDSM这个复合首字母缩写词来自于捆绑和惩戒（B&D，B/D，或BD）、支配和服从（D&s，D/s，或Ds）、虐待和受虐（S&M，S/M，或SM）等术语。
 [学生主角](https://vndb.org/g544) | 故事过程中，主人公正在上学。
