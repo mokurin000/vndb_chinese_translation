@@ -20,9 +20,7 @@ https://crates.io/crates/vndb_tags_get
 
 ## 贡献
 
-<s>到上面的链接进入gitlocalize参与翻译。</s>
-
-直接修改 readme.md 即可。 
+见 [contributing.md](contributing.md) 。
 
 ## Contributors
 
