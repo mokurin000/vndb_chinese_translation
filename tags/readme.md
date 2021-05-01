@@ -1,5 +1,6 @@
 Tag | Comment
--------------------------------- |------------------------------- [性爱内容](https://vndb.org/g23) | 此标签可用于具有<a href=https://en.wanweibaike.com/wiki-Sexual_content>性爱内容</a>的游戏。
+-------------------------------- |-------------------------------
+[性爱内容](https://vndb.org/g23) | 此标签可用于具有<a href=https://en.wanweibaike.com/wiki-Sexual_content>性爱内容</a>的游戏。
 [冒险游戏](https://vndb.org/g32) | 在这些游戏中，文本框只占据了屏幕的一部分，通常在底部。<br><br>如果文本框不是每次都在同一个位置，请使用<a href=http://vndb.org/g398>浮动文本框</a>标签来代替。 <br>如果一个游戏同时使用 <a href=http://vndb.org/g43>全屏</a>和部分屏幕文本框，请同时应用这两个标记。<br><br><a href=http://s.vndb.org/sf/01/6101.jpg>示例 1</a> <a href=http://s.vndb.org/sf/04/1304.jpg>示例 2</a>
 [男主角](https://vndb.org/g133) | 这些游戏主人公是男的。
 [校园](https://vndb.org/g47) | 只有当你不能确定游戏使用的是什么样的学校时，才使用这个标签。否则使用本标签下的子标签。
