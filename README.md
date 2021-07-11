@@ -8,7 +8,7 @@ Warning: this project have links refers to NSFW images included
 
 ## 阅读
 
-本项目标签顺序为相关可视小说数量降序排序。
+本项目标签顺序为相关视觉小说数量降序排序。
 
 推荐使用 https://typora.io/ 阅读 Markdown
 
