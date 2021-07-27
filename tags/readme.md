@@ -4,7 +4,7 @@ Tag | Comment
 -------------------------------- |-------------------------------
 [性爱内容](https://vndb.org/g23) | 此标签可用于具有[性爱内容](https://en.wanweibaike.com/wiki-Sexual_content)的游戏。
 [冒险游戏](https://vndb.org/g32) | 在这些游戏中，文本框只占据了屏幕的一部分，通常在底部。<br><br>如果文本框不是每次都在同一个位置，请使用[浮动文本框](http://vndb.org/g398)标签来代替。 <br>如果一个游戏同时使用 [全屏](http://vndb.org/g43)和部分屏幕文本框，请同时应用这两个标记。<br><br>[示例 1](http://s.vndb.org/sf/01/6101.jpg) [示例 2](http://s.vndb.org/sf/04/1304.jpg)
-[男主角](https://vndb.org/g133) | 这些游戏主人公是男的。
+[男主角](https://vndb.org/g133) | 这些游戏主人公是男性。
 [校园](https://vndb.org/g47) | 只有当你不能确定游戏使用的是什么样的学校时，才使用这个标签。否则使用本标签下的子标签。
 [高性爱内容](https://vndb.org/g304) | 这部视觉小说有相当多的性爱场面：约有一半以上的游戏时间用于明确的性内容。
 [无性爱](https://vndb.org/g235) | 这款游戏完全没有性和真正的情色内容。它可能会有一些小的杀必死，但这些将在一个水平，你通常可以在电视上的动画看到。
@@ -18,7 +18,7 @@ Tag | Comment
 [群交](https://vndb.org/g179) | 此游戏含有[群交](https://zh.wikipedia.org/wiki/群交) 场景。
 [学生女主](https://vndb.org/g373) | 这个游戏的一个或多个女主角是一个[学生](https://www.wanweibaike.com/wiki-学生)。
 [主角长脸](https://vndb.org/g728) | 这款游戏的主角的脸在CG中和/或[在他们的拼合图](https://vndb.org/g1903)上都是可见的。<br>这与一般VN主角的隐藏脸有明显的区别……隐藏脸的主角通常会有头发或阴影遮住脸，每次拍摄时脸几乎不在屏幕上，眼睛也没有画出来等等。
-[阴暗的性爱内容](https://vndb.org/g382) | 这些都是不是每个人都能接受的性内容标签。
+[阴暗的性爱内容](https://vndb.org/g382) | 含有并非每个人都能接受的性内容。
 [非插入式性行为](https://vndb.org/g1094) | 此游戏含有至少一个[非插入式性行为](https://www.wanweibaike.com/wiki-非插入式性行为)场景。<br>非插入性性行为是指没有阴道、肛门或口腔插入的性活动，与性交、肛交或口交的插入性相对。
 [高中](https://vndb.org/g48) | 游戏的某些部分发生在[高中](https://www.wanweibaike.com/wiki-高中)里。
 [性骚扰](https://vndb.org/g520) | 故事中含有[性骚扰](https://www.wanweibaike.com/wiki-性骚扰)元素的游戏。
@@ -84,7 +84,7 @@ Tag | Comment
 [怀孕](https://vndb.org/g394) | 故事涉及怀孕.
 [后宫结局](https://vndb.org/g434) | This game has a [harem](http://en.wikipedia.org/wiki/Harem) ending.<br><br>This means you can reach to an ending in which the protagonist is being loved by multiple heroines at the same time. And somehow manages to keep them all without choosing one over.<br><br>This situation can result in both erotic (leading to group sex scenes) and comedy (stuff that you see in all those harem anime) endings.
 [Fighting Heroine](https://vndb.org/g65) | At least one of the heroines of these games is a [warrior](http://en.wikipedia.org/wiki/Warrior). She may be a professional soldier, a self-trained martial artist, a miko with a powerful charms and a sword or maybe a fantasy being. But she can definitely handle herself in a fight.<br><br>A game doesn't need to have scenes of the heroine actually fighting to have this tag. This is more about the characters demeanor than the action scenes.
-[幼驯染女主](https://vndb.org/g201) | One or more of the heroines is a [幼驯染](http://en.wikipedia.org/wiki/Childhood_friend) of the protagonist. (Forgotten) marriage promise optional but common.V
+[幼驯染女主](https://vndb.org/g201) | One or more of the heroines is a [幼驯染](http://en.wikipedia.org/wiki/Childhood_friend) of the protagonist. (Forgotten) marriage promise optional but common.
 [声优](https://vndb.org/g402) | This meta-tag is for housing the tags that detail how the voice acting is used in a game. <br><br>If the protag has voice acting, does heroine lines only partially voiced, or does the game has every line voiced, including characters thoughts and all...
 [Quickie Fix Position](https://vndb.org/g2138) | This character adopts the quickie fix position during a sexual intercourse scene. <br><br>In the quickie fix position, the receiving partner bends at the waist, and rests their hands on piece of furniture, her knees, or the wall for support. The penetrating partner penetrates the receiving partner from behind, and holding their hips as support as they thrust.<br><br>[Example 1](https://s.vndb.org/sf/68/84168.jpg), [Example 2](https://s.vndb.org/sf/70/84170.jpg)
 [Bukkake](https://vndb.org/g1085) | This game features one or more scenes featuring [bukakke](http://en.wikipedia.org/wiki/Bukkake).<br><br>Bukkake refers to scenes featuring a person being ejaculated on by several men, or in some cases a single man over and over. Main point is for the recipients body to be covered with it.
