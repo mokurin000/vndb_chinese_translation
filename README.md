@@ -4,8 +4,6 @@ Warning: this project have links refers to NSFW images included
 
 警告：本项目包含指向NSFW图像的链接
 
-本项目参考了 [EhTagTranslation](https://github.com/EhTagTranslation/Database)。
-
 ## 阅读
 
 本项目标签顺序为相关视觉小说数量降序排序。
