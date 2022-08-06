@@ -51,7 +51,7 @@ Tag | Comment
 [奴役](https://vndb.org/g220) | 游戏有 [性奴役](http://en.wikipedia.org/wiki/Bondage_%28sexual%29)场景。 
 [悬疑](https://vndb.org/g19) | This game features elements and themes related to the [mystery](http://en.wikipedia.org/wiki/Mystery_fiction) genre.<br><br>A mystery is a story whose plot involves a crime or other event that remains puzzlingly unsettled until the very end.
 [改变视角](https://vndb.org/g632) | 虽然大多数游戏都保持主角的视角，但有些游戏使用多个主角，有些游戏则不时切换到其他角色的视角。
-[乙女游戏](https://vndb.org/g542) | 女性为主角的游戏，重点是与一个或更多男性发展关系。这些游戏通常面向女性受众，例如 Tokimeki Memorial Girls' Side。<br><br>注意并非所有面向女性玩家的游戏适合这个标签，例如 yaoi 游戏。
+[乙女游戏](https://vndb.org/g542) | 主角是女性的游戏，重点是与一个或更多男性发展关系。这些游戏通常面向女性受众，例如 Tokimeki Memorial Girls' Side。<br><br>注意并非所有面向女性玩家的游戏适合这个标签，例如 yaoi 游戏。
 [手交](https://vndb.org/g917) | 游戏包含至少一个场景涉及[手交]("https://zh.wikipedia.org/wiki/手交")。<br>手交是俚语或非正式语，意味着一位性伴侣（不论男女）人工刺激另一位性伴侣的阴茎，通常达到致使高潮和射精的程度。与口交不同的是，它只用手，而不是用嘴或手和嘴的结合来摩擦阴茎。<br>相比之下，对女性性器官的手动刺激，由于在刺激阴蒂和外阴时使用了手指，通常被称为指交。
 [自慰](https://vndb.org/g1087) | 游戏包含至少一个 [自慰](http://en.wikipedia.org/wiki/Masturbation)的场景。<br><br>手淫指的是对一个人的生殖器进行性刺激，通常会达到高潮。
 [自定义](https://vndb.org/g447) | 这款游戏允许你定制你的角色，车辆和类似的东西。除了一般RPG的基本拾取（和装备）物品一个装备的细节之外，任何详细的定制都可以视为自定义。
