@@ -36,7 +36,7 @@ Tag | Comment
 [高中生女主](https://vndb.org/g3171) | 女主角中至少有一个是高中生。
 [喜剧](https://vndb.org/g104) | 喜剧是这些游戏的重要元素。
 [一男多女群交](https://vndb.org/g357) | 这个游戏包括这种组合的群交场景。
-[肛门穿刺](https://vndb.org/g749) | 游戏至少有一个性爱场景包含一个角色以某种方式被插入肛门。
+[肛门插入](https://vndb.org/g749) | 游戏至少有一个性爱场景包含一个角色以某种方式被插入肛门。
 [乳交](https://vndb.org/g751) | 游戏中至少有一个场景是以[乳交](https://zh.wikipedia.org/wiki/乳交)为特色的。<br><br>乳交是指男性阴茎受到女性乳房的刺激。
 [有坏结局](https://vndb.org/g672) | 游戏至少有一个坏结局。坏结局的性质和数量可能会有所不同。
 [现代](https://vndb.org/g143) | 游戏的背景是现今。
@@ -63,7 +63,7 @@ Tag | Comment
 [单结局](https://vndb.org/g146) | 游戏只有一个结局 
 [公开性爱](https://vndb.org/g735) | 这个故事描述了在公共场所进行的性行为，例如，公园、列车、学校、等。
 [百合性爱](https://vndb.org/g82) | 涉及两个（或多个）女性性爱 
-[Standing Sex](https://vndb.org/g1735) | This game has scenes where characters use the [standing position](http://en.wikipedia.org/wiki/Sex_positions#Standing) during a sexual intercourse scene.<br><br>In the basic standing position, both partners stand facing each other and engage in vaginal sex. In order to match heights, the shorter partner can, for instance, stand on a stair or wear high heels. It may be easier to maintain solid thrusts if the woman has her back to a wall. Alternatively, the penetrating partner stands, and the receiving partner wraps their arms around his neck, and their legs around his waist, thereby exposing either the vagina or anus to the man's penis.
+[站立性爱](https://vndb.org/g1735) | This game has scenes where characters use the [standing position](http://en.wikipedia.org/wiki/Sex_positions#Standing) during a sexual intercourse scene.<br><br>In the basic standing position, both partners stand facing each other and engage in vaginal sex. In order to match heights, the shorter partner can, for instance, stand on a stair or wear high heels. It may be easier to maintain solid thrusts if the woman has her back to a wall. Alternatively, the penetrating partner stands, and the receiving partner wraps their arms around his neck, and their legs around his waist, thereby exposing either the vagina or anus to the man's penis.
 [六九](https://vndb.org/g894) | Contains scenes in which two (or more) characters perform mutual oral sex on each other.<br><br>Check the related [Wikipedia](http://en.wikipedia.org/wiki/69_%28sex_position%29) entry for details.
 [坐位](https://vndb.org/g1736) | This game has scenes where characters use the [sitting position](http://en.wikipedia.org/wiki/Sex_positions#Sitting_and_kneeling) during a sexual intercourse scene.<br><br>During the sitting position, The penetrating partner sits on an area surface, legs outstretched. The receiving partner sits on top back towards to the penetrating partner.
 [可命名角色](https://vndb.org/g2820) | 这些游戏含有一个或更多角色的名称可以被更改。
