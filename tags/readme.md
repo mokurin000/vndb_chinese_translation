@@ -1,5 +1,3 @@
-# 标签正文
-
 Tag | Comment
 -------------------------------- |-------------------------------
 [性爱内容](https://vndb.org/g23) | 此标签可用于具有[性爱内容](https://en.wanweibaike.com/wiki-Sexual_content)的游戏。
