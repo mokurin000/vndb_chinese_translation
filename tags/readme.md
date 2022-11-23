@@ -43,7 +43,7 @@ Tag | Comment
 [语音回放](https://vndb.org/g1556) | 游戏中设有重播语音的选项。
 [舔阴](https://vndb.org/g1190) | 这些视觉小说至少有一个[舔阴](https://zh.wikipedia.org/wiki/舐陰)（女性生殖器口交刺激）的场景。 
 [正常体位](https://vndb.org/g878) | 这些游戏设有正常体位性爱。
-[线性剧情](https://vndb.org/g145) | 线性剧情的游戏有一个静态的主线，它不可能进入传统的、实质上不同的路线.<br>这一类游戏中的许多游戏并不提示玩家选择，而只是照本宣科地讲述故事。然而，这并不是一个规则：游戏也有可能提供选择，但它们对故事本身没有持久的影响。(如《Utawarerumono》)
+[线性剧情](https://vndb.org/g145) | 线性剧情的游戏有一个静态的主线，你不可能进入传统的、实质上不同的路线.<br>这一类游戏大多并不提示玩家选择，而只是照本宣科地讲述故事。不哦，游戏也有可能提供选择，但它们对故事本身没有持久的影响。(如《Utawarerumono》，《猫娘乐园》)
 [健康问题](https://vndb.org/g167) | 人物的[健康](https://zh.wikipedia.org/wiki/健康)问题在这个故事中起到重要作用。
 [室外性爱](https://vndb.org/g1393) | 这类游戏的设有在户外的性爱场景，也就是说，任何没有墙壁、屋顶和地板的地方都可以。<br><br>虽然这个标签看起来和[公开性爱](https://vndb.org/g735)类似，但它们指的是不同的东西。
 [乱伦](https://vndb.org/g86) | 这些游戏包含可以认为是[乱伦](http://en.wikipedia.org/wiki/Incest)的性爱场景。 Whether the involved characters are actually blood-related matters not.
@@ -67,7 +67,7 @@ Tag | Comment
 [六九](https://vndb.org/g894) | Contains scenes in which two (or more) characters perform mutual oral sex on each other.<br><br>Check the related [Wikipedia](http://en.wikipedia.org/wiki/69_%28sex_position%29) entry for details.
 [坐位](https://vndb.org/g1736) | This game has scenes where characters use the [sitting position](http://en.wikipedia.org/wiki/Sex_positions#Sitting_and_kneeling) during a sexual intercourse scene.<br><br>During the sitting position, The penetrating partner sits on an area surface, legs outstretched. The receiving partner sits on top back towards to the penetrating partner.
 [可命名角色](https://vndb.org/g2820) | 这些游戏含有一个或更多角色的名称可以被更改。
-[Single Blowjob](https://vndb.org/g3147) | The game contains scenes that features [blowjob](http://en.wikipedia.org/wiki/Blowjob).<br><br>A blowjob is oral sex performed upon the penis.<br><br>[NSFW Example 1](https://s2.vndb.org/sf/24/130924.jpg)<br>[NSFW Example 2](https://s2.vndb.org/sf/26/130926.jpg)<br>[NSFW Group Sex Example](https://s2.vndb.org/sf/25/130925.jpg)
+[吮阳](https://vndb.org/g3147) | 该游戏含有涉及对阴茎口交的场景。<br><br>[NSFW Example 1](https://s2.vndb.org/sf/24/130924.jpg)<br>[NSFW Example 2](https://s2.vndb.org/sf/26/130926.jpg)<br>[NSFW Group Sex Example](https://s2.vndb.org/sf/25/130925.jpg)
 [Multiple Penetration](https://vndb.org/g1084) | This game has one or more sexual scenes featuring [multiple penetration](http://en.wikipedia.org/wiki/Double_penetration#Multiple_penetration).<br><br>Multiple penetration refers to one person being sexually penetrated several times simultaneously.
 [Naked Sprites](https://vndb.org/g1446) | This game features naked character sprites.<br><br>This tag is intended to be used in games where a game's characters are shown naked as sprites and not only in CG.
 [科幻](https://vndb.org/g105) | 科幻（硬科幻或者软科幻）是这些游戏中的重要部分。
@@ -78,7 +78,7 @@ Tag | Comment
 [犯罪](https://vndb.org/g322) | This is a crime story. Or at least have some law and order, crime life etc. themes taking an important role in it.<br><br>Do not use it for games that include one or more criminal acts in them somewhere. The game has to be about a specific crime, like a story about a bank robbery, or the lives of people in the crime world.
 [成人女主](https://vndb.org/g465) | 游戏中一个或更多女主是 [成人](https://wanweibaike.com/wiki-成人)。
 [Monsters](https://vndb.org/g996) | This game has one or multiple [monsters](http://en.wikipedia.org/wiki/Monster) taking an important role in the story. Or it has monsters all around on many scenes with multiple lines of dialogs related to them.
-[Branching Plot](https://vndb.org/g606) | This is the anti-thesis of [Linear Plot](http://vndb.org/g145). This story, at some point, will divide into multiple sub-stories.
+[分支剧情](https://vndb.org/g606) | This is the anti-thesis of [Linear Plot](http://vndb.org/g145). This story, at some point, will divide into multiple sub-stories.
 [眼镜娘女主](https://vndb.org/g191) | 一个或多个女主角戴 [眼镜](http://en.wikipedia.org/wiki/Glasses)。 
 [Relationship Problems](https://vndb.org/g169) | This tag is for games that has people in a relationship and having problems keeping that together.
 [怀孕](https://vndb.org/g394) | 故事涉及怀孕.
