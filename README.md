@@ -4,6 +4,10 @@ Warning: this project have links refers to NSFW images included
 
 警告：本项目包含指向NSFW图像的链接
 
+[这边](https://greasyfork.org/en/scripts/442355-vndb%E4%BC%98%E5%85%88%E5%8E%9F%E6%96%87%E5%92%8C%E4%B8%AD%E6%96%87%E5%8C%96)有人做了更完整的翻译
+
+
+
 ## 阅读
 
 本项目标签顺序为相关视觉小说数量降序排序。
