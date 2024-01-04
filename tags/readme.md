@@ -2,7 +2,7 @@ Tag | Comment
 -------------------------------- |-------------------------------
 [性爱内容](https://vndb.org/g23) | 此标签可用于具有[性爱内容](https://en.wanweibaike.com/wiki-Sexual_content)的游戏。
 [冒险游戏](https://vndb.org/g32) | 在这些游戏中，文本框只占据了屏幕的一部分，通常在底部。<br><br>如果文本框不是每次都在同一个位置，请使用[浮动文本框](http://vndb.org/g398)标签来代替。 <br>如果一个游戏同时使用 [全屏](http://vndb.org/g43)和部分屏幕文本框，请同时应用这两个标记。<br><br>[示例 1](http://s.vndb.org/sf/01/6101.jpg) [示例 2](http://s.vndb.org/sf/04/1304.jpg)
-[男主角](https://vndb.org/g133) | 这些游戏主人公是男性。
+[男主人公](https://vndb.org/g133) | 这些游戏主人公是男性。
 [校园](https://vndb.org/g47) | 只有当你不能确定游戏使用的是什么样的学校时，才使用这个标签。否则使用本标签下的子标签。
 [大量性爱内容](https://vndb.org/g304) | 这部视觉小说有相当多的性爱场面：约有一半以上的游戏时间用于明确的性内容。
 [无性爱](https://vndb.org/g235) | 这款游戏完全没有性和真正的情色内容。它可能会有一些小的杀必死，但这些将在一个水平，你通常可以在电视上的动画看到。
@@ -11,7 +11,7 @@ Tag | Comment
 [浪漫](https://vndb.org/g96) | 浪漫（恋爱）在这些游戏中起重要作用。
 [戏剧](https://vndb.org/g147) | 无
 [拔作](https://vndb.org/g214) | 这部视觉小说的重点是情色内容，故事情节和人物形象（如果有的话）是次要的，只是为性爱场景提供背景。情节是为性爱场景服务的，而不是相反。
-[女主角](https://vndb.org/g134) | 这些游戏主人公是女的。
+[女主人公](https://vndb.org/g134) | 这些游戏主人公是女的。
 [口交](https://vndb.org/g916) | 此游戏含有[口交](https://zh.wikipedia.org/wiki/口交)场景。<br>口交是指对阴茎进行口腔性交。
 [群交](https://vndb.org/g179) | 此游戏含有[群交](https://zh.wikipedia.org/wiki/群交) 场景。
 [学生女主](https://vndb.org/g373) | 这个游戏的一个或多个女主角是一个[学生](https://www.wanweibaike.com/wiki-学生)。
