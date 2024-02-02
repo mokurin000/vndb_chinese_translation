@@ -55,34 +55,34 @@ Tag | Comment
 [自定义](https://vndb.org/g447) | 这款游戏允许你定制你的角色，车辆和类似的东西。除了一般RPG的基本拾取（和装备）物品一个装备的细节之外，任何详细的定制都可以视为自定义。
 [单女多男群交](https://vndb.org/g358) | 这个游戏包括这种组合的群交场景。
 [心理问题](https://vndb.org/g253) | 人物的心理[健康](https://zh.wikipedia.org/wiki/健康)问题在这个故事中起到重要作用。
-[指交](https://vndb.org/g1515) | [Fingering](http://en.wikipedia.org/wiki/Fingering_%28sexual_act%29) is the manual (genital) manipulation of the clitoris, vulva, vagina, or anus for the purpose of sexual arousal and sexual stimulation. It may constitute the entire sexual encounter or it may be part of mutual masturbation, foreplay or other sexual activities. To "finger oneself" is to masturbate in this manner. It is analogous to a handjob, the manual stimulation of the penis. These activities provide sexual pleasure, whether or not used as non-penetrative or penetrative intercourse.
-[现代地球](https://vndb.org/g60) | The visual novel is set on modern day [Earth](http://en.wikipedia.org/wiki/Earth).<br>Note: "Modern day" refers to an unspecified time period between the late 20th century and today.
-[组织](https://vndb.org/g28) | The subtags of this metatag are for games in which certain [organizations](http://en.wikipedia.org/wiki/Organizations) play an important role - usually because the protagonist and/or his friends/love interests are members of said organizations or are affiliated with them.
+[指交](https://vndb.org/g1515) | [指交](http://en.wikipedia.org/wiki/Fingering_%28sexual_act%29) 是指以唤起性欲和性刺激为目的，对阴蒂、外阴、阴道或肛门进行手动（性器官）刺激。它可以是一次完整的性接触，也可以作为相互手淫、前戏或者其他性活动的一部分。“用手指和自己做”就是用这种方式自慰。它类似于手淫，即用手刺激阴茎。无论是否用作性交，无论是插入还是非插入，这些活动都能带来性快感。
+[现代地球](https://vndb.org/g60) | 游戏背景建立在现代[地球](http://en.wikipedia.org/wiki/Earth)。<br>注意："现代"是指从 20 世纪末到今天之间未指定的时间段。
+[组织](https://vndb.org/g28) | 这个元标签的子标签适用于某些[组织](http://en.wikipedia.org/wiki/Organizations)在游戏中是重要组成部分 - 通常是因为主角和/或他的朋友/恋人是这些组织的成员或者与他们有关系。
 [单结局](https://vndb.org/g146) | 游戏只有一个结局 
 [公开性爱](https://vndb.org/g735) | 这个故事描述了在公共场所进行的性行为，例如，公园、列车、学校、等。
 [百合性爱](https://vndb.org/g82) | 涉及两个（或多个）女性性爱 
-[站立性爱](https://vndb.org/g1735) | This game has scenes where characters use the [standing position](http://en.wikipedia.org/wiki/Sex_positions#Standing) during a sexual intercourse scene.<br><br>In the basic standing position, both partners stand facing each other and engage in vaginal sex. In order to match heights, the shorter partner can, for instance, stand on a stair or wear high heels. It may be easier to maintain solid thrusts if the woman has her back to a wall. Alternatively, the penetrating partner stands, and the receiving partner wraps their arms around his neck, and their legs around his waist, thereby exposing either the vagina or anus to the man's penis.
-[六九](https://vndb.org/g894) | Contains scenes in which two (or more) characters perform mutual oral sex on each other.<br><br>Check the related [Wikipedia](http://en.wikipedia.org/wiki/69_%28sex_position%29) entry for details.
-[坐位](https://vndb.org/g1736) | This game has scenes where characters use the [sitting position](http://en.wikipedia.org/wiki/Sex_positions#Sitting_and_kneeling) during a sexual intercourse scene.<br><br>During the sitting position, The penetrating partner sits on an area surface, legs outstretched. The receiving partner sits on top back towards to the penetrating partner.
+[站立性爱](https://vndb.org/g1735) | 游戏含有角色使用[站立姿势](http://en.wikipedia.org/wiki/Sex_positions#Standing)性交的场景。 <br><br>在基本站立姿势，双方面对面站立，进行阴道性交。为了匹配身高，矮的一方可以站在楼梯上或者穿着高跟鞋。如果女性背靠墙壁，可能更容易保持扎实的插入。另外，插入的伴侣站立，接受的伴侣用手搂住他的脖子，用腿搂住他的腰，从而将阴道或肛门暴露在男人的阴茎上。
+[六九](https://vndb.org/g894) | 包含那种两个（或更多）角色相互口交的场景。<br><br>更多细节参见[维基百科](http://en.wikipedia.org/wiki/69_%28sex_position%29)。
+[坐位](https://vndb.org/g1736) | 游戏包含角色使用[坐立体位](http://en.wikipedia.org/wiki/Sex_positions#Sitting_and_kneeling)性交的场景。<br><br>在坐立体位中，插入伴侣坐在一个平面上，双腿伸直。接受伴侣坐在上面，背向插入伴侣。
 [可命名角色](https://vndb.org/g2820) | 这些游戏含有一个或更多角色的名称可以被更改。
 [吮阳](https://vndb.org/g3147) | 该游戏含有涉及对阴茎口交的场景。<br><br>[NSFW Example 1](https://s2.vndb.org/sf/24/130924.jpg)<br>[NSFW Example 2](https://s2.vndb.org/sf/26/130926.jpg)<br>[NSFW Group Sex Example](https://s2.vndb.org/sf/25/130925.jpg)
-[Multiple Penetration](https://vndb.org/g1084) | This game has one or more sexual scenes featuring [multiple penetration](http://en.wikipedia.org/wiki/Double_penetration#Multiple_penetration).<br><br>Multiple penetration refers to one person being sexually penetrated several times simultaneously.
+[多重插入](https://vndb.org/g1084) | 游戏包含一个或更多[多重插入](http://en.wikipedia.org/wiki/Double_penetration#Multiple_penetration)场景。<br><br>多重插入指的是一个人同时被多个性器插入。
 [Naked Sprites](https://vndb.org/g1446) | This game features naked character sprites.<br><br>This tag is intended to be used in games where a game's characters are shown naked as sprites and not only in CG.
 [科幻](https://vndb.org/g105) | 科幻（硬科幻或者软科幻）是这些游戏中的重要部分。
 [震动棒](https://vndb.org/g721) | 这个故事多次叙述使用[震动棒](http://en.wikipedia.org/wiki/Vibrator_(sex_toy))的场景。也称按摩棒。
 [可命名主角](https://vndb.org/g203) | 您可以设置主人公的名字。<br><br>默认名有没有附加语音无关紧要。
 [萝莉女主](https://vndb.org/g154) | 至少一个女主是萝莉。她是未成年少女或者长得像未成年少女。<br><br>将她分类的萝莉与她的年龄无关。这只与外表有关。<br>详见 [Wikipedia](http://en.wikipedia.org/wiki/Lolicon)。
 [单女主](https://vndb.org/g268) | 这个游戏只有一个女主角可以互动，并且这就是整个故事。
-[犯罪](https://vndb.org/g322) | This is a crime story. Or at least have some law and order, crime life etc. themes taking an important role in it.<br><br>Do not use it for games that include one or more criminal acts in them somewhere. The game has to be about a specific crime, like a story about a bank robbery, or the lives of people in the crime world.
+[犯罪](https://vndb.org/g322) | 这是一个犯罪故事。 或者至少有一些法律和秩序，犯罪生活等主题是重要组成部分。<br><br>不要将该标签用于在某处包含一种或多重犯罪行为的游戏。游戏必须是关于特定犯罪的，比如关于银行抢劫的故事，或者故事有关生活在犯罪世界中的人们。
 [成人女主](https://vndb.org/g465) | 游戏中一个或更多女主是 [成人](https://wanweibaike.com/wiki-成人)。
-[Monsters](https://vndb.org/g996) | This game has one or multiple [monsters](http://en.wikipedia.org/wiki/Monster) taking an important role in the story. Or it has monsters all around on many scenes with multiple lines of dialogs related to them.
-[分支剧情](https://vndb.org/g606) | This is the anti-thesis of [Linear Plot](http://vndb.org/g145). This story, at some point, will divide into multiple sub-stories.
+[怪物](https://vndb.org/g996) | 游戏包含一个或多个[怪物](http://en.wikipedia.org/wiki/Monster)作为重要组成部分。或者在许多场景中都有怪物，并有多行与之相关的对话。
+[分支剧情](https://vndb.org/g606) | 这是[线性剧情](http://vndb.org/g145)的反义词。该剧情在某处会分为多个子线剧情。
 [眼镜娘女主](https://vndb.org/g191) | 一个或多个女主角戴 [眼镜](http://en.wikipedia.org/wiki/Glasses)。 
-[Relationship Problems](https://vndb.org/g169) | This tag is for games that has people in a relationship and having problems keeping that together.
+[人际关系难题](https://vndb.org/g169) | 这个标签适用于角色人际关系难以维系的游戏。
 [怀孕](https://vndb.org/g394) | 故事涉及怀孕.
-[后宫结局](https://vndb.org/g434) | This game has a [harem](http://en.wikipedia.org/wiki/Harem) ending.<br><br>This means you can reach to an ending in which the protagonist is being loved by multiple heroines at the same time. And somehow manages to keep them all without choosing one over.<br><br>This situation can result in both erotic (leading to group sex scenes) and comedy (stuff that you see in all those harem anime) endings.
-[Fighting Heroine](https://vndb.org/g65) | At least one of the heroines of these games is a [warrior](http://en.wikipedia.org/wiki/Warrior). She may be a professional soldier, a self-trained martial artist, a miko with a powerful charms and a sword or maybe a fantasy being. But she can definitely handle herself in a fight.<br><br>A game doesn't need to have scenes of the heroine actually fighting to have this tag. This is more about the characters demeanor than the action scenes.
-[幼驯染女主](https://vndb.org/g201) | One or more of the heroines is a [幼驯染](http://en.wikipedia.org/wiki/Childhood_friend) of the protagonist. (Forgotten) marriage promise optional but common.
+[后宫结局](https://vndb.org/g434) | 游戏包含一个[后宫](http://en.wikipedia.org/wiki/Harem)结局。<br><br>这意味着你可以达成主角同时被多个女主角所爱的结局。并且不知道为什么，还能把她们都留住，不舍弃任何一个。<br><br>这个情况既可能导致色情结局（导致群交场景），也可能导致喜剧结局（在所有后宫动画中都能看到）。
+[战斗女英雄](https://vndb.org/g65) | 至少有一位女主角是[战士](http://en.wikipedia.org/wiki/Warrior)。她可以是一名职业军人，一名自学的武术家，一名拥有强大符咒和宝剑的巫女，也可以是一个奇幻生物。但是她绝对能在战斗中应对自如。<br><br>包含该标签的游戏不一定要有女主角实际战斗的场景。与动作场面相比，这更多关乎角色的行为举止。
+[幼驯染女主](https://vndb.org/g201) | 一个或更多女主角是主角的[幼驯染](http://en.wikipedia.org/wiki/Childhood_friend)。（被遗忘的）婚约可有可无，但是常见。
 [声优](https://vndb.org/g402) | This meta-tag is for housing the tags that detail how the voice acting is used in a game. <br><br>If the protag has voice acting, does heroine lines only partially voiced, or does the game has every line voiced, including characters thoughts and all...
 [Quickie Fix Position](https://vndb.org/g2138) | This character adopts the quickie fix position during a sexual intercourse scene. <br><br>In the quickie fix position, the receiving partner bends at the waist, and rests their hands on piece of furniture, her knees, or the wall for support. The penetrating partner penetrates the receiving partner from behind, and holding their hips as support as they thrust.<br><br>[Example 1](https://s.vndb.org/sf/68/84168.jpg), [Example 2](https://s.vndb.org/sf/70/84170.jpg)
 [Bukkake](https://vndb.org/g1085) | This game features one or more scenes featuring [bukakke](http://en.wikipedia.org/wiki/Bukkake).<br><br>Bukkake refers to scenes featuring a person being ejaculated on by several men, or in some cases a single man over and over. Main point is for the recipients body to be covered with it.
